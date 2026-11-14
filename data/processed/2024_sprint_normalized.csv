@@ -1,0 +1,121 @@
+season,round,race_name,race_date,circuit_id,circuit_name,driver_id,driver_code,driver_given_name,driver_family_name,constructor_id,constructor_name,grid,position,position_text,points,status,time,milliseconds,fastest_lap_rank,fastest_lap_number,fastest_lap_time,event_key,session
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,1,1,8.0,Finished,32:04.660,1924660,1,3,1:40.331,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,2,2,7.0,Finished,+13.043,1937703,2,3,1:40.420,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,perez,PER,Sergio,Pérez,red_bull,Red Bull,6,3,3,6.0,Finished,+15.258,1939918,7,4,1:41.065,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,7,4,4,5.0,Finished,+17.486,1942146,6,4,1:41.003,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,5,5,5,4.0,Finished,+20.696,1945356,5,4,1:40.962,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,1,6,6,3.0,Finished,+22.088,1946748,4,4,1:40.951,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,piastri,PIA,Oscar,Piastri,mclaren,McLaren,8,7,7,2.0,Finished,+24.713,1949373,8,3,1:41.107,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,russell,RUS,George,Russell,mercedes,Mercedes,11,8,8,1.0,Finished,+25.696,1950356,10,5,1:41.505,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,10,9,9,0.0,Finished,+31.951,1956611,9,4,1:41.502,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,12,10,10,0.0,Finished,+37.398,1962058,13,5,1:42.092,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,14,11,11,0.0,Finished,+37.840,1962500,16,6,1:42.234,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,bottas,BOT,Valtteri,Bottas,sauber,Sauber,9,12,12,0.0,Finished,+38.295,1962955,14,6,1:42.140,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,17,13,13,0.0,Finished,+39.841,1964501,15,4,1:42.191,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,15,14,14,0.0,Finished,+40.299,1964959,17,5,1:42.258,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,16,15,15,0.0,Finished,+40.838,1965498,11,4,1:42.017,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,19,16,16,0.0,Finished,+41.870,1966530,12,4,1:42.056,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,albon,ALB,Alexander,Albon,williams,Williams,18,17,17,0.0,Finished,+42.998,1967658,19,8,1:42.389,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,sargeant,SAR,Logan,Sargeant,williams,Williams,20,18,18,0.0,Finished,+46.352,1971012,20,7,1:42.516,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,13,19,19,0.0,Finished,+49.630,1974290,18,5,1:42.315,2024-5,sprint
+2024,5,Chinese Grand Prix,2024-04-21,shanghai,Shanghai International Circuit,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,3,20,20,0.0,Retired,,1779513,3,3,1:40.537,2024-5,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,1,8.0,Finished,31:31.383,1891383,1,4,1:30.415,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,2,2,7.0,Finished,+3.371,1894754,2,4,1:30.807,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,perez,PER,Sergio,Pérez,red_bull,Red Bull,3,3,3,6.0,Finished,+5.095,1896478,3,19,1:30.921,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,4,4,4,5.0,Finished,+14.971,1906354,5,4,1:31.505,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,5,5,5,4.0,Finished,+15.222,1906605,6,17,1:31.568,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,piastri,PIA,Oscar,Piastri,mclaren,McLaren,6,6,6,3.0,Finished,+15.750,1907133,4,19,1:31.393,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,10,7,7,2.0,Finished,+22.054,1913437,9,8,1:31.963,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,15,8,8,1.0,Finished,+29.816,1921199,8,16,1:31.844,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,16,9,9,0.0,Finished,+31.880,1923263,12,6,1:32.148,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,sargeant,SAR,Logan,Sargeant,williams,Williams,18,10,10,0.0,Finished,+34.355,1925738,14,6,1:32.192,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,17,11,11,0.0,Finished,+35.078,1926461,11,7,1:32.131,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,russell,RUS,George,Russell,mercedes,Mercedes,11,12,12,0.0,Finished,+35.755,1927138,13,8,1:32.173,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,albon,ALB,Alexander,Albon,williams,Williams,20,13,13,0.0,Finished,+36.086,1927469,16,6,1:32.223,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,bottas,BOT,Valtteri,Bottas,sauber,Sauber,19,14,14,0.0,Finished,+36.892,1928275,18,7,1:32.462,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,13,15,15,0.0,Finished,+37.740,1929123,15,19,1:32.218,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,12,16,16,0.0,Finished,+49.347,1940730,7,16,1:31.830,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,8,17,17,0.0,Finished,+59.409,1950792,17,7,1:32.355,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,14,18,18,0.0,Finished,+1:06.303,1957686,10,5,1:32.113,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,7,19,R,0.0,Retired,,,,,,2024-6,sprint
+2024,6,Miami Grand Prix,2024-05-05,miami,Miami International Autodrome,norris,NOR,Lando,Norris,mclaren,McLaren,9,20,R,0.0,Retired,,,,,,2024-6,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,1,8.0,Finished,26:41.389,1601389,3,8,1:09.013,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,2,2,7.0,Finished,+4.616,1606005,2,2,1:08.980,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,norris,NOR,Lando,Norris,mclaren,McLaren,2,3,3,6.0,Finished,+5.348,1606737,1,2,1:08.935,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,russell,RUS,George,Russell,mercedes,Mercedes,4,4,4,5.0,Finished,+8.354,1609743,5,4,1:09.194,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,5,5,5,4.0,Finished,+9.989,1611378,4,4,1:09.121,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,6,6,6,3.0,Finished,+11.207,1612596,6,5,1:09.265,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,10,7,7,2.0,Finished,+13.424,1614813,7,5,1:09.352,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,perez,PER,Sergio,Pérez,red_bull,Red Bull,7,8,8,1.0,Finished,+17.409,1618798,8,4,1:09.420,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,11,9,9,0.0,Finished,+24.067,1625456,9,13,1:09.942,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,12,10,10,0.0,Finished,+30.175,1631564,12,11,1:10.260,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,8,11,11,0.0,Finished,+30.839,1632228,11,9,1:10.254,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,12,12,0.0,Finished,+31.308,1632697,10,10,1:10.168,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,14,13,13,0.0,Finished,+35.452,1636841,13,5,1:10.363,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,16,14,14,0.0,Finished,+39.397,1640786,15,5,1:10.480,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,13,15,15,0.0,Finished,+43.155,1644544,14,5,1:10.393,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,sargeant,SAR,Logan,Sargeant,williams,Williams,15,16,16,0.0,Finished,+44.076,1645465,16,6,1:10.488,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,albon,ALB,Alexander,Albon,williams,Williams,20,17,17,0.0,Finished,+44.673,1646062,18,8,1:10.562,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,bottas,BOT,Valtteri,Bottas,sauber,Sauber,18,18,18,0.0,Finished,+46.511,1647900,19,8,1:10.590,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,17,19,19,0.0,Finished,+48.423,1649812,17,4,1:10.512,2024-11,sprint
+2024,11,Austrian Grand Prix,2024-06-30,red_bull_ring,Red Bull Ring,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,19,20,20,0.0,Finished,+53.143,1654532,20,6,1:10.613,2024-11,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,1,8.0,Finished,31:06.146,1866146,1,19,1:37.463,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,5,2,2,7.0,Finished,+3.882,1870028,2,19,1:37.552,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,norris,NOR,Lando,Norris,mclaren,McLaren,4,3,3,6.0,Finished,+6.240,1872386,5,17,1:38.045,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,4,4,5.0,Finished,+6.956,1873102,4,11,1:37.748,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,russell,RUS,George,Russell,mercedes,Mercedes,2,5,5,4.0,Finished,+15.766,1881912,6,4,1:38.301,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,7,6,6,3.0,Finished,+18.724,1884870,7,17,1:38.372,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,8,7,7,2.0,Finished,+25.161,1891307,9,6,1:38.602,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,6,8,8,1.0,Finished,+26.588,1892734,10,16,1:38.746,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,perez,PER,Sergio,Pérez,red_bull,Red Bull,11,9,9,0.0,Finished,+29.950,1896096,8,19,1:38.452,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,piastri,PIA,Oscar,Piastri,mclaren,McLaren,16,10,10,0.0,Finished,+37.059,1903205,3,19,1:37.567,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,9,11,11,0.0,Finished,+38.363,1904509,12,19,1:39.136,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,colapinto,COL,Franco,Colapinto,williams,Williams,10,12,12,0.0,Finished,+39.460,1905606,16,19,1:39.335,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,13,13,0.0,Finished,+41.236,1907382,18,19,1:39.532,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,12,14,14,0.0,Finished,+41.995,1908141,17,19,1:39.438,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,17,15,15,0.0,Finished,+42.804,1908950,11,7,1:38.835,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,lawson,LAW,Liam,Lawson,rb,RB F1 Team,15,16,16,0.0,Finished,+44.008,1910154,14,7,1:39.237,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,albon,ALB,Alexander,Albon,williams,Williams,20,17,17,0.0,Finished,+44.564,1910710,13,17,1:39.198,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,14,18,18,0.0,Finished,+46.807,1912953,15,18,1:39.250,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,19,19,19,0.0,Finished,+52.842,1918988,20,17,1:39.705,2024-19,sprint
+2024,19,United States Grand Prix,2024-10-20,americas,Circuit of the Americas,bottas,BOT,Valtteri,Bottas,sauber,Sauber,18,20,20,0.0,Finished,+54.476,1920622,19,16,1:39.642,2024-19,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,norris,NOR,Lando,Norris,mclaren,McLaren,2,1,1,8.0,Finished,29:46.045,1786045,6,15,1:11.917,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,piastri,PIA,Oscar,Piastri,mclaren,McLaren,1,2,2,7.0,Finished,+0.593,1786638,3,17,1:11.783,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,3,3,6.0,Finished,+5.656,1791701,5,3,1:11.914,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,4,4,5.0,Finished,+6.497,1792542,4,18,1:11.852,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,5,5,5,4.0,Finished,+7.224,1793269,7,17,1:11.975,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,russell,RUS,George,Russell,mercedes,Mercedes,6,6,6,3.0,Finished,+12.475,1798520,8,12,1:12.142,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,7,7,7,2.0,Finished,+18.161,1804206,9,19,1:12.400,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,perez,PER,Sergio,Pérez,red_bull,Red Bull,13,8,8,1.0,Finished,+18.717,1804762,1,24,1:11.678,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,lawson,LAW,Liam,Lawson,rb,RB F1 Team,8,9,9,0.0,Finished,+20.773,1806818,11,18,1:12.596,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,albon,ALB,Alexander,Albon,williams,Williams,9,10,10,0.0,Finished,+24.606,1810651,2,24,1:11.692,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,11,11,11,0.0,Finished,+29.764,1815809,10,21,1:12.546,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,colapinto,COL,Franco,Colapinto,williams,Williams,14,12,12,0.0,Finished,+33.233,1819278,13,15,1:12.701,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,16,13,13,0.0,Finished,+34.128,1820173,16,16,1:12.882,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,10,14,14,0.0,Finished,+35.507,1821552,17,4,1:12.974,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,17,15,15,0.0,Finished,+41.374,1827419,14,14,1:12.838,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,bottas,BOT,Valtteri,Bottas,sauber,Sauber,15,16,16,0.0,Finished,+43.231,1829276,12,24,1:12.698,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,20,17,17,0.0,Finished,+54.139,1840184,19,3,1:13.559,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,18,18,18,0.0,Finished,+56.537,1842582,18,16,1:13.111,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,19,19,0.0,Finished,+57.983,1844028,20,3,1:13.560,2024-21,sprint
+2024,21,São Paulo Grand Prix,2024-11-03,interlagos,Autódromo José Carlos Pace,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,12,20,R,0.0,Retired,,,15,16,1:12.879,2024-21,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,1,1,8.0,Finished,27:03.010,1623010,8,17,1:24.494,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,1,2,2,7.0,Finished,+0.136,1623146,4,13,1:24.329,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,russell,RUS,George,Russell,mercedes,Mercedes,2,3,3,6.0,Finished,+0.410,1623420,6,18,1:24.380,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,4,4,5.0,Finished,+1.326,1624336,7,16,1:24.405,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,5,5,5,4.0,Finished,+5.073,1628083,1,18,1:23.923,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,7,6,6,3.0,Finished,+5.650,1628660,5,18,1:24.337,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,9,7,7,2.0,Finished,+8.508,1631518,3,18,1:24.284,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,6,8,8,1.0,Finished,+10.368,1633378,10,18,1:24.577,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,8,9,9,0.0,Finished,+14.513,1637523,12,19,1:24.930,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,15,10,10,0.0,Finished,+15.485,1638495,9,18,1:24.568,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,11,11,11,0.0,Finished,+19.204,1642214,2,19,1:24.281,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,bottas,BOT,Valtteri,Bottas,sauber,Sauber,13,12,12,0.0,Finished,+23.351,1646361,16,12,1:25.447,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,14,13,13,0.0,Finished,+24.421,1647431,14,18,1:25.369,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,17,14,14,0.0,Finished,+30.379,1653389,17,19,1:25.598,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,albon,ALB,Alexander,Albon,williams,Williams,12,15,15,0.0,Finished,+33.062,1656072,15,18,1:25.443,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,lawson,LAW,Liam,Lawson,rb,RB F1 Team,10,16,16,0.0,Finished,+34.356,1657366,19,18,1:25.762,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,16,17,17,0.0,Finished,+35.102,1658112,20,17,1:25.838,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,colapinto,COL,Franco,Colapinto,williams,Williams,20,18,18,0.0,Finished,+35.639,1658649,18,18,1:25.599,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,18,19,19,0.0,Finished,+1:11.436,1694446,13,19,1:25.051,2024-23,sprint
+2024,23,Qatar Grand Prix,2024-12-01,losail,Lusail International Circuit,perez,PER,Sergio,Pérez,red_bull,Red Bull,19,20,20,0.0,Finished,+1:14.371,1697381,11,18,1:24.892,2024-23,sprint

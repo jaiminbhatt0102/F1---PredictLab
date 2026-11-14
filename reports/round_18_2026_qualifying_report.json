@@ -1,0 +1,137 @@
+{
+  "event": {
+    "season": 2026,
+    "round": 18,
+    "circuit_id": "americas"
+  },
+  "roster_source": "latest completed event in data/features/race_training.csv",
+  "roster_source_event": {
+    "season": 2026,
+    "round": 17
+  },
+  "roster_size": 22,
+  "training_rows": 3823,
+  "training_seasons": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "selected_model": "gradient_boosting",
+  "feature_choice": {
+    "chosen": "original inputs",
+    "best_model_validation_mae_by_option": {
+      "original inputs": 3.2742417757564675,
+      "plus team pace": 3.2862888982859704
+    },
+    "features": [
+      "season",
+      "round",
+      "driver_prior_mean_qualifying_3",
+      "driver_prior_mean_finish_3",
+      "driver_prior_mean_points_3",
+      "driver_prior_race_count"
+    ]
+  },
+  "rolling_validation": {
+    "extra_trees": {
+      "mean_mae_positions": 3.4013757790954355,
+      "folds": [
+        {
+          "season": 2022,
+          "rows": 440,
+          "mae_positions": 3.390488057909856,
+          "rmse_positions": 4.169435492590855
+        },
+        {
+          "season": 2023,
+          "rows": 440,
+          "mae_positions": 3.506338422883934,
+          "rmse_positions": 4.495503629992202
+        },
+        {
+          "season": 2024,
+          "rows": 479,
+          "mae_positions": 3.307300856492517,
+          "rmse_positions": 4.0903377178992955
+        }
+      ]
+    },
+    "random_forest": {
+      "mean_mae_positions": 3.4341550688780083,
+      "folds": [
+        {
+          "season": 2022,
+          "rows": 440,
+          "mae_positions": 3.401025347324293,
+          "rmse_positions": 4.164656551513825
+        },
+        {
+          "season": 2023,
+          "rows": 440,
+          "mae_positions": 3.6283293119885243,
+          "rmse_positions": 4.5385344206494524
+        },
+        {
+          "season": 2024,
+          "rows": 479,
+          "mae_positions": 3.273110547321207,
+          "rmse_positions": 4.025778189398008
+        }
+      ]
+    },
+    "gradient_boosting": {
+      "mean_mae_positions": 3.2742417757564675,
+      "folds": [
+        {
+          "season": 2022,
+          "rows": 440,
+          "mae_positions": 3.210517560534807,
+          "rmse_positions": 4.008760522014799
+        },
+        {
+          "season": 2023,
+          "rows": 440,
+          "mae_positions": 3.5027614426218223,
+          "rmse_positions": 4.470864735340116
+        },
+        {
+          "season": 2024,
+          "rows": 479,
+          "mae_positions": 3.1094463241127737,
+          "rmse_positions": 3.943760120452617
+        }
+      ]
+    }
+  },
+  "chronological_holdout": {
+    "season": 2025,
+    "training_seasons": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "metrics": {
+      "rows": 478,
+      "mae_positions": 3.3236594081308595,
+      "rmse_positions": 4.193286326905545
+    }
+  },
+  "production_model": "models\\qualifying_position_selected.joblib",
+  "prediction_csv": "reports\\round_18_2026_qualifying_prediction.csv",
+  "caveats": [
+    "The roster is copied from the latest completed event and must be checked against confirmed entries.",
+    "Predicted qualifying order is not an official starting grid.",
+    "The model does not know event-specific practice pace, weather, incidents, or penalties.",
+    "Production model includes all completed qualifying labels available in the training table, including 2026 Round 17."
+  ]
+}

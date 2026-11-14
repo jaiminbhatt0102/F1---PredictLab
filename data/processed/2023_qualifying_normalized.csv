@@ -1,0 +1,441 @@
+season,round,race_name,race_date,circuit_id,circuit_name,driver_id,driver_code,driver_number,driver_given_name,driver_family_name,constructor_id,constructor_name,position,q1,q2,q3,event_key,session
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,2,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,3,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,4,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,5,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,6,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,7,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,8,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,9,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,10,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,11,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,12,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,13,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,14,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,15,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,16,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,17,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,18,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,19,,,,2023-1,qualifying
+2023,1,Bahrain Grand Prix,2023-03-05,bahrain,Bahrain International Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,20,,,,2023-1,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,1,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,2,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,3,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,4,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,5,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,6,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,7,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,8,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,9,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,10,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,11,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,12,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,13,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,14,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,15,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,16,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,17,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,18,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,19,,,,2023-2,qualifying
+2023,2,Saudi Arabian Grand Prix,2023-03-19,jeddah,Jeddah Corniche Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,20,,,,2023-2,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,2,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,3,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,4,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,5,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,6,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,7,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,8,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,9,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,10,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,11,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,12,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,13,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,14,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,15,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,16,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,17,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,18,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,19,,,,2023-3,qualifying
+2023,3,Australian Grand Prix,2023-04-02,albert_park,Albert Park Grand Prix Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,20,,,,2023-3,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,1,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,2,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,3,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,4,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,5,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,6,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,7,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,8,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,9,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,10,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,11,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,12,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,13,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,14,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,15,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,16,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,17,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,18,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,19,,,,2023-4,qualifying
+2023,4,Azerbaijan Grand Prix,2023-04-30,baku,Baku City Circuit,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,20,,,,2023-4,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,1,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,2,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,3,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,4,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,5,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,russell,RUS,63,George,Russell,mercedes,Mercedes,6,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,7,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,8,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,9,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,10,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,albon,ALB,23,Alexander,Albon,williams,Williams,11,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,12,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,13,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,14,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,15,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,norris,NOR,1,Lando,Norris,mclaren,McLaren,16,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,17,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,18,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,19,,,,2023-5,qualifying
+2023,5,Miami Grand Prix,2023-05-07,miami,Miami International Autodrome,sargeant,SAR,2,Logan,Sargeant,williams,Williams,20,,,,2023-5,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,2,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,3,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,4,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,5,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,6,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,7,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,russell,RUS,63,George,Russell,mercedes,Mercedes,8,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,9,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,norris,NOR,1,Lando,Norris,mclaren,McLaren,10,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,11,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,12,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,albon,ALB,23,Alexander,Albon,williams,Williams,13,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,14,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,15,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,sargeant,SAR,2,Logan,Sargeant,williams,Williams,16,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,17,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,18,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,19,,,,2023-6,qualifying
+2023,6,Monaco Grand Prix,2023-05-28,monaco,Circuit de Monaco,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,20,,,,2023-6,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,2,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,norris,NOR,1,Lando,Norris,mclaren,McLaren,3,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,4,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,5,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,6,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,7,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,8,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,9,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,10,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,11,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,russell,RUS,63,George,Russell,mercedes,Mercedes,12,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,13,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,14,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,15,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,16,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,17,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,albon,ALB,23,Alexander,Albon,williams,Williams,18,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,19,,,,2023-7,qualifying
+2023,7,Spanish Grand Prix,2023-06-04,catalunya,Circuit de Barcelona-Catalunya,sargeant,SAR,2,Logan,Sargeant,williams,Williams,20,,,,2023-7,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,2,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,3,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,4,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,russell,RUS,63,George,Russell,mercedes,Mercedes,5,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,6,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,norris,NOR,1,Lando,Norris,mclaren,McLaren,7,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,8,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,9,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,albon,ALB,23,Alexander,Albon,williams,Williams,10,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,11,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,12,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,13,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,14,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,15,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,16,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,17,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,18,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,sargeant,SAR,2,Logan,Sargeant,williams,Williams,19,,,,2023-8,qualifying
+2023,8,Canadian Grand Prix,2023-06-18,villeneuve,Circuit Gilles Villeneuve,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,20,,,,2023-8,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,2,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,3,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,norris,NOR,1,Lando,Norris,mclaren,McLaren,4,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,5,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,6,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,7,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,8,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,9,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,albon,ALB,23,Alexander,Albon,williams,Williams,10,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,russell,RUS,63,George,Russell,mercedes,Mercedes,11,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,12,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,13,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,14,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,15,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,16,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,17,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,sargeant,SAR,2,Logan,Sargeant,williams,Williams,18,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,19,,,,2023-9,qualifying
+2023,9,Austrian Grand Prix,2023-07-02,red_bull_ring,Red Bull Ring,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,20,,,,2023-9,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,2,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,3,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,4,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,5,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,6,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,7,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,8,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,9,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,10,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,11,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,12,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,13,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,14,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,15,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,15,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,16,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,17,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,de_vries,DEV,21,Nyck,de Vries,alphatauri,AlphaTauri,18,,,,2023-10,qualifying
+2023,10,British Grand Prix,2023-07-09,silverstone,Silverstone Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,19,,,,2023-10,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,2,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,norris,NOR,1,Lando,Norris,mclaren,McLaren,3,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,4,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,5,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,6,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,7,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,8,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,9,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,10,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,11,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,12,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,ricciardo,RIC,3,Daniel,Ricciardo,alphatauri,AlphaTauri,13,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,14,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,15,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,albon,ALB,23,Alexander,Albon,williams,Williams,16,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,17,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,russell,RUS,63,George,Russell,mercedes,Mercedes,18,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,19,,,,2023-11,qualifying
+2023,11,Hungarian Grand Prix,2023-07-23,hungaroring,Hungaroring,sargeant,SAR,2,Logan,Sargeant,williams,Williams,20,,,,2023-11,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,2,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,3,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,4,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,5,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,6,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,norris,NOR,1,Lando,Norris,mclaren,McLaren,7,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,russell,RUS,63,George,Russell,mercedes,Mercedes,8,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,9,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,10,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,11,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,12,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,13,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,14,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,15,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,albon,ALB,23,Alexander,Albon,williams,Williams,16,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,17,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,sargeant,SAR,2,Logan,Sargeant,williams,Williams,18,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,ricciardo,RIC,3,Daniel,Ricciardo,alphatauri,AlphaTauri,19,,,,2023-12,qualifying
+2023,12,Belgian Grand Prix,2023-07-30,spa,Circuit de Spa-Francorchamps,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,20,,,,2023-12,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,norris,NOR,1,Lando,Norris,mclaren,McLaren,2,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,russell,RUS,63,George,Russell,mercedes,Mercedes,3,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,albon,ALB,23,Alexander,Albon,williams,Williams,4,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,5,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,6,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,7,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,8,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,9,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,sargeant,SAR,2,Logan,Sargeant,williams,Williams,10,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,11,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,12,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,13,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,14,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,15,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,16,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,17,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,18,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,19,,,,2023-13,qualifying
+2023,13,Dutch Grand Prix,2023-08-27,zandvoort,Circuit Park Zandvoort,lawson,LAW,30,Liam,Lawson,alphatauri,AlphaTauri,20,,,,2023-13,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,1,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,2,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,3,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,russell,RUS,63,George,Russell,mercedes,Mercedes,4,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,5,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,albon,ALB,23,Alexander,Albon,williams,Williams,6,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,7,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,8,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,norris,NOR,1,Lando,Norris,mclaren,McLaren,9,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,10,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,11,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,lawson,LAW,30,Liam,Lawson,alphatauri,AlphaTauri,12,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,13,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,14,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,sargeant,SAR,2,Logan,Sargeant,williams,Williams,15,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,16,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,17,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,18,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,19,,,,2023-14,qualifying
+2023,14,Italian Grand Prix,2023-09-03,monza,Autodromo Nazionale di Monza,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,20,,,,2023-14,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,1,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,2,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,3,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,4,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,5,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,6,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,7,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,8,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,9,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,lawson,LAW,30,Liam,Lawson,alphatauri,AlphaTauri,10,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,11,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,12,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,13,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,14,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,15,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,16,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,17,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,18,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,19,,,,2023-15,qualifying
+2023,15,Singapore Grand Prix,2023-09-17,marina_bay,Marina Bay Street Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,20,,,,2023-15,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,2,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,3,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,4,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,5,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,6,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,7,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,8,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,9,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,10,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,lawson,LAW,30,Liam,Lawson,alphatauri,AlphaTauri,11,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,12,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,13,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,14,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,15,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,16,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,17,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,18,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,19,,,,2023-16,qualifying
+2023,16,Japanese Grand Prix,2023-09-24,suzuka,Suzuka Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,20,,,,2023-16,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,2,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,3,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,4,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,5,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,6,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,7,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,8,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,9,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,10,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,11,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,12,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,13,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,14,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,15,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,16,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,17,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,lawson,LAW,30,Liam,Lawson,alphatauri,AlphaTauri,18,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,19,,,,2023-17,qualifying
+2023,17,Qatar Grand Prix,2023-10-08,losail,Lusail International Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,20,,,,2023-17,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,1,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,norris,NOR,1,Lando,Norris,mclaren,McLaren,2,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,3,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,4,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,russell,RUS,63,George,Russell,mercedes,Mercedes,5,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,6,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,7,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,8,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,9,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,10,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,11,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,12,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,13,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,14,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,ricciardo,RIC,3,Daniel,Ricciardo,alphatauri,AlphaTauri,15,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,16,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,17,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,albon,ALB,23,Alexander,Albon,williams,Williams,18,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,19,,,,2023-18,qualifying
+2023,18,United States Grand Prix,2023-10-22,americas,Circuit of the Americas,sargeant,SAR,2,Logan,Sargeant,williams,Williams,20,,,,2023-18,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,1,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,2,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,3,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,ricciardo,RIC,3,Daniel,Ricciardo,alphatauri,AlphaTauri,4,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,5,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,6,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,7,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,russell,RUS,63,George,Russell,mercedes,Mercedes,8,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,9,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,10,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,11,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,12,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,13,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,albon,ALB,23,Alexander,Albon,williams,Williams,14,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,15,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,16,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,17,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,18,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,norris,NOR,1,Lando,Norris,mclaren,McLaren,19,,,,2023-19,qualifying
+2023,19,Mexico City Grand Prix,2023-10-29,rodriguez,Autódromo Hermanos Rodríguez,sargeant,SAR,2,Logan,Sargeant,williams,Williams,20,,,,2023-19,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,2,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,3,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,4,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,5,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,russell,RUS,63,George,Russell,mercedes,Mercedes,6,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,norris,NOR,1,Lando,Norris,mclaren,McLaren,7,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,8,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,9,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,10,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,11,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,12,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,13,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,14,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,albon,ALB,23,Alexander,Albon,williams,Williams,15,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,16,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,ricciardo,RIC,3,Daniel,Ricciardo,alphatauri,AlphaTauri,17,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,18,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,sargeant,SAR,2,Logan,Sargeant,williams,Williams,19,,,,2023-20,qualifying
+2023,20,São Paulo Grand Prix,2023-11-05,interlagos,Autódromo José Carlos Pace,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,20,,,,2023-20,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,1,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,2,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,3,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,4,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,5,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,6,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,7,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,8,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,9,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,10,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,11,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,12,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,13,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,14,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,ricciardo,RIC,3,Daniel,Ricciardo,alphatauri,AlphaTauri,15,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,16,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,17,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,18,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,19,,,,2023-21,qualifying
+2023,21,Las Vegas Grand Prix,2023-11-19,vegas,Las Vegas Strip Street Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,20,,,,2023-21,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,2,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,3,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,4,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,5,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,6,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,7,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,haas,Haas F1 Team,8,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,9,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,10,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,11,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,12,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,13,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,14,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,ricciardo,RIC,3,Daniel,Ricciardo,alphatauri,AlphaTauri,15,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,16,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,17,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,18,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,19,,,,2023-22,qualifying
+2023,22,Abu Dhabi Grand Prix,2023-11-26,yas_marina,Yas Marina Circuit,sargeant,SAR,2,Logan,Sargeant,williams,Williams,20,,,,2023-22,qualifying

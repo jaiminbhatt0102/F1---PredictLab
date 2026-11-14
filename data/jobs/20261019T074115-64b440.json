@@ -1,0 +1,17 @@
+{
+  "job_id": "20261019T074115-64b440",
+  "op": "fetch_weather_forecast",
+  "label": "Get the weather forecast",
+  "params": {
+    "season": 2026,
+    "round": 18
+  },
+  "status": "succeeded",
+  "created_at_utc": "2026-10-19T07:41:15.870967+00:00",
+  "started_at_utc": "2026-10-19T07:41:15.871062+00:00",
+  "finished_at_utc": "2026-10-19T07:41:18.073745+00:00",
+  "summary": {
+    "message": "Weather forecast saved as a new snapshot."
+  },
+  "error": null
+}

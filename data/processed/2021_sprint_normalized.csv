@@ -1,0 +1,61 @@
+season,round,race_name,race_date,circuit_id,circuit_name,driver_id,driver_code,driver_given_name,driver_family_name,constructor_id,constructor_name,grid,position,position_text,points,status,time,milliseconds,fastest_lap_rank,fastest_lap_number,fastest_lap_time,event_key,session
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,1,1,3.0,Finished,25:38.426,1538426,,14,1:30.013,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,1,2,2,2.0,Finished,+1.430,1539856,,17,1:29.937,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,3,3,3,1.0,Finished,+7.502,1545928,,17,1:29.958,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,4,0.0,Finished,+11.278,1549704,,16,1:30.163,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,6,5,5,0.0,Finished,+24.111,1562537,,16,1:30.566,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,7,6,6,0.0,Finished,+30.959,1569385,,17,1:30.640,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,11,7,7,0.0,Finished,+43.527,1581953,,17,1:31.773,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,10,8,8,0.0,Finished,+44.439,1582865,,17,1:31.687,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,russell,RUS,George,Russell,williams,Williams,8,9,9,0.0,Finished,+46.652,1585078,,17,1:32.208,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,13,10,10,0.0,Finished,+47.395,1585821,,16,1:32.183,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,9,11,11,0.0,Finished,+47.798,1586224,,10,1:31.991,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,12,12,12,0.0,Finished,+48.763,1587189,,17,1:32.072,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,17,13,13,0.0,Finished,+50.677,1589103,,12,1:32.139,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,15,14,14,0.0,Finished,+52.179,1590605,,12,1:32.210,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,14,15,15,0.0,Finished,+53.225,1591651,,14,1:32.457,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,16,16,16,0.0,Finished,+53.567,1591993,,14,1:32.270,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,latifi,LAT,Nicholas,Latifi,williams,Williams,18,17,17,0.0,Finished,+55.162,1593588,,17,1:32.143,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,19,18,18,0.0,Finished,+1:08.213,1606639,,15,1:32.567,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,mazepin,MAZ,Nikita,Mazepin,haas,Haas F1 Team,20,19,19,0.0,Finished,+1:17.648,1616074,,3,1:33.462,2021-10,sprint
+2021,10,British Grand Prix,2021-07-18,silverstone,Silverstone Circuit,perez,PER,Sergio,Pérez,red_bull,Red Bull,5,20,R,0.0,Vibrations,,,,6,1:31.465,2021-10,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,1,1,1,3.0,Finished,27:54.078,1674078,,9,1:23.540,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,2,2,2.0,Finished,+2.325,1676403,,9,1:23.502,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,5,3,3,1.0,Finished,+14.534,1688612,,17,1:24.291,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,norris,NOR,Lando,Norris,mclaren,McLaren,4,4,4,0.0,Finished,+18.835,1692913,,9,1:24.554,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,5,5,0.0,Finished,+20.011,1694089,,9,1:24.253,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,8,6,6,0.0,Finished,+23.442,1697520,,18,1:24.677,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,7,7,7,0.0,Finished,+27.952,1702030,,8,1:24.918,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,10,8,8,0.0,Finished,+31.089,1705167,,10,1:25.126,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,perez,PER,Sergio,Pérez,red_bull,Red Bull,9,9,9,0.0,Finished,+31.680,1705758,,12,1:24.211,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,12,10,10,0.0,Finished,+38.671,1712749,,8,1:25.349,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,13,11,11,0.0,Finished,+39.795,1713873,,8,1:25.225,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,11,12,12,0.0,Finished,+41.177,1715255,,8,1:25.493,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,14,13,13,0.0,Finished,+43.373,1717451,,8,1:25.613,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,latifi,LAT,Nicholas,Latifi,williams,Williams,16,14,14,0.0,Finished,+45.977,1720055,,9,1:25.711,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,russell,RUS,George,Russell,williams,Williams,15,15,15,0.0,Finished,+46.821,1720899,,15,1:25.835,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,17,16,16,0.0,Finished,+49.977,1724055,,18,1:25.847,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,mazepin,MAZ,Nikita,Mazepin,haas,Haas F1 Team,20,17,17,0.0,Finished,+1:02.599,1736677,,7,1:26.613,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,kubica,KUB,Robert,Kubica,alfa,Alfa Romeo,19,18,18,0.0,Finished,+1:05.096,1739174,,12,1:26.772,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,18,19,19,0.0,Finished,+1:06.154,1740232,,7,1:26.819,2021-14,sprint
+2021,14,Italian Grand Prix,2021-09-12,monza,Autodromo Nazionale di Monza,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,6,20,R,0.0,Accident,,,,,,2021-14,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,2,1,1,3.0,Finished,29:09.559,1749559,,8,1:12.300,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,2,2,2.0,Finished,+1.170,1750729,,9,1:12.114,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,5,3,3,1.0,Finished,+18.723,1768282,,13,1:13.167,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,perez,PER,Sergio,Pérez,red_bull,Red Bull,3,4,4,0.0,Finished,+19.787,1769346,,13,1:13.110,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,20,5,5,0.0,Finished,+20.872,1770431,,5,1:12.357,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,norris,NOR,Lando,Norris,mclaren,McLaren,7,6,6,0.0,Finished,+22.558,1772117,,8,1:12.994,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,7,7,0.0,Finished,+25.056,1774615,,4,1:13.140,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,4,8,8,0.0,Finished,+34.158,1783717,,4,1:13.342,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,10,9,9,0.0,Finished,+34.632,1784191,,11,1:13.615,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,11,10,10,0.0,Finished,+34.867,1784426,,5,1:13.558,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,8,11,11,0.0,Finished,+35.869,1785428,,9,1:13.463,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,9,12,12,0.0,Finished,+36.578,1786137,,4,1:13.397,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,14,13,13,0.0,Finished,+41.880,1791439,,11,1:13.627,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,15,14,14,0.0,Finished,+44.037,1793596,,9,1:13.666,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,12,15,15,0.0,Finished,+46.150,1795709,,11,1:13.747,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,latifi,LAT,Nicholas,Latifi,williams,Williams,16,16,16,0.0,Finished,+46.760,1796319,,7,1:13.934,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,russell,RUS,George,Russell,williams,Williams,17,17,17,0.0,Finished,+47.739,1797298,,14,1:14.056,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,13,18,18,0.0,Finished,+50.014,1799573,,9,1:13.900,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,18,19,19,0.0,Finished,+1:01.680,1811239,,9,1:14.387,2021-19,sprint
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,Autódromo José Carlos Pace,mazepin,MAZ,Nikita,Mazepin,haas,Haas F1 Team,19,20,20,0.0,Finished,+1:07.474,1817033,,6,1:14.583,2021-19,sprint

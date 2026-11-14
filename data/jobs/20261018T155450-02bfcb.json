@@ -1,0 +1,12 @@
+{
+  "job_id": "20261018T155450-02bfcb",
+  "op": "train_weather",
+  "label": "Retrain the weather models",
+  "params": {},
+  "status": "failed",
+  "created_at_utc": "2026-10-18T15:54:50.030826+00:00",
+  "started_at_utc": "2026-10-18T15:54:50.030902+00:00",
+  "finished_at_utc": "2026-10-19T07:38:15.613952+00:00",
+  "summary": null,
+  "error": "This job was interrupted when the app stopped."
+}

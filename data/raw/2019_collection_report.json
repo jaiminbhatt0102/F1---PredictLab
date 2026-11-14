@@ -1,0 +1,91 @@
+{
+  "season": 2019,
+  "requests": [
+    {
+      "endpoint": "2019/results?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 420,
+      "offset": 0
+    },
+    {
+      "endpoint": "2019/results?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 420,
+      "offset": 100
+    },
+    {
+      "endpoint": "2019/results?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 420,
+      "offset": 200
+    },
+    {
+      "endpoint": "2019/results?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 420,
+      "offset": 300
+    },
+    {
+      "endpoint": "2019/results?limit=100&offset=400",
+      "status": "ok",
+      "rows_returned": 20,
+      "total_reported": 420,
+      "offset": 400
+    },
+    {
+      "endpoint": "2019/qualifying?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 418,
+      "offset": 0
+    },
+    {
+      "endpoint": "2019/qualifying?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 418,
+      "offset": 100
+    },
+    {
+      "endpoint": "2019/qualifying?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 418,
+      "offset": 200
+    },
+    {
+      "endpoint": "2019/qualifying?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 418,
+      "offset": 300
+    },
+    {
+      "endpoint": "2019/qualifying?limit=100&offset=400",
+      "status": "ok",
+      "rows_returned": 18,
+      "total_reported": 418,
+      "offset": 400
+    },
+    {
+      "endpoint": "2019/sprint?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 0,
+      "total_reported": 0
+    }
+  ],
+  "row_counts": {
+    "race": 420,
+    "qualifying": 418,
+    "sprint": 0
+  },
+  "files": [
+    "data\\raw\\2019_race_results.csv",
+    "data\\raw\\2019_qualifying_results.csv",
+    "data\\raw\\2019_sprint_results.csv"
+  ]
+}

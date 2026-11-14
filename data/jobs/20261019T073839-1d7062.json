@@ -1,0 +1,14 @@
+{
+  "job_id": "20261019T073839-1d7062",
+  "op": "train_weather",
+  "label": "Retrain the weather models",
+  "params": {},
+  "status": "succeeded",
+  "created_at_utc": "2026-10-19T07:38:39.694625+00:00",
+  "started_at_utc": "2026-10-19T07:38:39.694715+00:00",
+  "finished_at_utc": "2026-10-19T07:41:15.365522+00:00",
+  "summary": {
+    "message": "Experimental weather models retrained from past forecasts."
+  },
+  "error": null
+}

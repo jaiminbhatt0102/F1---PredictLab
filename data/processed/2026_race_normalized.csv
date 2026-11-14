@@ -1,0 +1,375 @@
+season,round,race_name,race_date,circuit_id,circuit_name,driver_id,driver_code,driver_given_name,driver_family_name,constructor_id,constructor_name,grid,position,position_text,points,status,time,milliseconds,fastest_lap_rank,fastest_lap_number,fastest_lap_time,event_key,session
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,russell,RUS,George,Russell,mercedes,Mercedes,1,1,1,25.0,Finished,1:23:06.801,4986801,6,21,1:22.670,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,2,2,2,18.0,Finished,+2.974,4989775,3,57,1:22.417,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,3,3,15.0,Finished,+15.519,5002320,5,38,1:22.579,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,7,4,4,12.0,Finished,+16.144,5002945,4,55,1:22.423,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,6,5,5,10.0,Finished,+51.741,5038542,2,53,1:22.358,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,20,6,6,8.0,Finished,+54.617,5041418,1,43,1:22.091,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,12,7,7,6.0,Lapped,+4.593,4991394,11,22,1:24.020,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,9,8,8,4.0,Lapped,+11.816,4998617,12,21,1:24.182,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,10,9,9,2.0,Lapped,+12.775,4999576,8,45,1:23.257,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,14,10,10,1.0,Lapped,+29.027,5015828,15,56,1:24.486,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,13,11,11,0.0,Lapped,+29.850,5016651,14,25,1:24.424,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,albon,ALB,Alexander,Albon,williams,Williams,15,12,12,0.0,Lapped,+56.075,5042876,13,36,1:24.375,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,lawson,LAW,Liam,Lawson,rb,RB F1 Team,8,13,13,0.0,Lapped,+57.173,5043974,10,47,1:23.783,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,16,14,14,0.0,Lapped,+8.487,4995288,7,48,1:22.926,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,sainz,SAI,Carlos,Sainz,williams,Williams,21,15,15,0.0,Lapped,+36.886,5023687,9,52,1:23.590,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,18,16,16,0.0,Lapped,+7.850,4994651,19,47,1:26.070,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,22,17,R,0.0,Lapped,,,17,36,1:25.410,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,17,18,R,0.0,Retired,,,18,15,1:25.713,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,19,19,R,0.0,Retired,,,20,8,1:27.364,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,3,20,R,0.0,Retired,,,16,9,1:25.239,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,21,W,0.0,Did not start,,,,,,2026-1,race
+2026,1,Australian Grand Prix,2026-03-08,albert_park,Albert Park Grand Prix Circuit,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,11,22,W,0.0,Did not start,,,,,,2026-1,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,1,1,1,25.0,Finished,1:33:15.607,5595607,1,52,1:35.275,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,russell,RUS,George,Russell,mercedes,Mercedes,2,2,2,18.0,Finished,+5.515,5601122,2,56,1:35.400,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,3,3,3,15.0,Finished,+25.267,5620874,5,55,1:36.092,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,4,12.0,Finished,+28.894,5624501,4,56,1:36.011,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,10,5,5,10.0,Finished,+57.268,5652875,8,56,1:36.429,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,7,6,6,8.0,Finished,+59.647,5655254,9,53,1:36.505,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,lawson,LAW,Liam,Lawson,rb,RB F1 Team,14,7,7,6.0,Finished,+1:20.588,5676195,12,56,1:37.096,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,9,8,8,4.0,Finished,+1:27.247,5682854,13,46,1:37.311,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,sainz,SAI,Carlos,Sainz,williams,Williams,17,9,9,2.0,Lapped,+11.673,5607280,14,51,1:37.981,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,12,10,10,1.0,Lapped,+12.403,5608010,10,35,1:36.783,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,11,11,11,0.0,Lapped,+21.109,5616716,7,38,1:36.180,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,15,12,12,0.0,Lapped,+22.828,5618435,6,46,1:36.099,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,19,13,13,0.0,Lapped,+56.158,5651765,15,55,1:38.393,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,13,14,14,0.0,Lapped,+1:06.256,5661863,3,54,1:35.964,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,21,15,15,0.0,Lapped,+1:14.641,5670248,16,50,1:38.523,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,8,16,R,0.0,Retired,,,11,39,1:37.046,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,18,17,R,0.0,Retired,,,17,25,1:39.721,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,20,18,R,0.0,Retired,,,18,9,1:40.883,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,19,W,0.0,Did not start,,,,,,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,6,20,W,0.0,Did not start,,,,,,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,16,21,W,0.0,Did not start,,,,,,2026-2,race
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,Shanghai International Circuit,albon,ALB,Alexander,Albon,williams,Williams,22,22,W,0.0,Did not start,,,,,,2026-2,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,1,1,1,25.0,Finished,1:28:03.403,5283403,1,49,1:32.432,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,2,2,18.0,Finished,+13.722,5297125,5,49,1:32.996,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,3,3,15.0,Finished,+15.270,5298673,3,53,1:32.634,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,russell,RUS,George,Russell,mercedes,Mercedes,2,4,4,12.0,Finished,+15.754,5299157,2,53,1:32.549,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,5,5,5,10.0,Finished,+23.479,5306882,6,52,1:33.208,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,6,6,6,8.0,Finished,+25.037,5308440,4,48,1:32.777,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,7,7,7,6.0,Finished,+32.340,5315743,9,39,1:33.691,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,11,8,8,4.0,Finished,+32.677,5316080,8,41,1:33.552,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,lawson,LAW,Liam,Lawson,rb,RB F1 Team,14,9,9,2.0,Finished,+50.180,5333583,13,53,1:34.230,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,12,10,10,1.0,Finished,+51.216,5334619,14,53,1:34.256,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,13,11,11,0.0,Finished,+52.280,5335683,10,47,1:33.732,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,8,12,12,0.0,Finished,+56.154,5339557,11,53,1:33.837,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,9,13,13,0.0,Finished,+59.078,5342481,12,40,1:34.164,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,10,14,14,0.0,Finished,+59.848,5343251,15,53,1:34.314,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,sainz,SAI,Carlos,Sainz,williams,Williams,16,15,15,0.0,Finished,+1:05.008,5348411,17,38,1:34.514,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,15,16,16,0.0,Finished,+1:05.773,5349176,16,41,1:34.512,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,19,17,17,0.0,Finished,+1:32.453,5375856,19,53,1:35.637,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,21,18,18,0.0,Lapped,+26.548,5309951,20,47,1:36.221,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,20,19,19,0.0,Lapped,+42.621,5326024,21,52,1:36.269,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,albon,ALB,Alexander,Albon,williams,Williams,17,20,20,0.0,Lapped,+5.067,5288470,7,51,1:33.427,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,22,21,R,0.0,Retired,,,22,29,1:37.217,2026-3,race
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,Suzuka Circuit,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,18,22,R,0.0,Retired,,,18,20,1:35.604,2026-3,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,1,1,1,25.0,Finished,1:33:19.273,5599273,3,34,1:31.968,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,norris,NOR,Lando,Norris,mclaren,McLaren,4,2,2,18.0,Finished,+3.264,5602537,1,35,1:31.869,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,piastri,PIA,Oscar,Piastri,mclaren,McLaren,7,3,3,15.0,Finished,+27.092,5626365,2,30,1:31.949,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,russell,RUS,George,Russell,mercedes,Mercedes,5,4,4,12.0,Finished,+43.051,5642324,4,53,1:32.446,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,5,5,10.0,Finished,+48.949,5648222,9,24,1:33.110,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,6,6,6,8.0,Finished,+53.753,5653026,6,29,1:32.676,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,8,7,7,6.0,Finished,+1:01.871,5661144,8,33,1:33.035,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,8,8,4.0,Finished,+1:04.245,5663518,5,44,1:32.515,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,sainz,SAI,Carlos,Sainz,williams,Williams,13,9,9,2.0,Finished,+1:22.072,5681345,7,30,1:33.026,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,albon,ALB,Alexander,Albon,williams,Williams,15,10,10,1.0,Finished,+1:30.972,5690245,13,30,1:33.784,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,12,11,11,0.0,Lapped,+6.400,5605673,12,28,1:33.744,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,21,12,12,0.0,Lapped,+9.353,5608626,10,55,1:33.500,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,14,13,13,0.0,Lapped,+13.873,5613146,11,33,1:33.712,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,16,14,14,0.0,Lapped,+44.781,5644054,14,30,1:34.058,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,17,15,15,0.0,Lapped,+1:14.964,5674237,16,45,1:34.594,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,20,16,16,0.0,Lapped,+1:17.513,5676786,21,31,1:34.895,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,18,17,17,0.0,Lapped,+1:22.631,5681904,17,56,1:34.716,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,19,18,18,0.0,Lapped,+1:08.255,5667528,22,16,1:36.080,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,10,19,R,0.0,Retired,,,15,4,1:34.523,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,lawson,LAW,Liam,Lawson,rb,RB F1 Team,11,20,R,0.0,Retired,,,18,3,1:34.814,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,21,R,0.0,Retired,,,20,4,1:34.856,2026-4,race
+2026,4,Miami Grand Prix,2026-05-03,miami,Miami International Autodrome,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,22,22,R,0.0,Retired,,,19,4,1:34.833,2026-4,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,2,1,1,25.0,Finished,1:28:15.758,5295758,1,68,1:14.210,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,2,2,18.0,Finished,+10.768,5306526,3,61,1:14.573,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,6,3,3,15.0,Finished,+11.276,5307034,2,68,1:14.398,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,8,4,4,12.0,Finished,+44.151,5339909,5,37,1:15.297,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,7,5,5,10.0,Lapped,+5.033,5300791,4,67,1:14.578,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,10,6,6,8.0,Lapped,+19.510,5315268,8,67,1:15.462,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,lawson,LAW,Liam,Lawson,rb,RB F1 Team,12,7,7,6.0,Lapped,+34.235,5329993,10,59,1:15.604,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,14,8,8,4.0,Lapped,+34.572,5330330,6,67,1:15.390,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,sainz,SAI,Carlos,Sainz,williams,Williams,15,9,9,2.0,Lapped,+58.014,5353772,12,65,1:15.852,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,16,10,10,1.0,Lapped,+59.049,5354807,13,64,1:16.002,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,piastri,PIA,Oscar,Piastri,mclaren,McLaren,4,11,11,0.0,Lapped,+12.699,5308457,7,61,1:15.456,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,11,12,12,0.0,Lapped,+14.182,5309940,15,57,1:16.275,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,13,13,13,0.0,Lapped,+21.156,5316914,14,50,1:16.221,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,17,14,14,0.0,Lapped,+1:08.635,5364393,16,64,1:16.577,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,22,15,15,0.0,Lapped,+18.397,5314155,20,39,1:18.721,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,21,16,16,0.0,Lapped,+53.390,5349148,19,59,1:17.725,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,20,17,R,0.0,Retired,,,17,37,1:16.915,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,norris,NOR,Lando,Norris,mclaren,McLaren,3,18,R,0.0,Retired,,,11,36,1:15.845,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,russell,RUS,George,Russell,mercedes,Mercedes,1,19,R,0.0,Retired,,,9,16,1:15.477,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,19,20,R,0.0,Retired,,,21,10,1:19.635,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,albon,ALB,Alexander,Albon,williams,Williams,18,21,R,0.0,Retired,,,18,11,1:17.221,2026-5,race
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,Circuit Gilles Villeneuve,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,9,22,W,0.0,Did not start,,,,,,2026-5,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,1,1,1,25.0,Finished,2:23:31.243,8611243,1,76,1:13.481,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,3,2,2,18.0,Finished,+6.271,8617514,2,74,1:14.643,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,5,3,3,15.0,Finished,+23.394,8634637,4,77,1:15.669,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,piastri,PIA,Oscar,Piastri,mclaren,McLaren,7,4,4,12.0,Finished,+24.261,8635504,7,76,1:15.816,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,lawson,LAW,Liam,Lawson,rb,RB F1 Team,10,5,5,10.0,Finished,+26.553,8637796,5,76,1:15.754,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,15,6,6,8.0,Finished,+29.010,8640253,8,76,1:15.908,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,7,7,6.0,Finished,+30.369,8641612,3,77,1:15.497,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,albon,ALB,Alexander,Albon,williams,Williams,11,8,8,4.0,Finished,+33.413,8644656,12,78,1:16.393,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,17,9,9,2.0,Finished,+37.140,8648383,15,77,1:16.914,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,21,10,10,1.0,Finished,+41.899,8653142,16,77,1:17.120,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,16,11,11,0.0,Finished,+42.748,8653991,13,46,1:16.803,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,russell,RUS,George,Russell,mercedes,Mercedes,6,12,12,0.0,Finished,+43.353,8654596,6,56,1:15.773,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,13,13,13,0.0,Finished,+44.102,8655345,11,15,1:16.332,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,14,14,14,0.0,Finished,+48.964,8660207,10,74,1:16.316,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,18,15,15,0.0,Finished,+49.153,8660396,14,78,1:16.891,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,sainz,SAI,Carlos,Sainz,williams,Williams,12,16,16,0.0,Retired,,8012889,18,51,1:18.022,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,17,R,0.0,Retired,,,9,53,1:15.964,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,22,18,R,0.0,Retired,,,20,36,1:18.845,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,norris,NOR,Lando,Norris,mclaren,McLaren,8,19,R,0.0,Retired,,,17,34,1:17.670,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,19,20,R,0.0,Retired,,,19,22,1:18.475,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,20,21,R,0.0,Retired,,,21,8,1:20.494,2026-6,race
+2026,6,Monaco Grand Prix,2026-06-07,monaco,Circuit de Monaco,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,22,R,0.0,Retired,,,,,,2026-6,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,2,1,1,25.0,Finished,1:32:28.105,5548105,1,44,1:20.122,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,russell,RUS,George,Russell,mercedes,Mercedes,1,2,2,18.0,Finished,+19.561,5567666,6,43,1:20.640,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,norris,NOR,Lando,Norris,mclaren,McLaren,4,3,3,15.0,Finished,+23.719,5571824,4,37,1:20.232,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,5,4,4,12.0,Finished,+40.497,5588602,3,42,1:20.230,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,piastri,PIA,Oscar,Piastri,mclaren,McLaren,7,5,5,10.0,Finished,+58.661,5606766,8,46,1:20.835,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,6,6,6,8.0,Lapped,+24.627,5572732,2,60,1:20.150,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,14,7,7,6.0,Lapped,+55.789,5603894,13,43,1:21.960,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,lawson,LAW,Liam,Lawson,rb,RB F1 Team,8,8,8,4.0,Lapped,+1:12.224,5620329,17,45,1:22.691,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,11,9,9,2.0,Lapped,+1:18.074,5626179,12,45,1:21.914,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,13,10,10,1.0,Lapped,+1:19.867,5627972,16,43,1:22.449,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,12,11,11,0.0,Lapped,+26.687,5574792,9,55,1:21.446,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,sainz,SAI,Carlos,Sainz,williams,Williams,16,12,12,0.0,Lapped,+27.866,5575971,14,58,1:22.061,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,17,13,13,0.0,Lapped,+59.149,5607254,10,63,1:21.643,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,19,14,14,0.0,Lapped,+7.769,5555874,18,43,1:22.820,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,10,15,15,0.0,Retired,,5251697,5,47,1:20.379,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,3,16,16,0.0,Retired,,5103909,7,46,1:20.704,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,15,17,17,0.0,Retired,,5197448,15,43,1:22.419,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,albon,ALB,Alexander,Albon,williams,Williams,18,18,R,0.0,Lapped,,,11,54,1:21.744,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,22,19,R,0.0,Retired,,,20,27,1:25.366,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,9,20,R,0.0,Retired,,,19,2,1:23.447,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,20,21,R,0.0,Retired,,,21,3,1:25.745,2026-7,race
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,Circuit de Barcelona-Catalunya,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,21,22,R,0.0,Retired,,,22,3,1:25.904,2026-7,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,russell,RUS,George,Russell,mercedes,Mercedes,1,1,1,25.0,Finished,1:26:37.979,5197979,6,49,1:10.683,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,5,2,2,18.0,Finished,+1.611,5199590,2,57,1:10.483,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,4,3,3,15.0,Finished,+1.986,5199965,1,59,1:10.374,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,piastri,PIA,Oscar,Piastri,mclaren,McLaren,7,4,4,12.0,Finished,+21.809,5219788,3,45,1:10.595,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,3,5,5,10.0,Finished,+26.393,5224372,7,45,1:10.946,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,8,6,6,8.0,Finished,+29.399,5227378,8,42,1:10.947,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,norris,NOR,Lando,Norris,mclaren,McLaren,6,7,7,6.0,Finished,+31.505,5229484,5,55,1:10.652,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,8,8,4.0,Finished,+45.659,5243638,4,67,1:10.606,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,lawson,LAW,Liam,Lawson,rb,RB F1 Team,9,9,9,2.0,Lapped,+15.334,5213313,10,55,1:11.547,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,10,10,10,1.0,Lapped,+19.030,5217009,11,56,1:11.587,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,12,11,11,0.0,Lapped,+30.315,5228294,14,59,1:11.866,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,14,12,12,0.0,Lapped,+38.484,5236463,12,55,1:11.634,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,11,13,13,0.0,Lapped,+39.251,5237230,9,54,1:11.466,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,13,14,14,0.0,Lapped,+1:02.677,5260656,15,54,1:12.207,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,16,15,15,0.0,Lapped,+1:05.647,5263626,13,49,1:11.795,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,15,16,16,0.0,Lapped,+25.932,5223911,17,37,1:12.979,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,albon,ALB,Alexander,Albon,williams,Williams,18,17,17,0.0,Lapped,+28.082,5226061,18,43,1:13.137,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,21,18,18,0.0,Lapped,+4.833,5202812,16,52,1:12.501,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,22,19,R,0.0,Retired,,,20,30,1:13.796,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,sainz,SAI,Carlos,Sainz,williams,Williams,17,20,R,0.0,Retired,,,19,22,1:13.694,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,19,21,R,0.0,Retired,,,21,3,1:14.448,2026-8,race
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,Red Bull Ring,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,20,22,R,0.0,Retired,,,,,,2026-8,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,1,1,25.0,Finished,1:27:11.335,5231335,8,43,1:32.871,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,russell,RUS,George,Russell,mercedes,Mercedes,4,2,2,18.0,Finished,+0.427,5231762,5,36,1:32.489,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,3,3,3,15.0,Finished,+0.772,5232107,4,25,1:32.309,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,6,4,4,12.0,Finished,+1.149,5232484,6,45,1:32.625,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,5,5,5,10.0,Finished,+1.598,5232933,3,40,1:32.268,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,lawson,LAW,Liam,Lawson,rb,RB F1 Team,10,6,6,8.0,Finished,+2.023,5233358,12,45,1:33.648,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,9,7,7,6.0,Finished,+2.214,5233549,11,29,1:33.632,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,11,8,8,4.0,Finished,+2.413,5233748,13,30,1:33.650,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,19,9,9,2.0,Finished,+3.229,5234564,16,25,1:34.281,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,15,10,10,1.0,Finished,+3.445,5234780,15,44,1:34.179,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,piastri,PIA,Oscar,Piastri,mclaren,McLaren,8,11,11,0.0,Finished,+4.014,5235349,9,42,1:32.917,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,13,12,12,0.0,Finished,+5.245,5236580,17,31,1:34.455,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,17,13,13,0.0,Finished,+5.512,5236847,18,43,1:34.792,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,20,14,14,0.0,Finished,+7.403,5238738,19,44,1:35.520,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,1,15,15,0.0,Finished,+8.005,5239340,1,37,1:31.777,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,18,16,16,0.0,Finished,+8.162,5239497,21,31,1:35.893,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,sainz,SAI,Carlos,Sainz,williams,Williams,14,17,17,0.0,Lapped,+4.391,5235726,7,51,1:32.734,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,21,18,18,0.0,Lapped,+4.980,5236315,20,50,1:35.827,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,22,19,19,0.0,Lapped,+6.750,5238085,22,41,1:37.232,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,7,20,20,0.0,Retired,,4396703,2,40,1:32.101,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,albon,ALB,Alexander,Albon,williams,Williams,16,21,R,0.0,Retired,,,14,42,1:33.867,2026-9,race
+2026,9,British Grand Prix,2026-07-05,silverstone,Silverstone Circuit,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,12,22,R,0.0,Retired,,,10,36,1:33.433,2026-9,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,1,1,1,25.0,Finished,1:24:42.479,5082479,2,41,1:49.098,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,2,2,18.0,Finished,+1.952,5084431,4,23,1:49.333,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,3,3,15.0,Finished,+11.586,5094065,7,23,1:49.618,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,4,4,12.0,Finished,+17.245,5099724,5,33,1:49.454,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,piastri,PIA,Oscar,Piastri,mclaren,McLaren,6,5,5,10.0,Finished,+18.988,5101467,6,23,1:49.562,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,21,6,6,8.0,Finished,+23.307,5105786,3,44,1:49.298,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,norris,NOR,Lando,Norris,mclaren,McLaren,13,7,7,6.0,Finished,+24.014,5106493,1,44,1:48.890,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,8,8,8,4.0,Finished,+49.140,5131619,8,22,1:50.334,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,7,9,9,2.0,Finished,+50.406,5132885,10,23,1:50.536,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,11,10,10,1.0,Finished,+1:16.037,5158516,14,42,1:51.162,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,10,11,11,0.0,Finished,+1:16.991,5159470,12,39,1:51.101,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,lawson,LAW,Liam,Lawson,rb,RB F1 Team,9,12,12,0.0,Finished,+1:17.523,5160002,11,44,1:51.075,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,12,13,13,0.0,Finished,+1:18.348,5160827,9,41,1:50.503,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,14,14,14,0.0,Finished,+1:34.465,5176944,13,22,1:51.109,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,albon,ALB,Alexander,Albon,williams,Williams,15,15,15,0.0,Finished,+1:44.684,5187163,16,21,1:51.894,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,sainz,SAI,Carlos,Sainz,williams,Williams,19,16,16,0.0,Finished,+1:45.856,5188335,15,24,1:51.363,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,16,17,17,0.0,Finished,+1:50.925,5193404,17,44,1:51.900,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,17,18,18,0.0,Lapped,+1:00.979,5143458,18,35,1:52.011,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,22,19,19,0.0,Lapped,+20.848,5103327,19,34,1:52.948,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,20,20,R,0.0,Retired,,,21,21,1:53.980,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,18,21,R,0.0,Retired,,,20,10,1:53.520,2026-10,race
+2026,10,Belgian Grand Prix,2026-07-19,spa,Circuit de Spa-Francorchamps,russell,RUS,George,Russell,mercedes,Mercedes,3,22,R,0.0,Retired,,,,,,2026-10,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,1,25.0,Finished,1:39:56.180,5996180,4,64,1:22.491,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,2,2,18.0,Finished,+15.080,6011260,8,66,1:23.433,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,7,3,3,15.0,Finished,+18.728,6014908,3,58,1:22.415,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,4,4,12.0,Finished,+23.840,6020020,1,58,1:22.000,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,5,5,10.0,Finished,+24.540,6020720,2,59,1:22.300,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,8,6,6,8.0,Finished,+55.488,6051668,7,45,1:23.218,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,russell,RUS,George,Russell,mercedes,Mercedes,6,7,7,6.0,Finished,+57.503,6053683,5,58,1:22.589,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,lawson,LAW,Liam,Lawson,rb,RB F1 Team,11,8,8,4.0,Lapped,+28.033,6024213,11,64,1:23.900,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,10,9,9,2.0,Lapped,+30.382,6026562,12,67,1:23.964,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,9,10,10,1.0,Lapped,+51.050,6047230,20,47,1:25.931,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,14,11,11,0.0,Lapped,+52.028,6048208,15,33,1:24.783,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,12,12,12,0.0,Lapped,+53.429,6049609,6,57,1:22.871,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,20,13,13,0.0,Lapped,+1:03.828,6060008,14,57,1:24.718,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,16,14,14,0.0,Lapped,+1:06.052,6062232,9,57,1:23.679,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,13,15,15,0.0,Lapped,+3.876,6000056,13,40,1:24.624,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,15,16,16,0.0,Lapped,+12.859,6009039,19,62,1:25.889,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,albon,ALB,Alexander,Albon,williams,Williams,19,17,17,0.0,Lapped,+52.729,6048909,17,57,1:25.403,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,sainz,SAI,Carlos,Sainz,williams,Williams,18,18,18,0.0,Lapped,+52.973,6049153,16,56,1:24.864,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,17,19,19,0.0,Lapped,+57.198,6053378,18,24,1:25.884,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,20,R,0.0,Retired,,,10,35,1:23.896,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,22,21,R,0.0,Retired,,,21,23,1:26.342,2026-11,race
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,Hungaroring,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,21,22,R,0.0,Retired,,,22,4,1:27.959,2026-11,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,1,25.0,Finished,2:04:44.859,7484859,3,49,1:14.321,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,3,2,2,18.0,Finished,+11.536,7496395,5,59,1:14.571,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,russell,RUS,George,Russell,mercedes,Mercedes,2,3,3,15.0,Finished,+15.906,7500765,6,46,1:15.393,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,4,4,12.0,Finished,+16.755,7501614,4,61,1:14.566,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,5,5,10.0,Finished,+17.258,7502117,1,60,1:14.230,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,piastri,PIA,Oscar,Piastri,mclaren,McLaren,4,6,6,8.0,Finished,+32.332,7517191,2,61,1:14.303,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,lawson,LAW,Liam,Lawson,red_bull,Red Bull,8,7,7,6.0,Finished,+1:19.915,7564774,7,61,1:15.435,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,13,8,8,4.0,Lapped,+36.049,7520908,10,62,1:16.048,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,18,9,9,2.0,Lapped,+48.393,7533252,14,59,1:16.946,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,11,10,10,1.0,Lapped,+49.640,7534499,11,58,1:16.220,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,12,11,11,0.0,Lapped,+54.322,7539181,12,49,1:16.639,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,10,12,12,0.0,Lapped,+1:05.680,7550539,13,60,1:16.653,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,9,13,13,0.0,Lapped,+1:06.235,7551094,8,57,1:15.515,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,14,14,14,0.0,Lapped,+20.534,7505393,9,48,1:15.578,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,22,15,15,0.0,Lapped,+58.582,7543441,17,70,1:17.523,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,sainz,SAI,Carlos,Sainz,williams,Williams,17,16,16,0.0,Lapped,+1:10.271,7555130,16,69,1:17.328,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,albon,ALB,Alexander,Albon,williams,Williams,16,17,17,0.0,Retired,,7209329,15,51,1:17.147,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,21,18,R,0.0,Retired,,,19,60,1:17.822,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,15,19,R,0.0,Retired,,,18,48,1:17.588,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,20,R,0.0,Retired,,,20,37,1:17.883,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,20,21,R,0.0,Retired,,,,,,2026-12,race
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,Circuit Park Zandvoort,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,7,22,R,0.0,Retired,,,,,,2026-12,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,19,1,1,25.0,Finished,1:51:15.281,6675281,1,53,1:23.504,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,russell,RUS,George,Russell,mercedes,Mercedes,2,2,2,18.0,Finished,+3.857,6679138,4,51,1:24.390,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,5,3,3,15.0,Finished,+14.718,6689999,2,37,1:24.242,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,norris,NOR,Lando,Norris,mclaren,McLaren,8,4,4,12.0,Finished,+19.056,6694337,5,48,1:24.864,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,piastri,PIA,Oscar,Piastri,mclaren,McLaren,6,5,5,10.0,Finished,+19.253,6694534,8,45,1:25.125,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,4,6,6,8.0,Finished,+24.655,6699936,9,23,1:25.300,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,1,7,7,6.0,Finished,+27.351,6702632,6,53,1:24.927,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,9,8,8,4.0,Finished,+45.136,6720417,14,47,1:26.028,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,7,9,9,2.0,Finished,+47.353,6722634,7,53,1:24.933,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,15,10,10,1.0,Finished,+58.187,6733468,16,42,1:26.320,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,10,11,11,0.0,Finished,+1:05.187,6740468,15,31,1:26.188,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,12,12,12,0.0,Finished,+1:06.187,6741468,3,53,1:24.364,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,sainz,SAI,Carlos,Sainz,williams,Williams,13,13,13,0.0,Finished,+1:14.117,6749398,12,46,1:25.683,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,lawson,LAW,Liam,Lawson,red_bull,Red Bull,22,14,14,0.0,Finished,+1:15.609,6750890,11,53,1:25.578,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,11,15,15,0.0,Finished,+1:18.958,6754239,17,31,1:26.356,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,14,16,16,0.0,Lapped,+6.591,6681872,13,52,1:25.711,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,albon,ALB,Alexander,Albon,williams,Williams,20,17,17,0.0,Lapped,+20.268,6695549,10,52,1:25.341,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,17,18,18,0.0,Lapped,+1:13.372,6748653,18,51,1:26.914,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,16,19,19,0.0,Lapped,+12.880,6688161,19,51,1:27.325,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,18,20,R,0.0,Retired,,,21,11,1:28.415,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,21,21,R,0.0,Retired,,,20,8,1:27.961,2026-13,race
+2026,13,Italian Grand Prix,2026-09-06,monza,Autodromo Nazionale di Monza,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,22,R,0.0,Retired,,,,,,2026-13,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,2,1,1,25.0,Finished,1:34:23.754,5663754,2,57,1:36.030,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,2,2,18.0,Finished,+4.351,5668105,5,52,1:36.760,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,norris,NOR,Lando,Norris,mclaren,McLaren,1,3,3,15.0,Finished,+5.089,5668843,4,52,1:36.680,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,5,4,4,12.0,Finished,+29.116,5692870,3,50,1:36.063,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,russell,RUS,George,Russell,mercedes,Mercedes,6,5,5,10.0,Finished,+29.829,5693583,1,49,1:35.587,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,lawson,LAW,Liam,Lawson,red_bull,Red Bull,8,6,6,8.0,Finished,+1:26.746,5750500,6,49,1:36.846,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,9,7,7,6.0,Finished,+1:34.281,5758035,9,52,1:37.321,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,piastri,PIA,Oscar,Piastri,mclaren,McLaren,7,8,8,4.0,Finished,+1:35.839,5759593,7,48,1:37.226,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,10,9,9,2.0,Lapped,+10.408,5674162,14,40,1:38.211,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,11,10,10,1.0,Lapped,+11.298,5675052,11,50,1:38.114,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,13,11,11,0.0,Lapped,+15.143,5678897,12,49,1:38.119,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,14,12,12,0.0,Lapped,+26.152,5689906,13,36,1:38.141,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,12,13,13,0.0,Lapped,+28.389,5692143,10,50,1:37.837,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,15,14,14,0.0,Lapped,+1:00.163,5723917,15,54,1:38.396,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,albon,ALB,Alexander,Albon,williams,Williams,16,15,15,0.0,Lapped,+1:26.212,5749966,18,47,1:39.397,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,22,16,16,0.0,Lapped,+1:29.963,5753717,8,45,1:37.308,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,17,17,17,0.0,Lapped,+33.776,5697530,16,40,1:39.003,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,19,18,18,0.0,Lapped,+49.246,5713000,17,45,1:39.130,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,sainz,SAI,Carlos,Sainz,williams,Williams,20,19,R,0.0,Retired,,,20,36,1:40.195,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,18,20,R,0.0,Retired,,,21,16,1:41.116,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,21,21,R,0.0,Retired,,,22,11,1:43.462,2026-14,race
+2026,14,Spanish Grand Prix,2026-09-13,madring,Madring,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,4,22,R,0.0,Retired,,,19,3,1:39.839,2026-14,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,russell,RUS,George,Russell,mercedes,Mercedes,1,1,1,25.0,Finished,1:38:02.143,5882143,1,49,1:44.916,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,8,2,2,18.0,Finished,+0.196,5882339,2,48,1:44.993,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,4,3,3,15.0,Finished,+10.704,5892847,4,49,1:45.618,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,4,4,12.0,Finished,+14.136,5896279,5,44,1:45.784,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,16,5,5,10.0,Finished,+14.512,5896655,3,50,1:45.413,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,6,6,6,8.0,Finished,+22.382,5904525,6,49,1:46.170,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,15,7,7,6.0,Finished,+31.159,5913302,10,44,1:46.849,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,13,8,8,4.0,Finished,+31.189,5913332,14,44,1:47.068,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,10,9,9,2.0,Finished,+31.929,5914072,13,45,1:46.978,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,sainz,SAI,Carlos,Sainz,williams,Williams,14,10,10,1.0,Finished,+32.416,5914559,9,49,1:46.737,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,18,11,11,0.0,Finished,+33.231,5915374,11,45,1:46.850,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,lawson,LAW,Liam,Lawson,rb,RB F1 Team,11,12,12,0.0,Finished,+34.013,5916156,12,46,1:46.906,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,13,13,0.0,Finished,+36.401,5918544,8,48,1:46.602,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,20,14,14,0.0,Finished,+41.400,5923543,15,43,1:47.363,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,17,15,15,0.0,Finished,+44.230,5926373,7,46,1:46.336,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,19,16,16,0.0,Retired,,5729837,20,49,1:48.852,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,9,17,R,0.0,Retired,,,19,17,1:48.484,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,7,18,R,0.0,Retired,,,17,28,1:47.822,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,5,19,R,0.0,Retired,,,16,28,1:47.761,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,albon,ALB,Alexander,Albon,williams,Williams,12,20,R,0.0,Retired,,,18,29,1:48.443,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,21,21,R,0.0,Retired,,,21,15,1:50.968,2026-15,race
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,Baku City Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,22,22,R,0.0,Retired,,,22,7,1:51.723,2026-15,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,1,25.0,Finished,1:47:14.808,6434808,1,55,1:38.220,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,3,2,2,18.0,Finished,+2.307,6437115,2,52,1:38.589,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,2,3,3,15.0,Finished,+4.919,6439727,3,53,1:38.610,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,4,12.0,Finished,+7.258,6442066,4,54,1:39.336,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,8,5,5,10.0,Finished,+8.571,6443379,6,52,1:39.792,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,piastri,PIA,Oscar,Piastri,mclaren,McLaren,6,6,6,8.0,Finished,+9.454,6444262,5,53,1:39.485,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,lawson,LAW,Liam,Lawson,rb,RB F1 Team,11,7,7,6.0,Finished,+12.753,6447561,8,53,1:40.254,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,12,8,8,4.0,Finished,+13.372,6448180,10,54,1:40.353,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,5,9,9,2.0,Finished,+13.993,6448801,7,54,1:39.970,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,22,10,10,1.0,Finished,+15.928,6450736,9,55,1:40.315,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,15,11,11,0.0,Finished,+17.404,6452212,16,54,1:41.394,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,14,12,12,0.0,Finished,+18.052,6452860,14,53,1:41.248,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,21,13,13,0.0,Finished,+18.997,6453805,13,33,1:40.988,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,16,14,14,0.0,Finished,+22.305,6457113,11,40,1:40.366,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,17,15,15,0.0,Finished,+22.532,6457340,19,53,1:42.062,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,16,16,0.0,Finished,+23.315,6458123,17,40,1:41.514,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,sainz,SAI,Carlos,Sainz,williams,Williams,13,17,17,0.0,Finished,+25.431,6460239,18,28,1:41.738,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,10,18,18,0.0,Finished,+28.233,6463041,15,36,1:41.382,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,20,19,19,0.0,Finished,+29.310,6464118,21,20,1:42.688,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,russell,RUS,George,Russell,mercedes,Mercedes,7,20,20,0.0,Retired,,5738170,12,34,1:40.715,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,albon,ALB,Alexander,Albon,williams,Williams,18,21,R,0.0,Retired,,,20,31,1:42.284,2026-16,race
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,Sepang International Circuit,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,19,22,R,0.0,Retired,,,22,7,1:59.953,2026-16,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,1,25.0,Finished,1:42:00.785,6120785,5,44,1:36.201,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,2,2,18.0,Finished,+7.335,6128120,1,41,1:35.202,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,4,3,3,15.0,Finished,+24.573,6145358,2,43,1:35.589,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,5,4,4,12.0,Finished,+40.506,6161291,6,42,1:36.282,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,piastri,PIA,Oscar,Piastri,mclaren,McLaren,6,5,5,10.0,Finished,+49.644,6170429,3,44,1:35.665,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,3,6,6,8.0,Finished,+53.188,6173973,8,28,1:36.922,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,lawson,LAW,Liam,Lawson,rb,RB F1 Team,8,7,7,6.0,Finished,+1:21.666,6202451,10,51,1:37.193,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,hulkenberg,HUL,Nico,Hülkenberg,audi,Audi,10,8,8,4.0,Finished,+1:23.386,6204171,9,60,1:37.055,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,russell,RUS,George,Russell,mercedes,Mercedes,19,9,9,2.0,Finished,+1:24.677,6205462,7,41,1:36.722,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,hadjar,HAD,Isack,Hadjar,red_bull,Red Bull,22,10,10,1.0,Finished,+1:30.862,6211647,4,42,1:35.917,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,7,11,11,0.0,Lapped,+2.171,6122956,11,50,1:37.390,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,11,12,12,0.0,Lapped,+5.006,6125791,13,37,1:37.556,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,12,13,13,0.0,Lapped,+25.647,6146432,15,41,1:38.129,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,sainz,SAI,Carlos,Sainz,williams,Williams,13,14,14,0.0,Lapped,+58.139,6178924,17,41,1:38.326,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,arvid_lindblad,LIN,Arvid,Lindblad,rb,RB F1 Team,9,15,15,0.0,Lapped,+1:00.950,6181735,16,41,1:38.154,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,20,16,16,0.0,Lapped,+1:14.454,6195239,14,37,1:38.032,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,perez,PER,Sergio,Pérez,cadillac,Cadillac F1 Team,17,17,17,0.0,Lapped,+20.520,6141305,18,43,1:38.574,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,albon,ALB,Alexander,Albon,williams,Williams,16,18,18,0.0,Retired,,5998746,12,41,1:37.436,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,bottas,BOT,Valtteri,Bottas,cadillac,Cadillac F1 Team,18,19,19,0.0,Lapped,+17.347,6138132,21,30,1:40.171,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,21,20,R,0.0,Retired,,,19,28,1:39.137,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,15,21,R,0.0,Retired,,,20,13,1:39.265,2026-17,race
+2026,17,Singapore Grand Prix,2026-10-11,marina_bay,Marina Bay Street Circuit,bortoleto,BOR,Gabriel,Bortoleto,audi,Audi,14,22,R,0.0,Retired,,,22,6,1:40.486,2026-17,race

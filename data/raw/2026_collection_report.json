@@ -1,0 +1,83 @@
+{
+  "season": 2026,
+  "requests": [
+    {
+      "endpoint": "2026/results?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 374,
+      "offset": 0
+    },
+    {
+      "endpoint": "2026/results?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 374,
+      "offset": 100
+    },
+    {
+      "endpoint": "2026/results?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 374,
+      "offset": 200
+    },
+    {
+      "endpoint": "2026/results?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 74,
+      "total_reported": 374,
+      "offset": 300
+    },
+    {
+      "endpoint": "2026/qualifying?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 369,
+      "offset": 0
+    },
+    {
+      "endpoint": "2026/qualifying?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 369,
+      "offset": 100
+    },
+    {
+      "endpoint": "2026/qualifying?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 369,
+      "offset": 200
+    },
+    {
+      "endpoint": "2026/qualifying?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 69,
+      "total_reported": 369,
+      "offset": 300
+    },
+    {
+      "endpoint": "2026/sprint?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 132
+    },
+    {
+      "endpoint": "2026/sprint?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 32,
+      "total_reported": 132
+    }
+  ],
+  "row_counts": {
+    "race": 374,
+    "qualifying": 369,
+    "sprint": 132
+  },
+  "files": [
+    "data\\raw\\2026_race_results.csv",
+    "data\\raw\\2026_qualifying_results.csv",
+    "data\\raw\\2026_sprint_results.csv"
+  ]
+}

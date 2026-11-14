@@ -1,0 +1,433 @@
+{
+  "run_at_utc": "2026-10-18T13:38:03.842925+00:00",
+  "validation_seasons": [
+    2022,
+    2023,
+    2024
+  ],
+  "holdout_season": 2025,
+  "models_averaged": [
+    "logistic_regression",
+    "random_forest",
+    "gradient_boosting",
+    "hist_gradient_boosting"
+  ],
+  "extra_features_with_enough_data": [
+    "constructor_prior_mean_finish_3",
+    "constructor_prior_mean_quali_3"
+  ],
+  "experiments": [
+    {
+      "name": "current features",
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count"
+      ],
+      "recency_decay": null,
+      "normalized_per_race": false,
+      "average_over_models": {
+        "target_win": {
+          "validation_brier": 0.04496204709794158,
+          "validation_log_loss": 0.15703580191445493,
+          "holdout_brier": 0.04647530541373963,
+          "holdout_log_loss": 0.14593796754352517
+        },
+        "target_podium": {
+          "validation_brier": 0.08983461430760349,
+          "validation_log_loss": 0.28612802483156774,
+          "holdout_brier": 0.0806641837491879,
+          "holdout_log_loss": 0.2636514066983647
+        }
+      },
+      "gradient_boosting_only": {
+        "target_win": {
+          "validation_brier": 0.030422969295722968,
+          "validation_log_loss": 0.10479018484718268,
+          "holdout_brier": 0.030141863905676566,
+          "holdout_log_loss": 0.09558285480859897
+        },
+        "target_podium": {
+          "validation_brier": 0.07223139035587313,
+          "validation_log_loss": 0.2302212274669727,
+          "holdout_brier": 0.071186043077017,
+          "holdout_log_loss": 0.23289355550035487
+        }
+      }
+    },
+    {
+      "name": "plus team pace",
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count",
+        "constructor_prior_mean_finish_3",
+        "constructor_prior_mean_quali_3"
+      ],
+      "recency_decay": null,
+      "normalized_per_race": false,
+      "average_over_models": {
+        "target_win": {
+          "validation_brier": 0.0438767259180507,
+          "validation_log_loss": 0.15352223619349523,
+          "holdout_brier": 0.046236634162695654,
+          "holdout_log_loss": 0.1445943846171954
+        },
+        "target_podium": {
+          "validation_brier": 0.08990901343823067,
+          "validation_log_loss": 0.28292372413475664,
+          "holdout_brier": 0.0781751997501312,
+          "holdout_log_loss": 0.25612831062153335
+        }
+      },
+      "gradient_boosting_only": {
+        "target_win": {
+          "validation_brier": 0.02986775033230379,
+          "validation_log_loss": 0.10407171303911596,
+          "holdout_brier": 0.03026599329869826,
+          "holdout_log_loss": 0.09518230169795677
+        },
+        "target_podium": {
+          "validation_brier": 0.07249475243172761,
+          "validation_log_loss": 0.22908172211506764,
+          "holdout_brier": 0.07007529432554287,
+          "holdout_log_loss": 0.23016838396251726
+        }
+      }
+    },
+    {
+      "name": "plus team pace + chances adjusted to sum per race",
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count",
+        "constructor_prior_mean_finish_3",
+        "constructor_prior_mean_quali_3"
+      ],
+      "recency_decay": null,
+      "normalized_per_race": true,
+      "average_over_models": {
+        "target_win": {
+          "validation_brier": 0.03267936199744446,
+          "validation_log_loss": 0.11497029068972765,
+          "holdout_brier": 0.03133889862238025,
+          "holdout_log_loss": 0.10009134812705173
+        },
+        "target_podium": {
+          "validation_brier": 0.07693843769949074,
+          "validation_log_loss": 0.25538727744343054,
+          "holdout_brier": 0.06956402423513211,
+          "holdout_log_loss": 0.23625991885175865
+        }
+      },
+      "gradient_boosting_only": {
+        "target_win": {
+          "validation_brier": 0.02956945315674823,
+          "validation_log_loss": 0.10171531081621266,
+          "holdout_brier": 0.028537508150948687,
+          "holdout_log_loss": 0.09164255933755402
+        },
+        "target_podium": {
+          "validation_brier": 0.07126567277191713,
+          "validation_log_loss": 0.22384658542343863,
+          "holdout_brier": 0.068295320825445,
+          "holdout_log_loss": 0.22437110309628835
+        }
+      }
+    },
+    {
+      "name": "plus team pace + recent seasons weighted (0.8)",
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count",
+        "constructor_prior_mean_finish_3",
+        "constructor_prior_mean_quali_3"
+      ],
+      "recency_decay": 0.8,
+      "normalized_per_race": false,
+      "average_over_models": {
+        "target_win": {
+          "validation_brier": 0.04146866339230568,
+          "validation_log_loss": 0.14574311150517338,
+          "holdout_brier": 0.04558742776340091,
+          "holdout_log_loss": 0.1430041134794377
+        },
+        "target_podium": {
+          "validation_brier": 0.08911318477413116,
+          "validation_log_loss": 0.2805863104916366,
+          "holdout_brier": 0.07669652474114824,
+          "holdout_log_loss": 0.2513998419065032
+        }
+      },
+      "gradient_boosting_only": {
+        "target_win": {
+          "validation_brier": 0.029808557757137328,
+          "validation_log_loss": 0.10310823501054167,
+          "holdout_brier": 0.029957909084711572,
+          "holdout_log_loss": 0.09471538509662987
+        },
+        "target_podium": {
+          "validation_brier": 0.07216241718426399,
+          "validation_log_loss": 0.22786374425330438,
+          "holdout_brier": 0.07195210176930104,
+          "holdout_log_loss": 0.23462619340235857
+        }
+      }
+    },
+    {
+      "name": "plus team pace + recent seasons weighted (0.6)",
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count",
+        "constructor_prior_mean_finish_3",
+        "constructor_prior_mean_quali_3"
+      ],
+      "recency_decay": 0.6,
+      "normalized_per_race": false,
+      "average_over_models": {
+        "target_win": {
+          "validation_brier": 0.040308247464189165,
+          "validation_log_loss": 0.14289718042137234,
+          "holdout_brier": 0.04528556060967466,
+          "holdout_log_loss": 0.142577800484607
+        },
+        "target_podium": {
+          "validation_brier": 0.08850997706747048,
+          "validation_log_loss": 0.2795302141803457,
+          "holdout_brier": 0.07298644533695972,
+          "holdout_log_loss": 0.24012758010974317
+        }
+      },
+      "gradient_boosting_only": {
+        "target_win": {
+          "validation_brier": 0.03156688877693772,
+          "validation_log_loss": 0.10760091475475105,
+          "holdout_brier": 0.029878211395676556,
+          "holdout_log_loss": 0.09331125477655625
+        },
+        "target_podium": {
+          "validation_brier": 0.07203471001558787,
+          "validation_log_loss": 0.22755170918066167,
+          "holdout_brier": 0.06863202742253874,
+          "holdout_log_loss": 0.2239099159972772
+        }
+      }
+    },
+    {
+      "name": "plus team pace + adjusted per race + recent weighted (0.8)",
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count",
+        "constructor_prior_mean_finish_3",
+        "constructor_prior_mean_quali_3"
+      ],
+      "recency_decay": 0.8,
+      "normalized_per_race": true,
+      "average_over_models": {
+        "target_win": {
+          "validation_brier": 0.032044554358170586,
+          "validation_log_loss": 0.1124667085804249,
+          "holdout_brier": 0.03128200555519563,
+          "holdout_log_loss": 0.09986264481151036
+        },
+        "target_podium": {
+          "validation_brier": 0.0768090258344334,
+          "validation_log_loss": 0.25432498836285566,
+          "holdout_brier": 0.06920481559590046,
+          "holdout_log_loss": 0.22808823462882344
+        }
+      },
+      "gradient_boosting_only": {
+        "target_win": {
+          "validation_brier": 0.0292911240472155,
+          "validation_log_loss": 0.10038245991353244,
+          "holdout_brier": 0.028437383135036624,
+          "holdout_log_loss": 0.0915248719630083
+        },
+        "target_podium": {
+          "validation_brier": 0.07083097507849738,
+          "validation_log_loss": 0.2224200604915739,
+          "holdout_brier": 0.0694275081510537,
+          "holdout_log_loss": 0.22553985787934516
+        }
+      }
+    },
+    {
+      "name": "plus team pace + adjusted per race + recent weighted (0.6)",
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count",
+        "constructor_prior_mean_finish_3",
+        "constructor_prior_mean_quali_3"
+      ],
+      "recency_decay": 0.6,
+      "normalized_per_race": true,
+      "average_over_models": {
+        "target_win": {
+          "validation_brier": 0.03196512866251524,
+          "validation_log_loss": 0.11249418433506515,
+          "holdout_brier": 0.03101967399747429,
+          "holdout_log_loss": 0.09895307509130892
+        },
+        "target_podium": {
+          "validation_brier": 0.07698095308705001,
+          "validation_log_loss": 0.26937185008331177,
+          "holdout_brier": 0.06679057686170961,
+          "holdout_log_loss": 0.22154513001017334
+        }
+      },
+      "gradient_boosting_only": {
+        "target_win": {
+          "validation_brier": 0.029735479682206953,
+          "validation_log_loss": 0.10213248883140151,
+          "holdout_brier": 0.028184501697922956,
+          "holdout_log_loss": 0.09020378150905604
+        },
+        "target_podium": {
+          "validation_brier": 0.07055046975186349,
+          "validation_log_loss": 0.23082866594699478,
+          "holdout_brier": 0.0669114003344284,
+          "holdout_log_loss": 0.2171658132003739
+        }
+      }
+    },
+    {
+      "name": "plus team pace + adjusted per race + recent weighted (0.45)",
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count",
+        "constructor_prior_mean_finish_3",
+        "constructor_prior_mean_quali_3"
+      ],
+      "recency_decay": 0.45,
+      "normalized_per_race": true,
+      "average_over_models": {
+        "target_win": {
+          "validation_brier": 0.03213010834461736,
+          "validation_log_loss": 0.11341007039138078,
+          "holdout_brier": 0.032104837103227916,
+          "holdout_log_loss": 0.10150571262498466
+        },
+        "target_podium": {
+          "validation_brier": 0.07711433166756758,
+          "validation_log_loss": 0.27046729246645324,
+          "holdout_brier": 0.0657544301406234,
+          "holdout_log_loss": 0.22513663169169487
+        }
+      },
+      "gradient_boosting_only": {
+        "target_win": {
+          "validation_brier": 0.03034668158799933,
+          "validation_log_loss": 0.1060862320892589,
+          "holdout_brier": 0.0292118564657481,
+          "holdout_log_loss": 0.0935822067727392
+        },
+        "target_podium": {
+          "validation_brier": 0.07011681061336679,
+          "validation_log_loss": 0.22280087624367897,
+          "holdout_brier": 0.06387939181219283,
+          "holdout_log_loss": 0.21109130449714242
+        }
+      }
+    },
+    {
+      "name": "plus team pace + adjusted per race + recent weighted (0.3)",
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count",
+        "constructor_prior_mean_finish_3",
+        "constructor_prior_mean_quali_3"
+      ],
+      "recency_decay": 0.3,
+      "normalized_per_race": true,
+      "average_over_models": {
+        "target_win": {
+          "validation_brier": 0.03258705299479718,
+          "validation_log_loss": 0.11648623630306029,
+          "holdout_brier": 0.03310418658436442,
+          "holdout_log_loss": 0.10581761189817529
+        },
+        "target_podium": {
+          "validation_brier": 0.07808037407257915,
+          "validation_log_loss": 0.2785463496644086,
+          "holdout_brier": 0.06393480632240564,
+          "holdout_log_loss": 0.2331551266935064
+        }
+      },
+      "gradient_boosting_only": {
+        "target_win": {
+          "validation_brier": 0.03141208818242868,
+          "validation_log_loss": 0.11341452651097472,
+          "holdout_brier": 0.029929281545203853,
+          "holdout_log_loss": 0.0968349491174764
+        },
+        "target_podium": {
+          "validation_brier": 0.07209537586541818,
+          "validation_log_loss": 0.22878716922975398,
+          "holdout_brier": 0.06027860514782733,
+          "holdout_log_loss": 0.22772789120266582
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "trained_at_utc": "2026-10-19T10:35:04.498000+00:00",
+  "training_rows": 612,
+  "training_seasons": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "validation_seasons": [
+    2022,
+    2023,
+    2024
+  ],
+  "holdout_season": 2025,
+  "selected_model": "gradient_boosting",
+  "rolling_validation": {
+    "recent_form": {
+      "mean_mae_positions": 3.8236111111111115,
+      "folds": [
+        {
+          "season": 2022,
+          "rows": 60,
+          "mae_positions": 4.155555555555556
+        },
+        {
+          "season": 2023,
+          "rows": 120,
+          "mae_positions": 3.6916666666666673
+        },
+        {
+          "season": 2024,
+          "rows": 120,
+          "mae_positions": 3.623611111111111
+        }
+      ]
+    },
+    "ridge": {
+      "mean_mae_positions": 3.6286765182852387,
+      "folds": [
+        {
+          "season": 2022,
+          "rows": 60,
+          "mae_positions": 4.029393459197385
+        },
+        {
+          "season": 2023,
+          "rows": 120,
+          "mae_positions": 3.5439726973166525
+        },
+        {
+          "season": 2024,
+          "rows": 120,
+          "mae_positions": 3.312663398341679
+        }
+      ]
+    },
+    "gradient_boosting": {
+      "mean_mae_positions": 3.6190995264645918,
+      "folds": [
+        {
+          "season": 2022,
+          "rows": 60,
+          "mae_positions": 3.745491576548025
+        },
+        {
+          "season": 2023,
+          "rows": 120,
+          "mae_positions": 3.618550889881201
+        },
+        {
+          "season": 2024,
+          "rows": 120,
+          "mae_positions": 3.49325611296455
+        }
+      ]
+    }
+  },
+  "holdout": {
+    "gradient_boosting": {
+      "rows": 120,
+      "mae_positions": 4.153913675149741
+    },
+    "recent_form": {
+      "rows": 120,
+      "mae_positions": 4.2
+    }
+  },
+  "note": "Chronological validation only. The recent-form baseline is selected if no learned model beats it."
+}

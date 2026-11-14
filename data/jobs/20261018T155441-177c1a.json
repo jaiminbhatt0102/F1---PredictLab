@@ -1,0 +1,12 @@
+{
+  "job_id": "20261018T155441-177c1a",
+  "op": "refresh_schedule",
+  "label": "Update the race schedule",
+  "params": {},
+  "status": "failed",
+  "created_at_utc": "2026-10-18T15:54:41.997453+00:00",
+  "started_at_utc": "2026-10-18T15:54:41.999535+00:00",
+  "finished_at_utc": "2026-10-18T15:54:44.277151+00:00",
+  "summary": null,
+  "error": "This step failed. The details are saved in the server log."
+}

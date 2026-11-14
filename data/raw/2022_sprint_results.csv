@@ -1,0 +1,61 @@
+season,round,race_name,race_date,circuit_id,circuit_name,driver_id,driver_code,driver_number,driver_given_name,driver_family_name,constructor_id,constructor_name,grid,position,position_text,points,status,time,milliseconds,fastest_lap_rank,fastest_lap_number,fastest_lap_time
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,1,1,8,Finished,30:39.567,1839567,,14,1:19.154
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,2,2,2,7,Finished,+2.975,1842542,,11,1:19.044
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,7,3,3,6,Finished,+4.721,1844288,,14,1:19.012
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,10,4,4,5,Finished,+17.578,1857145,,14,1:19.251
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,norris,NOR,1,Lando,Norris,mclaren,McLaren,3,5,5,4,Finished,+24.561,1864128,,9,1:20.030
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,ricciardo,RIC,3,Daniel,Ricciardo,mclaren,McLaren,6,6,6,3,Finished,+27.740,1867307,,12,1:20.328
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,8,7,7,2,Finished,+28.133,1867700,,9,1:20.219
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,4,8,8,1,Finished,+30.712,1870279,,6,1:20.557
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,alonso,ALO,14,Fernando,Alonso,alpine,Alpine F1 Team,5,9,9,0,Finished,+32.278,1871845,,10,1:20.639
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,mick_schumacher,MSC,47,Mick,Schumacher,haas,Haas F1 Team,12,10,10,0,Finished,+33.773,1873340,,15,1:20.567
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,russell,RUS,63,George,Russell,mercedes,Mercedes,11,11,11,0,Finished,+36.284,1875851,,19,1:20.756
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,16,12,12,0,Finished,+38.298,1877865,,20,1:20.909
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,vettel,VET,5,Sebastian,Vettel,aston_martin,Aston Martin,9,13,13,0,Finished,+40.177,1879744,,8,1:21.044
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,13,14,14,0,Finished,+41.459,1881026,,9,1:20.663
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,15,15,15,0,Finished,+42.910,1882477,,14,1:20.948
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,19,16,16,0,Finished,+43.517,1883084,,14,1:20.995
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,gasly,GAS,10,Pierre,Gasly,alphatauri,AlphaTauri,17,17,17,0,Finished,+43.794,1883361,,18,1:20.599
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,albon,ALB,23,Alexander,Albon,williams,Williams,20,18,18,0,Finished,+48.871,1888438,,14,1:21.020
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,latifi,LAT,6,Nicholas,Latifi,williams,Williams,18,19,19,0,Finished,+52.017,1891584,,16,1:21.437
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,Autodromo Enzo e Dino Ferrari,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,0,20,R,0,Retired,,,,,
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,1,1,8,Finished,26:30.059,1590059,,5,1:08.455
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,2,2,2,7,Finished,+1.675,1591734,,4,1:08.321
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,3,3,3,6,Finished,+5.644,1595703,,4,1:08.409
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,russell,RUS,63,George,Russell,mercedes,Mercedes,4,4,4,5,Finished,+13.429,1603488,,4,1:08.979
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,13,5,5,4,Finished,+18.302,1608361,,14,1:09.137
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,5,6,6,3,Finished,+31.032,1621091,,4,1:09.384
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,6,7,7,2,Finished,+34.539,1624598,,4,1:09.232
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,9,8,8,1,Finished,+35.447,1625506,,7,1:09.516
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,mick_schumacher,MSC,47,Mick,Schumacher,haas,Haas F1 Team,7,9,9,0,Finished,+37.163,1627222,,4,1:09.457
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,12,10,10,0,Finished,+37.557,1627616,,4,1:09.674
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,norris,NOR,1,Lando,Norris,mclaren,McLaren,15,11,11,0,Finished,+38.580,1628639,,8,1:09.909
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,ricciardo,RIC,3,Daniel,Ricciardo,mclaren,McLaren,16,12,12,0,Finished,+39.738,1629797,,8,1:09.996
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,17,13,13,0,Finished,+48.241,1638300,,4,1:10.295
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,18,14,14,0,Finished,+50.753,1640812,,11,1:10.165
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,gasly,GAS,10,Pierre,Gasly,alphatauri,AlphaTauri,10,15,15,0,Finished,+52.125,1642184,,4,1:10.409
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,albon,ALB,23,Alexander,Albon,williams,Williams,11,16,16,0,Finished,+52.412,1642471,,5,1:10.367
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,14,17,17,0,Finished,+54.556,1644615,,4,1:10.267
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,latifi,LAT,6,Nicholas,Latifi,williams,Williams,19,18,18,0,Finished,+1:08.694,1658753,,4,1:10.284
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,vettel,VET,5,Sebastian,Vettel,aston_martin,Aston Martin,20,19,19,0,Collision damage,,,,4,1:10.317
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,Red Bull Ring,alonso,ALO,14,Fernando,Alonso,alpine,Alpine F1 Team,8,20,R,0,Electrical,,,,,
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,russell,RUS,63,George,Russell,mercedes,Mercedes,3,1,1,8,Finished,30:11.307,1811307,,4,1:14.233
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,sainz,SAI,55,Carlos,Sainz,ferrari,Ferrari,5,2,2,7,Finished,+3.995,1815302,,2,1:14.522
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,8,3,3,6,Finished,+4.492,1815799,,3,1:14.317
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,2,4,4,5,Finished,+10.494,1821801,,5,1:14.507
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,perez,PER,11,Sergio,Pérez,red_bull,Red Bull,9,5,5,4,Finished,+11.855,1823162,,5,1:14.699
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,10,6,6,3,Finished,+13.133,1824440,,4,1:15.236
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,norris,NOR,1,Lando,Norris,mclaren,McLaren,4,7,7,2,Finished,+25.624,1836931,,4,1:15.380
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,1,8,8,1,Finished,+28.768,1840075,,2,1:15.110
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,vettel,VET,5,Sebastian,Vettel,aston_martin,Aston Martin,13,9,9,0,Finished,+30.218,1841525,,4,1:15.451
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,gasly,GAS,10,Pierre,Gasly,alphatauri,AlphaTauri,12,10,10,0,Finished,+34.170,1845477,,3,1:15.290
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,ricciardo,RIC,3,Daniel,Ricciardo,mclaren,McLaren,14,11,11,0,Finished,+39.395,1850702,,5,1:15.385
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,mick_schumacher,MSC,47,Mick,Schumacher,haas,Haas F1 Team,20,12,12,0,Finished,+41.159,1852466,,5,1:15.771
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,zhou,ZHO,24,Guanyu,Zhou,alfa,Alfa Romeo,17,13,13,0,Finished,+41.763,1853070,,7,1:15.765
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,bottas,BOT,77,Valtteri,Bottas,alfa,Alfa Romeo,18,14,14,0,Finished,+42.338,1853645,,8,1:15.980
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,tsunoda,TSU,22,Yuki,Tsunoda,alphatauri,AlphaTauri,19,15,15,0,Finished,+50.306,1861613,,4,1:16.413
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,15,16,16,0,Finished,+50.700,1862007,,4,1:15.425
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,ocon,OCO,31,Esteban,Ocon,alpine,Alpine F1 Team,6,17,17,0,Finished,+51.756,1863063,,5,1:16.097
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,alonso,ALO,14,Fernando,Alonso,alpine,Alpine F1 Team,7,18,18,0,Finished,+53.985,1865292,,5,1:14.764
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,latifi,LAT,6,Nicholas,Latifi,williams,Williams,16,19,19,0,Finished,+1:16.850,1888157,,4,1:16.525
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,Autódromo José Carlos Pace,albon,ALB,23,Alexander,Albon,williams,Williams,11,20,R,0,Retired,,,,4,1:15.998

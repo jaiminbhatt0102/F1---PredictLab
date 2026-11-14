@@ -1,0 +1,23 @@
+predicted_order,driver_id,constructor_id,predicted_position_rounded,predicted_qualifying_position,event,circuit_id
+1,max_verstappen,red_bull,2.6,2.6416290737192805,2026 Round 18,americas
+2,leclerc,ferrari,3.7,3.6854837355512817,2026 Round 18,americas
+3,hamilton,ferrari,4.1,4.135710173696875,2026 Round 18,americas
+4,russell,mercedes,4.7,4.684656128679283,2026 Round 18,americas
+5,piastri,mclaren,5.7,5.7168846685656,2026 Round 18,americas
+6,antonelli,mercedes,6.4,6.352756857894492,2026 Round 18,americas
+7,norris,mclaren,6.7,6.675530571298056,2026 Round 18,americas
+8,hadjar,red_bull,7.6,7.5858709161895685,2026 Round 18,americas
+9,gasly,alpine,10.3,10.290063879532921,2026 Round 18,americas
+10,lawson,rb,10.6,10.626984126372093,2026 Round 18,americas
+11,sainz,williams,12.9,12.889113403781897,2026 Round 18,americas
+12,arvid_lindblad,rb,12.9,12.93977082100321,2026 Round 18,americas
+13,colapinto,alpine,13.6,13.594779406498082,2026 Round 18,americas
+14,hulkenberg,audi,13.7,13.692531084652016,2026 Round 18,americas
+15,bearman,haas,13.7,13.736824334837815,2026 Round 18,americas
+16,bortoleto,audi,13.9,13.875089200480346,2026 Round 18,americas
+17,ocon,haas,14.1,14.059895613291214,2026 Round 18,americas
+18,alonso,aston_martin,14.4,14.41159697805227,2026 Round 18,americas
+19,albon,williams,16.0,15.963050698499869,2026 Round 18,americas
+20,stroll,aston_martin,16.7,16.73340132866857,2026 Round 18,americas
+21,bottas,cadillac,19.7,19.748030511059778,2026 Round 18,americas
+22,perez,cadillac,19.7,19.748030511059778,2026 Round 18,americas

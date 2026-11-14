@@ -1,0 +1,121 @@
+season,round,race_name,race_date,circuit_id,circuit_name,driver_id,driver_code,driver_number,driver_given_name,driver_family_name,constructor_id,constructor_name,grid,position,position_text,points,status,time,milliseconds,fastest_lap_rank,fastest_lap_number,fastest_lap_time
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,hamilton,HAM,44,Lewis,Hamilton,ferrari,Ferrari,1,1,1,8,Finished,30:39.965,1839965,1,2,1:35.399
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,3,2,2,7,Finished,+6.889,1846854,4,7,1:35.854
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,2,3,3,6,Finished,+9.804,1849769,2,2,1:35.745
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,5,4,4,5,Finished,+11.592,1851557,5,4,1:35.891
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,4,5,5,4,Finished,+12.190,1852155,6,4,1:36.255
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,tsunoda,TSU,22,Yuki,Tsunoda,rb,RB F1 Team,8,6,6,3,Finished,+22.288,1862253,8,4,1:36.388
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,antonelli,ANT,12,Andrea Kimi,Antonelli,mercedes,Mercedes,7,7,7,2,Finished,+23.038,1863003,7,5,1:36.311
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,6,8,8,1,Finished,+23.471,1863436,11,4,1:36.708
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,10,9,9,0,Finished,+24.916,1864881,9,4,1:36.435
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,11,10,10,0,Finished,+38.218,1878183,12,8,1:37.058
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,9,11,11,0,Finished,+39.292,1879257,15,7,1:37.344
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,17,12,12,0,Finished,+39.649,1879614,17,3,1:37.481
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,hadjar,HAD,6,Isack,Hadjar,rb,RB F1 Team,15,13,13,0,Finished,+42.400,1882365,18,3,1:37.549
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,lawson,LAW,30,Liam,Lawson,red_bull,Red Bull,19,14,14,0,Finished,+44.904,1884869,14,4,1:37.163
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,bearman,BEA,87,Oliver,Bearman,haas,Haas F1 Team,12,15,15,0,Finished,+45.649,1885614,13,3,1:37.135
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,ocon,OCO,31,Esteban,Ocon,haas,Haas F1 Team,18,16,16,0,Finished,+46.182,1886147,19,3,1:37.554
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,sainz,SAI,55,Carlos,Sainz,williams,Williams,13,17,17,0,Finished,+51.376,1891341,3,13,1:35.819
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,bortoleto,BOR,5,Gabriel,Bortoleto,sauber,Sauber,14,18,18,0,Finished,+53.940,1893905,16,3,1:37.475
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,sauber,Sauber,20,19,19,0,Finished,+56.682,1896647,10,4,1:36.529
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,Shanghai International Circuit,doohan,DOO,7,Jack,Doohan,alpine,Alpine F1 Team,16,20,20,0,Finished,+1:10.212,1910177,20,3,1:37.686
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,norris,NOR,1,Lando,Norris,mclaren,McLaren,3,1,1,8,Finished,36:37.647,2197647,5,4,1:40.334
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,2,2,2,7,Finished,+0.672,2198319,4,7,1:40.238
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,hamilton,HAM,44,Lewis,Hamilton,ferrari,Ferrari,7,3,3,6,Finished,+1.073,2198720,1,13,1:36.368
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,russell,RUS,63,George,Russell,mercedes,Mercedes,5,4,4,5,Finished,+3.127,2200774,7,6,1:40.963
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,16,5,5,4,Finished,+3.412,2201059,2,13,1:36.839
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,tsunoda,TSU,22,Yuki,Tsunoda,red_bull,Red Bull,20,6,6,3,Finished,+5.153,2202800,3,13,1:38.078
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,antonelli,ANT,12,Andrea Kimi,Antonelli,mercedes,Mercedes,1,7,7,2,Finished,+5.635,2203282,8,6,1:41.012
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,13,8,8,1,Finished,+5.973,2203620,16,7,1:42.694
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,hulkenberg,HUL,27,Nico,Hülkenberg,sauber,Sauber,11,9,9,0,Finished,+6.153,2203800,17,5,1:42.871
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,hadjar,HAD,6,Isack,Hadjar,rb,RB F1 Team,9,10,10,0,Finished,+7.502,2205149,13,6,1:42.260
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,albon,ALB,23,Alexander,Albon,williams,Williams,8,11,11,0,Finished,+7.522,2205169,9,7,1:41.699
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,ocon,OCO,31,Esteban,Ocon,haas,Haas F1 Team,12,12,12,0,Finished,+8.998,2206645,14,6,1:42.550
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,lawson,LAW,30,Liam,Lawson,rb,RB F1 Team,14,13,13,0,Finished,+9.024,2206671,11,7,1:41.922
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,bearman,BEA,87,Oliver,Bearman,haas,Haas F1 Team,19,14,14,0,Finished,+9.218,2206865,12,5,1:42.237
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,bortoleto,BOR,5,Gabriel,Bortoleto,sauber,Sauber,18,15,15,0,Finished,+9.675,2207322,18,6,1:42.989
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,doohan,DOO,7,Jack,Doohan,alpine,Alpine F1 Team,17,16,16,0,Finished,+9.909,2207556,19,7,1:43.076
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,4,17,17,0,Finished,+12.059,2209706,6,5,1:40.697
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,10,18,R,0,Retired,,,10,7,1:41.782
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,sainz,SAI,55,Carlos,Sainz,williams,Williams,15,19,R,0,Retired,,,15,5,1:42.638
+2025,6,Miami Grand Prix,2025-05-04,miami,Miami International Autodrome,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,6,20,R,0,Retired,,,,,
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,2,1,1,8,Finished,26:37.997,1597997,2,6,1:46.052
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,1,2,2,7,Finished,+0.753,1598750,3,6,1:46.061
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,norris,NOR,1,Lando,Norris,mclaren,McLaren,3,3,3,6,Finished,+1.414,1599411,1,6,1:45.914
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,4,4,4,5,Finished,+10.176,1608173,4,2,1:46.343
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,ocon,OCO,31,Esteban,Ocon,haas,Haas F1 Team,5,5,5,4,Finished,+13.789,1611786,7,2,1:46.772
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,sainz,SAI,55,Carlos,Sainz,williams,Williams,6,6,6,3,Finished,+14.964,1612961,6,7,1:46.770
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,bearman,BEA,87,Oliver,Bearman,haas,Haas F1 Team,7,7,7,2,Finished,+18.610,1616607,9,2,1:47.038
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,hadjar,HAD,6,Isack,Hadjar,rb,RB F1 Team,9,8,8,1,Finished,+19.119,1617116,8,2,1:46.973
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,bortoleto,BOR,5,Gabriel,Bortoleto,sauber,Sauber,10,9,9,0,Finished,+22.183,1620180,10,2,1:47.086
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,lawson,LAW,30,Liam,Lawson,rb,RB F1 Team,11,10,10,0,Finished,+22.897,1620894,12,2,1:47.249
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,tsunoda,TSU,22,Yuki,Tsunoda,red_bull,Red Bull,12,11,11,0,Finished,+24.551,1622548,15,4,1:47.326
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,russell,RUS,63,George,Russell,mercedes,Mercedes,13,12,12,0,Finished,+25.969,1623966,13,4,1:47.278
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,15,13,13,0,Finished,+26.595,1624592,14,5,1:47.307
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,14,14,14,0,Finished,+29.046,1627043,17,5,1:47.444
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,hamilton,HAM,44,Lewis,Hamilton,ferrari,Ferrari,18,15,15,0,Finished,+30.175,1628172,11,4,1:47.201
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,albon,ALB,23,Alexander,Albon,williams,Williams,16,16,16,0,Finished,+30.941,1628938,16,6,1:47.419
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,antonelli,ANT,12,Andrea Kimi,Antonelli,mercedes,Mercedes,19,17,17,0,Finished,+31.981,1629978,5,5,1:46.698
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,hulkenberg,HUL,27,Nico,Hülkenberg,sauber,Sauber,17,18,18,0,Finished,+32.867,1630864,18,8,1:47.575
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,colapinto,COL,43,Franco,Colapinto,alpine,Alpine F1 Team,20,19,19,0,Finished,+38.072,1636069,20,15,1:47.944
+2025,13,Belgian Grand Prix,2025-07-27,spa,Circuit de Spa-Francorchamps,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,8,20,R,0,Retired,,,19,6,1:47.651
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,1,1,1,8,Finished,37:58.229,2278229,1,7,1:36.527
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,russell,RUS,63,George,Russell,mercedes,Mercedes,5,2,2,7,Finished,+0.395,2278624,2,6,1:36.876
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,sainz,SAI,55,Carlos,Sainz,williams,Williams,7,3,3,6,Finished,+0.791,2279020,5,6,1:37.510
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,hamilton,HAM,44,Lewis,Hamilton,ferrari,Ferrari,8,4,4,5,Finished,+1.224,2279453,3,10,1:37.096
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,10,5,5,4,Finished,+1.825,2280054,4,7,1:37.391
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,albon,ALB,23,Alexander,Albon,williams,Williams,9,6,6,3,Finished,+2.576,2280805,7,7,1:38.220
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,tsunoda,TSU,22,Yuki,Tsunoda,red_bull,Red Bull,18,7,7,2,Finished,+2.976,2281205,8,15,1:38.268
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,antonelli,ANT,12,Andrea Kimi,Antonelli,mercedes,Mercedes,11,8,8,1,Finished,+4.147,2282376,6,8,1:37.758
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,lawson,LAW,30,Liam,Lawson,rb,RB F1 Team,15,9,9,0,Finished,+4.804,2283033,10,10,1:38.654
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,13,10,10,0,Finished,+5.126,2283355,13,7,1:38.932
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,bortoleto,BOR,5,Gabriel,Bortoleto,sauber,Sauber,20,11,11,0,Finished,+5.649,2283878,14,8,1:39.006
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,hadjar,HAD,6,Isack,Hadjar,rb,RB F1 Team,12,12,12,0,Finished,+6.228,2284457,15,8,1:39.057
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,hulkenberg,HUL,27,Nico,Hülkenberg,sauber,Sauber,4,13,13,0,Finished,+6.624,2284853,16,14,1:39.069
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,colapinto,COL,43,Franco,Colapinto,alpine,Alpine F1 Team,17,14,14,0,Finished,+8.006,2286235,17,10,1:39.235
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,bearman,BEA,87,Oliver,Bearman,haas,Haas F1 Team,16,15,15,0,Finished,+13.576,2291805,9,8,1:38.435
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,ocon,OCO,31,Esteban,Ocon,haas,Haas F1 Team,19,16,R,0,Retired,,,11,7,1:38.701
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,14,17,R,0,Retired,,,12,8,1:38.766
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,norris,NOR,1,Lando,Norris,mclaren,McLaren,2,18,R,0,Retired,,,,,
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,3,19,R,0,Retired,,,,,
+2025,19,United States Grand Prix,2025-10-19,americas,Circuit of the Americas,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,6,20,R,0,Retired,,,,,
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,norris,NOR,1,Lando,Norris,mclaren,McLaren,1,1,1,8,Finished,53:25.928,3205928,1,11,1:12.120
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,antonelli,ANT,12,Andrea Kimi,Antonelli,mercedes,Mercedes,2,2,2,7,Finished,+0.845,3206773,2,10,1:12.138
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,russell,RUS,63,George,Russell,mercedes,Mercedes,4,3,3,6,Finished,+2.318,3208246,4,10,1:12.263
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,6,4,4,5,Finished,+4.423,3210351,5,12,1:12.617
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,8,5,5,4,Finished,+16.483,3222411,8,23,1:13.111
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,5,6,6,3,Finished,+18.306,3224234,11,11,1:13.226
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,hamilton,HAM,44,Lewis,Hamilton,ferrari,Ferrari,11,7,7,2,Finished,+18.603,3224531,6,13,1:12.955
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,13,8,8,1,Finished,+19.366,3225294,9,13,1:13.155
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,7,9,9,0,Finished,+23.933,3229861,10,13,1:13.197
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,hadjar,HAD,6,Isack,Hadjar,rb,RB F1 Team,9,10,10,0,Finished,+29.548,3235476,13,12,1:13.444
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,ocon,OCO,31,Esteban,Ocon,haas,Haas F1 Team,18,11,11,0,Finished,+31.000,3236928,17,12,1:13.791
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,bearman,BEA,87,Oliver,Bearman,haas,Haas F1 Team,15,12,12,0,Finished,+36.334,3242262,16,12,1:13.757
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,tsunoda,TSU,22,Yuki,Tsunoda,red_bull,Red Bull,19,13,13,0,Finished,+38.462,3244390,19,12,1:13.921
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,sainz,SAI,55,Carlos,Sainz,williams,Williams,20,14,14,0,Finished,+38.951,3244879,15,22,1:13.712
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,hulkenberg,HUL,27,Nico,Hülkenberg,sauber,Sauber,10,15,15,0,Finished,+42.349,3248277,3,9,1:12.186
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,lawson,LAW,30,Liam,Lawson,rb,RB F1 Team,17,16,16,0,Finished,+43.090,3249018,18,13,1:13.896
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,albon,ALB,23,Alexander,Albon,williams,Williams,12,17,17,0,Finished,+55.456,3261384,12,5,1:13.372
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,bortoleto,BOR,5,Gabriel,Bortoleto,sauber,Sauber,14,18,18,0,Retired,,3157568,14,13,1:13.517
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,3,19,R,0,Retired,,,7,5,1:12.992
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,Autódromo José Carlos Pace,colapinto,COL,43,Franco,Colapinto,alpine,Alpine F1 Team,16,20,R,0,Retired,,,20,4,1:14.056
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,piastri,PIA,81,Oscar,Piastri,mclaren,McLaren,1,1,1,8,Finished,26:51.033,1611033,4,19,1:23.988
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,russell,RUS,63,George,Russell,mercedes,Mercedes,2,2,2,7,Finished,+4.951,1615984,8,16,1:24.564
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,norris,NOR,1,Lando,Norris,mclaren,McLaren,3,3,3,6,Finished,+6.279,1617312,6,18,1:24.507
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,6,4,4,5,Finished,+9.054,1620087,7,17,1:24.541
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,tsunoda,TSU,22,Yuki,Tsunoda,red_bull,Red Bull,5,5,5,4,Finished,+19.327,1630360,9,17,1:24.816
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,antonelli,ANT,12,Andrea Kimi,Antonelli,mercedes,Mercedes,7,6,6,3,Finished,+21.391,1632424,5,19,1:24.464
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,alonso,ALO,14,Fernando,Alonso,aston_martin,Aston Martin,4,7,7,2,Finished,+24.556,1635589,11,4,1:25.415
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,sainz,SAI,55,Carlos,Sainz,williams,Williams,8,8,8,1,Finished,+27.333,1638366,12,5,1:25.463
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,hadjar,HAD,6,Isack,Hadjar,rb,RB F1 Team,11,9,9,0,Finished,+28.206,1639239,10,5,1:25.404
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,albon,ALB,23,Alexander,Albon,williams,Williams,10,10,10,0,Finished,+28.925,1639958,13,16,1:25.509
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,bortoleto,BOR,5,Gabriel,Bortoleto,sauber,Sauber,13,11,11,0,Finished,+32.966,1643999,18,4,1:25.663
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,bearman,BEA,87,Oliver,Bearman,haas,Haas F1 Team,12,12,12,0,Finished,+34.529,1645562,15,5,1:25.593
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,leclerc,LEC,16,Charles,Leclerc,ferrari,Ferrari,9,13,13,0,Finished,+35.182,1646215,17,4,1:25.638
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,lawson,LAW,30,Liam,Lawson,rb,RB F1 Team,16,14,14,0,Finished,+36.916,1647949,16,5,1:25.620
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,ocon,OCO,31,Esteban,Ocon,haas,Haas F1 Team,15,15,15,0,Finished,+38.838,1649871,14,5,1:25.555
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,sauber,Sauber,14,16,16,0,Finished,+39.638,1650671,19,5,1:25.678
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,hamilton,HAM,44,Lewis,Hamilton,ferrari,Ferrari,18,17,17,0,Finished,+46.171,1657204,20,8,1:25.782
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,gasly,GAS,10,Pierre,Gasly,alpine,Alpine F1 Team,19,18,18,0,Finished,+1:09.534,1680567,1,19,1:23.188
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,stroll,STR,18,Lance,Stroll,aston_martin,Aston Martin,17,19,19,0,Finished,+1:17.960,1688993,2,15,1:23.585
+2025,23,Qatar Grand Prix,2025-11-30,losail,Lusail International Circuit,colapinto,COL,43,Franco,Colapinto,alpine,Alpine F1 Team,20,20,20,0,Finished,+1:20.804,1691837,3,19,1:23.765

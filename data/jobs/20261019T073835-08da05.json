@@ -1,0 +1,17 @@
+{
+  "job_id": "20261019T073835-08da05",
+  "op": "fetch_weather_observed",
+  "label": "Save the actual race weather",
+  "params": {
+    "season": 2026,
+    "round": 17
+  },
+  "status": "succeeded",
+  "created_at_utc": "2026-10-19T07:38:35.680155+00:00",
+  "started_at_utc": "2026-10-19T07:38:35.682228+00:00",
+  "finished_at_utc": "2026-10-19T07:38:38.621632+00:00",
+  "summary": {
+    "message": "Race-day weather record saved."
+  },
+  "error": null
+}

@@ -1,0 +1,87 @@
+{
+  "source": "Open-Meteo Previous Runs API",
+  "documentation": "https://open-meteo.com/en/docs/previous-runs-api",
+  "model": "gfs_seamless",
+  "lead_time_definition": "previous_day1 is the value predicted 24 hours before valid time; it is a fixed lead-time offset, not one fixed initialization cycle.",
+  "seasons": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "total_races": 109,
+  "successful_api_requests": 109,
+  "failed_or_empty_requests": 0,
+  "weather_non_null_counts": {
+    "temperature_c": 109,
+    "relative_humidity_pct": 65,
+    "precipitation_mm": 65,
+    "cloud_cover_pct": 65,
+    "wind_speed_kmh": 65,
+    "wind_direction_deg": 65
+  },
+  "by_season": {
+    "2022": {
+      "races": 22,
+      "successful_api_requests": 22,
+      "non_null_counts": {
+        "temperature_c": 22,
+        "relative_humidity_pct": 0,
+        "precipitation_mm": 0,
+        "cloud_cover_pct": 0,
+        "wind_speed_kmh": 0,
+        "wind_direction_deg": 0
+      }
+    },
+    "2023": {
+      "races": 22,
+      "successful_api_requests": 22,
+      "non_null_counts": {
+        "temperature_c": 22,
+        "relative_humidity_pct": 0,
+        "precipitation_mm": 0,
+        "cloud_cover_pct": 0,
+        "wind_speed_kmh": 0,
+        "wind_direction_deg": 0
+      }
+    },
+    "2024": {
+      "races": 24,
+      "successful_api_requests": 24,
+      "non_null_counts": {
+        "temperature_c": 24,
+        "relative_humidity_pct": 24,
+        "precipitation_mm": 24,
+        "cloud_cover_pct": 24,
+        "wind_speed_kmh": 24,
+        "wind_direction_deg": 24
+      }
+    },
+    "2025": {
+      "races": 24,
+      "successful_api_requests": 24,
+      "non_null_counts": {
+        "temperature_c": 24,
+        "relative_humidity_pct": 24,
+        "precipitation_mm": 24,
+        "cloud_cover_pct": 24,
+        "wind_speed_kmh": 24,
+        "wind_direction_deg": 24
+      }
+    },
+    "2026": {
+      "races": 17,
+      "successful_api_requests": 17,
+      "non_null_counts": {
+        "temperature_c": 17,
+        "relative_humidity_pct": 17,
+        "precipitation_mm": 17,
+        "cloud_cover_pct": 17,
+        "wind_speed_kmh": 17,
+        "wind_direction_deg": 17
+      }
+    }
+  },
+  "output_csv": "data\\processed\\weather_forecasts_experimental.csv"
+}

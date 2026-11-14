@@ -1,0 +1,421 @@
+season,round,race_name,race_date,circuit_id,circuit_name,driver_id,driver_code,driver_given_name,driver_family_name,constructor_id,constructor_name,grid,position,position_text,points,status,time,milliseconds,fastest_lap_rank,fastest_lap_number,fastest_lap_time,event_key,session
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,2,1,1,26.0,Finished,1:25:27.325,5127325,1,57,1:25.580,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,1,2,2,18.0,Finished,+20.886,5148211,2,57,1:26.057,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,3,3,15.0,Finished,+22.520,5149845,3,57,1:26.256,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,3,4,4,12.0,Finished,+57.109,5184434,8,16,1:27.954,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,5,5,5,10.0,Finished,+58.203,5185528,4,58,1:26.926,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,7,6,6,8.0,Finished,+1:27.156,5214481,9,56,1:28.182,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,11,7,7,6.0,+1 Lap,,,12,52,1:28.444,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,9,8,8,4.0,+1 Lap,,,11,52,1:28.270,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,stroll,STR,Lance,Stroll,racing_point,Racing Point,16,9,9,2.0,+1 Lap,,,7,29,1:27.568,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,15,10,10,1.0,+1 Lap,,,6,39,1:27.448,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,17,11,11,0.0,+1 Lap,,,5,39,1:27.229,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,8,12,12,0.0,+1 Lap,,,16,17,1:28.555,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,perez,PER,Sergio,Pérez,racing_point,Racing Point,10,13,13,0.0,+1 Lap,,,15,41,1:28.485,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,13,14,14,0.0,+1 Lap,,,10,43,1:28.188,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,14,15,15,0.0,+1 Lap,,,14,29,1:28.479,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,russell,RUS,George,Russell,williams,Williams,19,16,16,0.0,+2 Laps,,,17,55,1:28.713,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,kubica,KUB,Robert,Kubica,williams,Williams,20,17,17,0.0,+3 Laps,,,18,30,1:29.284,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,6,18,R,0.0,Wheel,,,13,17,1:28.462,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,12,19,R,0.0,Damage,,,19,18,1:29.848,2019-1,race
+2019,1,Australian Grand Prix,2019-03-17,albert_park,Albert Park Grand Prix Circuit,sainz,SAI,Carlos,Sainz,mclaren,McLaren,18,20,R,0.0,Engine,,,20,9,1:30.899,2019-1,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,3,1,1,25.0,Finished,1:34:21.295,5661295,2,36,1:33.528,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,4,2,2,18.0,Finished,+2.980,5664275,3,42,1:34.209,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,3,3,16.0,Finished,+6.131,5667426,1,38,1:33.411,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,5,4,4,12.0,Finished,+6.408,5667703,9,47,1:35.311,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,2,5,5,10.0,Finished,+36.068,5697363,4,43,1:34.895,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,9,6,6,8.0,Finished,+45.754,5707049,12,14,1:35.777,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,8,7,7,6.0,Finished,+47.470,5708765,11,45,1:35.589,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,13,8,8,4.0,Finished,+58.094,5719389,8,42,1:35.291,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,12,9,9,2.0,Finished,+1:02.697,5723992,16,39,1:36.752,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,perez,PER,Sergio,Pérez,racing_point,Racing Point,14,10,10,1.0,Finished,+1:03.696,5724991,14,51,1:36.330,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,16,11,11,0.0,Finished,+1:04.599,5725894,7,42,1:35.237,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,15,12,12,0.0,+1 Lap,,,5,40,1:34.934,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,6,13,13,0.0,+1 Lap,,,13,41,1:35.892,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,stroll,STR,Lance,Stroll,racing_point,Racing Point,18,14,14,0.0,+1 Lap,,,17,31,1:37.037,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,russell,RUS,George,Russell,williams,Williams,19,15,15,0.0,+1 Lap,,,19,14,1:37.313,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,kubica,KUB,Robert,Kubica,williams,Williams,20,16,16,0.0,+2 Laps,,,20,13,1:37.903,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,17,17,R,0.0,Engine,,,6,14,1:35.215,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,10,18,R,0.0,Out of fuel,,,15,42,1:36.697,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,sainz,SAI,Carlos,Sainz,mclaren,McLaren,7,19,R,0.0,Collision damage,,,10,42,1:35.586,2019-2,race
+2019,2,Bahrain Grand Prix,2019-03-31,bahrain,Bahrain International Circuit,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,11,20,R,0.0,Retired,,,18,3,1:37.262,2019-2,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,1,1,25.0,Finished,1:32:06.350,5526350,5,47,1:35.892,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,1,2,2,18.0,Finished,+6.552,5532902,4,38,1:34.872,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,3,3,3,15.0,Finished,+13.774,5540124,2,37,1:34.836,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,5,4,4,12.0,Finished,+27.627,5553977,6,45,1:36.143,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,5,5,10.0,Finished,+31.276,5557626,3,45,1:34.860,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,6,6,6,9.0,Finished,+1:29.307,5615657,1,55,1:34.742,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,7,7,7,6.0,+1 Lap,,,16,38,1:38.632,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,perez,PER,Sergio,Pérez,racing_point,Racing Point,12,8,8,4.0,+1 Lap,,,17,37,1:38.702,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,13,9,9,2.0,+1 Lap,,,12,27,1:37.812,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,0,10,10,1.0,+1 Lap,,,18,22,1:38.901,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,10,11,11,0.0,+1 Lap,,,8,37,1:36.873,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,stroll,STR,Lance,Stroll,racing_point,Racing Point,16,12,12,0.0,+1 Lap,,,7,46,1:36.678,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,9,13,13,0.0,+1 Lap,,,10,35,1:37.471,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,sainz,SAI,Carlos,Sainz,mclaren,McLaren,14,14,14,0.0,+1 Lap,,,11,44,1:37.502,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,19,15,15,0.0,+1 Lap,,,14,32,1:38.048,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,russell,RUS,George,Russell,williams,Williams,17,16,16,0.0,+2 Laps,,,9,51,1:37.283,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,kubica,KUB,Robert,Kubica,williams,Williams,18,17,17,0.0,+2 Laps,,,20,28,1:39.772,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,15,18,18,0.0,Collision,,,15,37,1:38.346,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,11,19,R,0.0,Collision,,,13,27,1:37.975,2019-3,race
+2019,3,Chinese Grand Prix,2019-04-14,shanghai,Shanghai International Circuit,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,8,20,R,0.0,Power Unit,,,19,14,1:39.677,2019-3,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,1,1,1,25.0,Finished,1:31:52.942,5512942,2,50,1:44.024,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,2,2,18.0,Finished,+1.524,5514466,3,48,1:44.166,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,3,3,3,15.0,Finished,+11.739,5524681,4,46,1:44.629,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,4,4,12.0,Finished,+17.493,5530435,5,39,1:44.794,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,8,5,5,11.0,Finished,+1:09.107,5582049,1,50,1:43.009,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,perez,PER,Sergio,Pérez,racing_point,Racing Point,5,6,6,8.0,Finished,+1:16.416,5589358,7,49,1:45.524,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,sainz,SAI,Carlos,Sainz,mclaren,McLaren,9,7,7,6.0,Finished,+1:23.826,5596768,10,43,1:45.807,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,7,8,8,4.0,Finished,+1:40.268,5613210,6,43,1:45.394,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,stroll,STR,Lance,Stroll,racing_point,Racing Point,13,9,9,2.0,Finished,+1:43.816,5616758,12,38,1:46.009,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,0,10,10,1.0,+1 Lap,,,13,48,1:46.479,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,11,11,11,0.0,+1 Lap,,,9,49,1:45.754,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,17,12,12,0.0,+1 Lap,,,11,45,1:45.969,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,12,13,13,0.0,+1 Lap,,,14,42,1:46.682,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,15,14,14,0.0,+1 Lap,,,17,43,1:47.407,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,russell,RUS,George,Russell,williams,Williams,16,15,15,0.0,+2 Laps,,,16,42,1:47.251,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,kubica,KUB,Robert,Kubica,williams,Williams,0,16,16,0.0,+2 Laps,,,19,45,1:47.709,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,0,17,R,0.0,Transmission,,,8,34,1:45.712,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,14,18,R,0.0,Brakes,,,20,33,1:48.517,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,6,19,R,0.0,Collision,,,18,28,1:47.681,2019-4,race
+2019,4,Azerbaijan Grand Prix,2019-04-28,baku,Baku City Circuit,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,10,20,R,0.0,Collision,,,15,29,1:46.767,2019-4,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,1,1,26.0,Finished,1:35:50.443,5750443,1,54,1:18.492,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,1,2,2,18.0,Finished,+4.074,5754517,2,55,1:18.737,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,3,3,15.0,Finished,+7.679,5758122,3,57,1:19.769,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,3,4,4,12.0,Finished,+9.167,5759610,4,64,1:19.820,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,5,5,5,10.0,Finished,+13.361,5763804,5,57,1:20.002,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,6,6,6,8.0,Finished,+19.576,5770019,6,57,1:20.536,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,8,7,7,6.0,Finished,+28.159,5778602,9,66,1:20.770,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,sainz,SAI,Carlos,Sainz,mclaren,McLaren,12,8,8,4.0,Finished,+32.342,5782785,10,59,1:20.859,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,9,9,9,2.0,Finished,+33.056,5783499,8,64,1:20.726,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,7,10,10,1.0,Finished,+34.641,5785084,12,64,1:21.057,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,11,11,11,0.0,Finished,+35.445,5785888,11,65,1:21.028,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,13,12,12,0.0,Finished,+36.758,5787201,7,56,1:20.615,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,0,13,13,0.0,Finished,+39.241,5789684,13,65,1:21.282,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,14,14,14,0.0,Finished,+41.803,5792246,14,66,1:21.382,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,perez,PER,Sergio,Pérez,racing_point,Racing Point,15,15,15,0.0,Finished,+46.877,5797320,16,65,1:21.859,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,18,16,16,0.0,Finished,+47.691,5798134,15,64,1:21.833,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,russell,RUS,George,Russell,williams,Williams,19,17,17,0.0,+1 Lap,,,17,64,1:22.382,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,kubica,KUB,Robert,Kubica,williams,Williams,17,18,18,0.0,+1 Lap,,,19,65,1:23.202,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,stroll,STR,Lance,Stroll,racing_point,Racing Point,16,19,R,0.0,Collision,,,20,28,1:23.226,2019-5,race
+2019,5,Spanish Grand Prix,2019-05-12,catalunya,Circuit de Barcelona-Catalunya,norris,NOR,Lando,Norris,mclaren,McLaren,10,20,R,0.0,Collision,,,18,28,1:22.561,2019-5,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,1,1,1,25.0,Finished,1:43:28.437,6208437,6,9,1:16.167,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,4,2,2,18.0,Finished,+2.602,6211039,9,9,1:16.277,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,2,3,3,15.0,Finished,+3.162,6211599,2,65,1:15.163,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,4,4,12.0,Finished,+5.537,6213974,7,9,1:16.229,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,8,5,5,11.0,Finished,+9.946,6218383,1,72,1:14.279,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,sainz,SAI,Carlos,Sainz,mclaren,McLaren,9,6,6,8.0,Finished,+53.454,6261891,5,32,1:15.891,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,7,7,7,6.0,Finished,+54.574,6263011,10,31,1:16.288,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,10,8,8,4.0,Finished,+55.200,6263637,3,43,1:15.607,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,6,9,9,2.0,Finished,+1:00.894,6269331,4,78,1:15.697,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,13,10,10,1.0,Finished,+1:01.034,6269471,16,41,1:16.746,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,norris,NOR,Lando,Norris,mclaren,McLaren,12,11,11,0.0,Finished,+1:06.801,6275238,13,61,1:16.413,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,perez,PER,Sergio,Pérez,racing_point,Racing Point,16,12,12,0.0,+1 Lap,,,15,67,1:16.613,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,11,13,13,0.0,+1 Lap,,,8,65,1:16.276,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,5,14,14,0.0,+1 Lap,,,17,61,1:16.992,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,russell,RUS,George,Russell,williams,Williams,19,15,15,0.0,+1 Lap,,,18,76,1:17.038,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,stroll,STR,Lance,Stroll,racing_point,Racing Point,17,16,16,0.0,+1 Lap,,,12,45,1:16.379,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,14,17,17,0.0,+1 Lap,,,14,50,1:16.436,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,kubica,KUB,Robert,Kubica,williams,Williams,20,18,18,0.0,+1 Lap,,,19,32,1:17.388,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,18,19,19,0.0,+2 Laps,,,11,46,1:16.299,2019-6,race
+2019,6,Monaco Grand Prix,2019-05-26,monaco,Circuit de Monaco,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,15,20,R,0.0,Collision,,,20,6,1:19.151,2019-6,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,1,1,25.0,Finished,1:29:07.084,5347084,4,62,1:14.813,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,1,2,2,18.0,Finished,+3.658,5350742,5,57,1:14.875,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,3,3,15.0,Finished,+4.696,5351780,2,63,1:14.356,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,6,4,4,13.0,Finished,+51.043,5398127,1,69,1:13.078,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,9,5,5,10.0,Finished,+57.655,5404739,3,67,1:14.767,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,4,6,6,8.0,+1 Lap,,,9,55,1:16.075,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,7,7,7,6.0,+1 Lap,,,7,57,1:15.995,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,5,8,8,4.0,+1 Lap,,,10,51,1:16.157,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,stroll,STR,Lance,Stroll,racing_point,Racing Point,17,9,9,2.0,+1 Lap,,,8,47,1:16.043,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,10,10,10,1.0,+1 Lap,,,11,44,1:16.198,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,sainz,SAI,Carlos,Sainz,mclaren,McLaren,11,11,11,0.0,+1 Lap,,,15,37,1:16.471,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,perez,PER,Sergio,Pérez,racing_point,Racing Point,15,12,12,0.0,+1 Lap,,,13,61,1:16.314,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,12,13,13,0.0,+1 Lap,,,14,69,1:16.365,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,14,14,14,0.0,+1 Lap,,,12,60,1:16.245,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,16,15,15,0.0,+1 Lap,,,6,60,1:15.442,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,russell,RUS,George,Russell,williams,Williams,18,16,16,0.0,+2 Laps,,,17,58,1:17.241,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,0,17,17,0.0,+2 Laps,,,19,41,1:17.309,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,kubica,KUB,Robert,Kubica,williams,Williams,19,18,18,0.0,+3 Laps,,,18,64,1:17.285,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,13,19,R,0.0,Collision damage,,,16,47,1:17.151,2019-7,race
+2019,7,Canadian Grand Prix,2019-06-09,villeneuve,Circuit Gilles Villeneuve,norris,NOR,Lando,Norris,mclaren,McLaren,8,20,R,0.0,Suspension,,,20,4,1:18.023,2019-7,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,1,1,1,25.0,Finished,1:24:31.198,5071198,2,53,1:32.764,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,2,2,2,18.0,Finished,+18.056,5089254,3,43,1:33.586,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,3,3,15.0,Finished,+18.985,5090183,4,40,1:33.828,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,4,4,12.0,Finished,+34.905,5106103,5,38,1:34.162,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,7,5,5,11.0,Finished,+1:02.796,5133994,1,53,1:32.740,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,sainz,SAI,Carlos,Sainz,mclaren,McLaren,6,6,6,8.0,Finished,+1:35.462,5166660,6,52,1:34.561,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,12,7,7,6.0,+1 Lap,,,8,47,1:34.873,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,13,8,8,4.0,+1 Lap,,,10,46,1:34.950,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,norris,NOR,Lando,Norris,mclaren,McLaren,5,9,9,2.0,+1 Lap,,,7,45,1:34.754,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,9,10,10,1.0,+1 Lap,,,15,47,1:35.197,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,8,11,11,0.0,+1 Lap,,,14,42,1:35.150,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,perez,PER,Sergio,Pérez,racing_point,Racing Point,14,12,12,0.0,+1 Lap,,,11,42,1:35.014,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,stroll,STR,Lance,Stroll,racing_point,Racing Point,17,13,13,0.0,+1 Lap,,,9,44,1:34.924,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,19,14,14,0.0,+1 Lap,,,16,43,1:35.225,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,11,15,15,0.0,+1 Lap,,,12,51,1:35.029,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,10,16,16,0.0,+1 Lap,,,13,50,1:35.115,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,15,17,17,0.0,+1 Lap,,,18,50,1:35.692,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,kubica,KUB,Robert,Kubica,williams,Williams,18,18,18,0.0,+2 Laps,,,20,50,1:36.608,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,russell,RUS,George,Russell,williams,Williams,20,19,19,0.0,+2 Laps,,,19,51,1:35.830,2019-8,race
+2019,8,French Grand Prix,2019-06-23,ricard,Circuit Paul Ricard,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,16,20,20,0.0,Retired,,,17,42,1:35.691,2019-8,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,1,1,26.0,Finished,1:22:01.822,4921822,1,60,1:07.475,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,2,2,18.0,Finished,+2.724,4924546,3,58,1:07.994,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,3,3,3,15.0,Finished,+18.960,4940782,7,53,1:08.565,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,9,4,4,12.0,Finished,+19.610,4941432,2,62,1:07.676,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,4,5,5,10.0,Finished,+22.805,4944627,5,69,1:08.050,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,norris,NOR,Lando,Norris,mclaren,McLaren,5,6,6,8.0,+1 Lap,,,8,69,1:08.699,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,8,7,7,6.0,+1 Lap,,,9,63,1:08.790,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,sainz,SAI,Carlos,Sainz,mclaren,McLaren,19,8,8,4.0,+1 Lap,,,6,53,1:08.117,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,6,9,9,2.0,+1 Lap,,,15,57,1:09.126,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,7,10,10,1.0,+1 Lap,,,13,57,1:09.051,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,perez,PER,Sergio,Pérez,racing_point,Racing Point,13,11,11,0.0,+1 Lap,,,14,67,1:09.061,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,12,12,12,0.0,+1 Lap,,,4,65,1:08.019,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,15,13,13,0.0,+1 Lap,,,16,59,1:09.248,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,stroll,STR,Lance,Stroll,racing_point,Racing Point,14,14,14,0.0,+1 Lap,,,17,57,1:09.288,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,18,15,15,0.0,+1 Lap,,,11,59,1:08.946,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,11,16,16,0.0,+1 Lap,,,12,56,1:08.987,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,16,17,17,0.0,+1 Lap,,,18,58,1:09.498,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,russell,RUS,George,Russell,williams,Williams,0,18,18,0.0,+2 Laps,,,19,52,1:09.926,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,10,19,19,0.0,+2 Laps,,,10,69,1:08.903,2019-9,race
+2019,9,Austrian Grand Prix,2019-06-30,red_bull_ring,Red Bull Ring,kubica,KUB,Robert,Kubica,williams,Williams,17,20,20,0.0,+3 Laps,,,20,55,1:10.964,2019-9,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,1,1,26.0,Finished,1:21:08.452,4868452,1,52,1:27.369,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,1,2,2,18.0,Finished,+24.928,4893380,2,47,1:27.406,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,3,3,15.0,Finished,+30.117,4898569,5,47,1:29.313,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,5,4,4,12.0,Finished,+34.692,4903144,8,48,1:29.544,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,5,5,10.0,Finished,+39.458,4907910,4,45,1:29.272,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,sainz,SAI,Carlos,Sainz,mclaren,McLaren,13,6,6,8.0,Finished,+53.639,4922091,11,50,1:29.757,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,7,7,7,6.0,Finished,+54.401,4922853,9,50,1:29.624,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,12,8,8,4.0,Finished,+1:05.540,4933992,14,51,1:30.034,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,17,9,9,2.0,Finished,+1:06.720,4935172,12,51,1:29.910,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,10,10,10,1.0,Finished,+1:12.733,4941185,13,51,1:29.949,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,8,11,11,0.0,Finished,+1:14.281,4942733,10,50,1:29.636,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,9,12,12,0.0,Finished,+1:15.617,4944069,15,46,1:30.872,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,stroll,STR,Lance,Stroll,racing_point,Racing Point,18,13,13,0.0,Finished,+1:21.086,4949538,6,49,1:29.390,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,russell,RUS,George,Russell,williams,Williams,19,14,14,0.0,+1 Lap,,,16,50,1:31.013,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,kubica,KUB,Robert,Kubica,williams,Williams,20,15,15,0.0,+1 Lap,,,17,50,1:31.509,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,6,16,16,0.0,+1 Lap,,,3,46,1:28.733,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,perez,PER,Sergio,Pérez,racing_point,Racing Point,15,17,17,0.0,+1 Lap,,,7,50,1:29.456,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,11,18,R,0.0,Spun off,,,18,17,1:32.464,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,14,19,R,0.0,Collision,,,20,4,1:34.350,2019-10,race
+2019,10,British Grand Prix,2019-07-14,silverstone,Silverstone Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,16,20,R,0.0,Collision,,,19,5,1:33.425,2019-10,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,1,1,26.0,Finished,1:44:31.275,6271275,1,61,1:16.645,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,20,2,2,18.0,Finished,+7.333,6278608,2,63,1:16.794,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,14,3,3,15.0,Finished,+8.305,6279580,6,61,1:17.708,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,stroll,STR,Lance,Stroll,racing_point,Racing Point,15,4,4,12.0,Finished,+8.966,6280241,8,61,1:17.831,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,sainz,SAI,Carlos,Sainz,mclaren,McLaren,7,5,5,10.0,Finished,+9.583,6280858,9,63,1:17.841,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,16,6,6,8.0,Finished,+10.052,6281327,10,63,1:17.850,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,6,7,7,6.0,Finished,+16.838,6288113,7,55,1:17.746,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,12,8,8,4.0,Finished,+18.765,6290040,5,62,1:17.507,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,1,9,9,2.0,Finished,+19.667,6290942,12,64,1:18.811,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,kubica,KUB,Robert,Kubica,williams,Williams,18,10,10,1.0,Finished,+24.987,6296262,13,63,1:19.062,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,russell,RUS,George,Russell,williams,Williams,17,11,11,0.0,Finished,+26.404,6297679,3,60,1:17.485,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,5,12,12,0.0,Finished,+42.214,6313489,15,60,1:19.563,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,11,13,13,0.0,Finished,+43.849,6315124,14,60,1:19.300,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,4,14,14,0.0,Collision,,,4,56,1:17.495,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,3,15,R,0.0,Accident,,,11,54,1:18.272,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,9,16,R,0.0,Accident,,,17,18,1:29.576,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,10,17,R,0.0,Accident,,,16,17,1:27.697,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,norris,NOR,Lando,Norris,mclaren,McLaren,19,18,R,0.0,Power loss,,,18,16,1:31.081,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,13,19,R,0.0,Exhaust,,,19,10,1:32.654,2019-11,race
+2019,11,German Grand Prix,2019-07-28,hockenheimring,Hockenheimring,perez,PER,Sergio,Pérez,racing_point,Racing Point,8,20,R,0.0,Spun off,,,,,,2019-11,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,3,1,1,25.0,Finished,1:35:03.796,5703796,2,60,1:18.528,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,2,2,19.0,Finished,+17.796,5721592,1,69,1:17.103,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,5,3,3,15.0,Finished,+1:01.433,5765229,4,65,1:19.786,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,4,12.0,Finished,+1:05.250,5769046,5,49,1:20.493,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,sainz,SAI,Carlos,Sainz,mclaren,McLaren,8,5,5,10.0,+1 Lap,,,10,66,1:21.002,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,gasly,GAS,Pierre,Gasly,red_bull,Red Bull,6,6,6,8.0,+1 Lap,,,12,65,1:21.045,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,10,7,7,6.0,+1 Lap,,,9,65,1:20.880,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,2,8,8,4.0,+1 Lap,,,3,59,1:19.331,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,norris,NOR,Lando,Norris,mclaren,McLaren,7,9,9,2.0,+1 Lap,,,13,65,1:21.188,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,albon,ALB,Alexander,Albon,toro_rosso,Toro Rosso,12,10,10,1.0,+1 Lap,,,7,65,1:20.621,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,perez,PER,Sergio,Pérez,racing_point,Racing Point,16,11,11,0.0,+1 Lap,,,15,47,1:21.734,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,11,12,12,0.0,+1 Lap,,,14,59,1:21.650,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,14,13,13,0.0,+1 Lap,,,11,67,1:21.008,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,20,14,14,0.0,+1 Lap,,,8,49,1:20.839,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,13,15,15,0.0,+2 Laps,,,16,55,1:21.932,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,russell,RUS,George,Russell,williams,Williams,15,16,16,0.0,+2 Laps,,,17,66,1:22.386,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,stroll,STR,Lance,Stroll,racing_point,Racing Point,18,17,17,0.0,+2 Laps,,,6,52,1:20.603,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,17,18,18,0.0,+2 Laps,,,19,64,1:23.134,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,kubica,KUB,Robert,Kubica,williams,Williams,19,19,19,0.0,+3 Laps,,,20,42,1:23.436,2019-12,race
+2019,12,Hungarian Grand Prix,2019-08-04,hungaroring,Hungaroring,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,9,20,R,0.0,Water pressure,,,18,46,1:22.809,2019-12,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,1,1,25.0,Finished,1:23:45.710,5025710,4,23,1:46.664,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,3,2,2,18.0,Finished,+0.981,5026691,3,24,1:46.580,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,4,3,3,15.0,Finished,+12.585,5038295,2,27,1:46.465,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,2,4,4,13.0,Finished,+26.422,5052132,1,36,1:46.409,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,albon,ALB,Alexander,Albon,red_bull,Red Bull,17,5,5,10.0,Finished,+1:21.325,5107035,5,41,1:47.507,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,perez,PER,Sergio,Pérez,racing_point,Racing Point,7,6,6,8.0,Finished,+1:24.448,5110158,13,29,1:48.781,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,19,7,7,6.0,Finished,+1:29.657,5115367,7,26,1:48.143,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,12,8,8,4.0,Finished,+1:46.639,5132349,9,34,1:48.349,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,gasly,GAS,Pierre,Gasly,toro_rosso,Toro Rosso,13,9,9,2.0,Finished,+1:49.168,5134878,17,21,1:49.700,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,stroll,STR,Lance,Stroll,racing_point,Racing Point,16,10,10,1.0,Finished,+1:49.838,5135548,10,34,1:48.357,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,norris,NOR,Lando,Norris,mclaren,McLaren,11,11,11,0.0,Engine,,,8,21,1:48.321,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,8,12,12,0.0,+1 Lap,,,11,33,1:48.677,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,9,13,13,0.0,+1 Lap,,,16,18,1:49.274,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,10,14,14,0.0,+1 Lap,,,18,21,1:50.451,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,russell,RUS,George,Russell,williams,Williams,14,15,15,0.0,+1 Lap,,,14,34,1:48.860,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,6,16,16,0.0,+1 Lap,,,12,37,1:48.753,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,kubica,KUB,Robert,Kubica,williams,Williams,0,17,17,0.0,+1 Lap,,,15,33,1:49.220,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,18,18,18,0.0,Accident,,,6,31,1:47.560,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,sainz,SAI,Carlos,Sainz,mclaren,McLaren,15,19,R,0.0,Power loss,,,,,,2019-13,race
+2019,13,Belgian Grand Prix,2019-09-01,spa,Circuit de Spa-Francorchamps,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,5,20,R,0.0,Accident,,,,,,2019-13,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,1,1,25.0,Finished,1:15:26.665,4526665,4,47,1:23.009,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,3,2,2,18.0,Finished,+0.835,4527500,3,47,1:22.859,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,3,3,16.0,Finished,+35.199,4561864,1,51,1:21.779,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,5,4,4,12.0,Finished,+45.515,4572180,7,53,1:23.466,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,6,5,5,10.0,Finished,+58.165,4584830,8,53,1:23.641,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,albon,ALB,Alexander,Albon,red_bull,Red Bull,8,6,6,8.0,Finished,+59.315,4585980,6,45,1:23.364,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,perez,PER,Sergio,Pérez,racing_point,Racing Point,18,7,7,6.0,Finished,+1:13.802,4600467,9,35,1:23.770,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,19,8,8,4.0,Finished,+1:14.492,4601157,5,41,1:23.143,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,10,9,9,2.0,+1 Lap,,,15,44,1:24.503,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,norris,NOR,Lando,Norris,mclaren,McLaren,16,10,10,1.0,+1 Lap,,,11,52,1:24.044,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,gasly,GAS,Pierre,Gasly,toro_rosso,Toro Rosso,17,11,11,0.0,+1 Lap,,,10,51,1:23.885,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,stroll,STR,Lance,Stroll,racing_point,Racing Point,9,12,12,0.0,+1 Lap,,,12,31,1:24.165,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,4,13,13,0.0,+1 Lap,,,2,50,1:22.799,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,russell,RUS,George,Russell,williams,Williams,14,14,14,0.0,+1 Lap,,,16,51,1:24.842,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,0,15,15,0.0,+1 Lap,,,13,52,1:24.419,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,13,16,16,0.0,+1 Lap,,,17,31,1:24.985,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,kubica,KUB,Robert,Kubica,williams,Williams,15,17,17,0.0,+2 Laps,,,18,47,1:24.989,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,11,18,R,0.0,Hydraulics,,,14,38,1:24.443,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,12,19,R,0.0,Engine,,,20,19,1:25.772,2019-14,race
+2019,14,Italian Grand Prix,2019-09-08,monza,Autodromo Nazionale di Monza,sainz,SAI,Carlos,Sainz,mclaren,McLaren,7,20,R,0.0,Wheel,,,19,10,1:25.637,2019-14,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,3,1,1,25.0,Finished,1:58:33.667,7113667,5,57,1:44.802,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,2,2,18.0,Finished,+2.641,7116308,4,59,1:44.723,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,3,3,15.0,Finished,+3.821,7117488,8,56,1:45.176,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,4,4,12.0,Finished,+4.608,7118275,7,58,1:44.914,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,5,5,5,10.0,Finished,+6.119,7119786,2,58,1:43.534,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,albon,ALB,Alexander,Albon,red_bull,Red Bull,6,6,6,8.0,Finished,+11.663,7125330,9,59,1:45.260,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,9,7,7,6.0,Finished,+14.769,7128436,11,58,1:45.716,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,gasly,GAS,Pierre,Gasly,toro_rosso,Toro Rosso,11,8,8,4.0,Finished,+15.547,7129214,13,58,1:45.769,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,8,9,9,2.0,Finished,+16.718,7130385,12,59,1:45.765,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,10,10,10,1.0,Finished,+27.855,7141522,10,59,1:45.630,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,17,11,11,0.0,Finished,+35.436,7149103,16,54,1:46.274,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,sainz,SAI,Carlos,Sainz,mclaren,McLaren,7,12,12,0.0,Finished,+35.974,7149641,15,41,1:45.969,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,stroll,STR,Lance,Stroll,racing_point,Racing Point,16,13,13,0.0,Finished,+36.419,7150086,6,57,1:44.896,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,20,14,14,0.0,Finished,+37.660,7151327,14,55,1:45.915,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,14,15,15,0.0,Finished,+38.178,7151845,3,57,1:44.371,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,kubica,KUB,Robert,Kubica,williams,Williams,19,16,16,0.0,Finished,+47.024,7160691,18,59,1:46.793,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,13,17,17,0.0,Finished,+1:26.522,7200189,1,58,1:42.301,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,12,18,R,0.0,Collision,,,19,18,1:47.062,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,perez,PER,Sergio,Pérez,racing_point,Racing Point,15,19,R,0.0,Engine,,,17,15,1:46.683,2019-15,race
+2019,15,Singapore Grand Prix,2019-09-22,marina_bay,Marina Bay Street Circuit,russell,RUS,George,Russell,williams,Williams,18,20,R,0.0,Collision,,,20,29,1:48.285,2019-15,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,1,1,26.0,Finished,1:33:38.992,5618992,1,51,1:35.761,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,4,2,2,18.0,Finished,+3.829,5622821,3,50,1:36.316,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,3,3,15.0,Finished,+5.212,5624204,2,52,1:36.193,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,9,4,4,12.0,Finished,+14.210,5633202,5,47,1:36.937,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,albon,ALB,Alexander,Albon,red_bull,Red Bull,0,5,5,10.0,Finished,+38.348,5657340,4,50,1:36.762,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,sainz,SAI,Carlos,Sainz,mclaren,McLaren,5,6,6,8.0,Finished,+45.889,5664881,6,53,1:38.020,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,perez,PER,Sergio,Pérez,racing_point,Racing Point,11,7,7,6.0,Finished,+48.728,5667720,7,49,1:38.043,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,norris,NOR,Lando,Norris,mclaren,McLaren,7,8,8,4.0,Finished,+57.749,5676741,11,52,1:38.301,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,13,9,9,2.0,Finished,+58.779,5677771,8,53,1:38.130,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,6,10,10,1.0,Finished,+59.841,5678833,12,53,1:38.519,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,stroll,STR,Lance,Stroll,racing_point,Racing Point,14,11,11,0.0,Finished,+1:00.821,5679813,15,53,1:38.611,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,19,12,12,0.0,Finished,+1:02.496,5681488,9,52,1:38.228,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,15,13,13,0.0,Finished,+1:08.910,5687902,13,51,1:38.589,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,gasly,GAS,Pierre,Gasly,toro_rosso,Toro Rosso,16,14,14,0.0,Finished,+1:10.076,5689068,14,51,1:38.606,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,12,15,15,0.0,Finished,+1:13.346,5692338,16,51,1:38.696,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,kubica,KUB,Robert,Kubica,williams,Williams,18,16,R,0.0,Brakes,,,19,24,1:42.327,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,russell,RUS,George,Russell,williams,Williams,17,17,R,0.0,Brakes,,,18,18,1:41.705,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,3,18,R,0.0,Power loss,,,10,16,1:38.245,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,10,19,R,0.0,Collision,,,17,22,1:41.284,2019-16,race
+2019,16,Russian Grand Prix,2019-09-29,sochi,Sochi Autodrom,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,8,20,R,0.0,Collision,,,,,,2019-16,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,3,1,1,25.0,Finished,1:21:46.755,4906755,4,49,1:31.862,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,1,2,2,18.0,Finished,+13.343,4920098,5,38,1:32.122,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,4,3,3,16.0,Finished,+13.858,4920613,1,45,1:30.983,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,albon,ALB,Alexander,Albon,red_bull,Red Bull,6,4,4,12.0,Finished,+59.537,4966292,8,36,1:32.775,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,sainz,SAI,Carlos,Sainz,mclaren,McLaren,7,5,5,10.0,Finished,+1:09.101,4975856,12,46,1:33.563,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,6,6,8.0,+1 Lap,,,2,48,1:31.611,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,gasly,GAS,Pierre,Gasly,toro_rosso,Toro Rosso,9,7,7,6.0,+1 Lap,,,17,43,1:35.321,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,perez,PER,Sergio,Pérez,racing_point,Racing Point,17,8,8,4.0,+1 Lap,,,7,46,1:32.621,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,stroll,STR,Lance,Stroll,racing_point,Racing Point,12,9,9,2.0,+1 Lap,,,14,26,1:34.713,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,14,10,10,1.0,+1 Lap,,,10,47,1:33.239,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,8,11,11,0.0,+1 Lap,,,13,31,1:34.116,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,13,12,12,0.0,+1 Lap,,,9,50,1:33.190,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,10,13,13,0.0,+1 Lap,,,16,18,1:34.988,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,11,14,14,0.0,+1 Lap,,,6,51,1:32.369,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,19,15,15,0.0,+1 Lap,,,3,49,1:31.732,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,russell,RUS,George,Russell,williams,Williams,18,16,16,0.0,+2 Laps,,,18,27,1:35.458,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,kubica,KUB,Robert,Kubica,williams,Williams,0,17,17,0.0,+2 Laps,,,19,44,1:36.332,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,5,18,R,0.0,Brakes,,,20,10,1:37.249,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,16,19,D,0.0,Disqualified,,,11,48,1:33.481,2019-17,race
+2019,17,Japanese Grand Prix,2019-10-13,suzuka,Suzuka Circuit,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,15,20,D,0.0,Disqualified,,,15,47,1:34.921,2019-17,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,3,1,1,25.0,Finished,1:36:48.904,5808904,4,66,1:19.461,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,2,2,2,18.0,Finished,+1.766,5810670,3,68,1:19.381,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,6,3,3,15.0,Finished,+3.553,5812457,5,66,1:19.494,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,4,4,13.0,Finished,+6.368,5815272,1,53,1:19.232,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,albon,ALB,Alexander,Albon,red_bull,Red Bull,5,5,5,10.0,Finished,+21.399,5830303,2,48,1:19.325,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,6,6,8.0,Finished,+1:08.807,5877711,11,65,1:20.406,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,perez,PER,Sergio,Pérez,racing_point,Racing Point,11,7,7,6.0,Finished,+1:13.819,5882723,12,70,1:20.485,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,13,8,8,4.0,Finished,+1:14.924,5883828,9,53,1:20.146,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,gasly,GAS,Pierre,Gasly,toro_rosso,Toro Rosso,10,9,9,2.0,+1 Lap,,,6,53,1:19.530,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,12,10,10,1.0,+1 Lap,,,14,59,1:20.791,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,9,11,11,0.0,+1 Lap,,,7,48,1:19.905,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,stroll,STR,Lance,Stroll,racing_point,Racing Point,16,12,12,0.0,+1 Lap,,,15,68,1:20.922,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,sainz,SAI,Carlos,Sainz,mclaren,McLaren,7,13,13,0.0,+1 Lap,,,10,66,1:20.311,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,15,14,14,0.0,+1 Lap,,,16,65,1:21.014,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,17,15,15,0.0,+2 Laps,,,20,53,1:21.682,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,russell,RUS,George,Russell,williams,Williams,19,16,16,0.0,+2 Laps,,,17,69,1:21.286,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,18,17,17,0.0,+2 Laps,,,18,68,1:21.581,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,kubica,KUB,Robert,Kubica,williams,Williams,20,18,18,0.0,+2 Laps,,,13,63,1:20.696,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,14,19,R,0.0,Overheating,,,8,55,1:20.082,2019-18,race
+2019,18,Mexican Grand Prix,2019-10-27,rodriguez,Autódromo Hermanos Rodríguez,norris,NOR,Lando,Norris,mclaren,McLaren,8,20,W,0.0,Withdrew,,,19,46,1:21.643,2019-18,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,1,1,1,25.0,Finished,1:33:55.653,5635653,2,37,1:36.957,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,5,2,2,18.0,Finished,+4.148,5639801,7,26,1:38.446,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,3,3,15.0,Finished,+5.002,5640655,5,42,1:38.214,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,4,13.0,Finished,+52.239,5687892,1,44,1:36.169,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,albon,ALB,Alexander,Albon,red_bull,Red Bull,6,5,5,10.0,Finished,+1:18.038,5713691,3,42,1:38.029,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,9,6,6,8.0,Finished,+1:30.366,5726019,14,28,1:40.564,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,norris,NOR,Lando,Norris,mclaren,McLaren,8,7,7,6.0,Finished,+1:30.764,5726417,4,44,1:38.074,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,sainz,SAI,Carlos,Sainz,mclaren,McLaren,7,8,8,4.0,+1 Lap,,,15,44,1:40.844,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,11,9,9,2.0,+1 Lap,,,6,47,1:38.437,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,perez,PER,Sergio,Pérez,racing_point,Racing Point,0,10,10,1.0,+1 Lap,,,11,34,1:40.165,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,17,11,11,0.0,+1 Lap,,,9,46,1:39.608,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,13,12,12,0.0,+1 Lap,,,8,41,1:38.969,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,stroll,STR,Lance,Stroll,racing_point,Racing Point,14,13,13,0.0,+1 Lap,,,13,42,1:40.380,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,16,14,14,0.0,+1 Lap,,,10,41,1:39.964,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,15,15,15,0.0,+1 Lap,,,18,52,1:41.270,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,gasly,GAS,Pierre,Gasly,toro_rosso,Toro Rosso,10,16,16,0.0,Suspension,,,16,31,1:40.850,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,russell,RUS,George,Russell,williams,Williams,18,17,17,0.0,+2 Laps,,,17,54,1:41.239,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,12,18,18,0.0,Brakes,,,12,42,1:40.347,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,kubica,KUB,Robert,Kubica,williams,Williams,19,19,R,0.0,Oil leak,,,20,22,1:43.830,2019-19,race
+2019,19,United States Grand Prix,2019-11-03,americas,Circuit of the Americas,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,2,20,R,0.0,Suspension,,,19,6,1:42.165,2019-19,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,1,25.0,Finished,1:33:14.678,5594678,2,61,1:10.862,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,gasly,GAS,Pierre,Gasly,toro_rosso,Toro Rosso,6,2,2,18.0,Finished,+6.077,5600755,9,65,1:12.425,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,sainz,SAI,Carlos,Sainz,mclaren,McLaren,20,3,3,15.0,Finished,+8.896,5603574,16,63,1:13.158,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,8,4,4,12.0,Finished,+9.452,5604130,15,65,1:13.135,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,12,5,5,10.0,Finished,+10.201,5604879,14,49,1:13.020,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,11,6,6,8.0,Finished,+10.541,5605219,11,44,1:12.733,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,3,7,7,6.0,Finished,+11.139,5605817,3,46,1:11.082,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,norris,NOR,Lando,Norris,mclaren,McLaren,10,8,8,4.0,Finished,+11.204,5605882,7,63,1:12.328,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,perez,PER,Sergio,Pérez,racing_point,Racing Point,15,9,9,2.0,Finished,+11.529,5606207,12,64,1:12.840,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,16,10,10,1.0,Finished,+11.931,5606609,8,49,1:12.385,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,9,11,11,0.0,Finished,+12.732,5607410,17,65,1:13.262,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,russell,RUS,George,Russell,williams,Williams,18,12,12,0.0,Finished,+13.599,5608277,19,57,1:13.752,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,7,13,13,0.0,Finished,+14.247,5608925,18,29,1:13.619,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,albon,ALB,Alexander,Albon,red_bull,Red Bull,5,14,14,0.0,Finished,+14.927,5609605,4,52,1:11.087,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,13,15,15,0.0,Finished,+18.059,5612737,13,64,1:12.934,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,kubica,KUB,Robert,Kubica,williams,Williams,19,16,16,0.0,+1 Lap,,,20,63,1:14.553,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,2,17,17,0.0,Collision,,,5,51,1:11.384,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,14,18,18,0.0,Collision,,,6,63,1:11.423,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,stroll,STR,Lance,Stroll,racing_point,Racing Point,17,19,19,0.0,Suspension,,,10,65,1:12.603,2019-20,race
+2019,20,Brazilian Grand Prix,2019-11-17,interlagos,Autódromo José Carlos Pace,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,4,20,R,0.0,Power Unit,,,1,43,1:10.698,2019-20,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,1,1,1,26.0,Finished,1:34:05.715,5645715,1,53,1:39.283,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,2,2,18.0,Finished,+16.772,5662487,5,55,1:41.119,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,3,3,15.0,Finished,+43.435,5689150,4,44,1:40.442,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,20,4,4,12.0,Finished,+44.379,5690094,2,31,1:39.715,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,vettel,VET,Sebastian,Vettel,ferrari,Ferrari,4,5,5,10.0,Finished,+1:04.357,5710072,3,55,1:40.128,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,albon,ALB,Alexander,Albon,red_bull,Red Bull,5,6,6,8.0,Finished,+1:09.205,5714920,8,49,1:42.219,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,perez,PER,Sergio,Pérez,racing_point,Racing Point,10,7,7,6.0,+1 Lap,,,11,39,1:42.639,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,norris,NOR,Lando,Norris,mclaren,McLaren,6,8,8,4.0,+1 Lap,,,12,50,1:43.026,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,kvyat,KVY,Daniil,Kvyat,toro_rosso,Toro Rosso,13,9,9,2.0,+1 Lap,,,9,42,1:42.222,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,sainz,SAI,Carlos,Sainz,mclaren,McLaren,8,10,10,1.0,+1 Lap,,,7,43,1:41.294,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,ricciardo,RIC,Daniel,Ricciardo,renault,Renault,7,11,11,0.0,+1 Lap,,,6,51,1:41.190,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,hulkenberg,HUL,Nico,Hülkenberg,renault,Renault,9,12,12,0.0,+1 Lap,,,16,52,1:43.274,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,17,13,13,0.0,+1 Lap,,,14,25,1:43.142,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,14,14,14,0.0,+1 Lap,,,19,22,1:43.790,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,grosjean,GRO,Romain,Grosjean,haas,Haas F1 Team,15,15,15,0.0,+1 Lap,,,18,33,1:43.666,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,16,16,16,0.0,+1 Lap,,,15,28,1:43.256,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,russell,RUS,George,Russell,williams,Williams,18,17,17,0.0,+1 Lap,,,13,50,1:43.074,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,gasly,GAS,Pierre,Gasly,toro_rosso,Toro Rosso,11,18,18,0.0,+2 Laps,,,10,53,1:42.414,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,kubica,KUB,Robert,Kubica,williams,Williams,19,19,19,0.0,+2 Laps,,,20,51,1:44.500,2019-21,race
+2019,21,Abu Dhabi Grand Prix,2019-12-01,yas_marina,Yas Marina Circuit,stroll,STR,Lance,Stroll,racing_point,Racing Point,12,20,R,0.0,Brakes,,,17,25,1:43.326,2019-21,race

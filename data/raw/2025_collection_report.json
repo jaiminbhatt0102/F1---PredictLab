@@ -1,0 +1,97 @@
+{
+  "season": 2025,
+  "requests": [
+    {
+      "endpoint": "2025/results?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 479,
+      "offset": 0
+    },
+    {
+      "endpoint": "2025/results?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 479,
+      "offset": 100
+    },
+    {
+      "endpoint": "2025/results?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 479,
+      "offset": 200
+    },
+    {
+      "endpoint": "2025/results?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 479,
+      "offset": 300
+    },
+    {
+      "endpoint": "2025/results?limit=100&offset=400",
+      "status": "ok",
+      "rows_returned": 79,
+      "total_reported": 479,
+      "offset": 400
+    },
+    {
+      "endpoint": "2025/qualifying?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 479,
+      "offset": 0
+    },
+    {
+      "endpoint": "2025/qualifying?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 479,
+      "offset": 100
+    },
+    {
+      "endpoint": "2025/qualifying?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 479,
+      "offset": 200
+    },
+    {
+      "endpoint": "2025/qualifying?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 479,
+      "offset": 300
+    },
+    {
+      "endpoint": "2025/qualifying?limit=100&offset=400",
+      "status": "ok",
+      "rows_returned": 79,
+      "total_reported": 479,
+      "offset": 400
+    },
+    {
+      "endpoint": "2025/sprint?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 120
+    },
+    {
+      "endpoint": "2025/sprint?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 20,
+      "total_reported": 120
+    }
+  ],
+  "row_counts": {
+    "race": 479,
+    "qualifying": 479,
+    "sprint": 120
+  },
+  "files": [
+    "data\\raw\\2025_race_results.csv",
+    "data\\raw\\2025_qualifying_results.csv",
+    "data\\raw\\2025_sprint_results.csv"
+  ]
+}

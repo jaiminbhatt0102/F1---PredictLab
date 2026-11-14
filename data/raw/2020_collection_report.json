@@ -1,0 +1,77 @@
+{
+  "season": 2020,
+  "requests": [
+    {
+      "endpoint": "2020/results?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 340,
+      "offset": 0
+    },
+    {
+      "endpoint": "2020/results?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 340,
+      "offset": 100
+    },
+    {
+      "endpoint": "2020/results?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 340,
+      "offset": 200
+    },
+    {
+      "endpoint": "2020/results?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 40,
+      "total_reported": 340,
+      "offset": 300
+    },
+    {
+      "endpoint": "2020/qualifying?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 340,
+      "offset": 0
+    },
+    {
+      "endpoint": "2020/qualifying?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 340,
+      "offset": 100
+    },
+    {
+      "endpoint": "2020/qualifying?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 340,
+      "offset": 200
+    },
+    {
+      "endpoint": "2020/qualifying?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 40,
+      "total_reported": 340,
+      "offset": 300
+    },
+    {
+      "endpoint": "2020/sprint?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 0,
+      "total_reported": 0
+    }
+  ],
+  "row_counts": {
+    "race": 340,
+    "qualifying": 340,
+    "sprint": 0
+  },
+  "files": [
+    "data\\raw\\2020_race_results.csv",
+    "data\\raw\\2020_qualifying_results.csv",
+    "data\\raw\\2020_sprint_results.csv"
+  ]
+}

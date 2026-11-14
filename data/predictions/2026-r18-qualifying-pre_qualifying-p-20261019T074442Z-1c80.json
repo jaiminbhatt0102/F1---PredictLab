@@ -1,0 +1,283 @@
+{
+  "snapshot_id": "2026-r18-qualifying-pre_qualifying-p-20261019T074442Z-1c80",
+  "schema_version": 1,
+  "status": "ready",
+  "kind": "production",
+  "created_at_utc": "2026-10-19T07:44:42.975664+00:00",
+  "generated_at_utc": "2026-10-19T07:44:42.975664+00:00",
+  "trigger": "manual",
+  "requested": {
+    "season": 2026,
+    "round": 18,
+    "session": "qualifying",
+    "checkpoint": "pre_qualifying",
+    "use_weather": false
+  },
+  "event_name": "United States Grand Prix",
+  "event": {
+    "season": 2026,
+    "round": 18,
+    "race_name": "United States Grand Prix",
+    "country": "United States",
+    "locality": "Austin",
+    "circuit_id": "americas",
+    "circuit_name": "Circuit of the Americas",
+    "event_date": "2026-10-25",
+    "race_start_utc": "2026-10-25T20:00:00+00:00",
+    "event_format": "conventional",
+    "is_sprint_weekend": false,
+    "weekend_stage": "upcoming",
+    "session_times_utc": {},
+    "sessions": {
+      "qualifying": "pending",
+      "sprint": "not_applicable",
+      "race": "pending"
+    }
+  },
+  "stage": {
+    "checkpoint": "pre_qualifying",
+    "label": "Before qualifying",
+    "uses": "Results of earlier races only. Nothing from this weekend."
+  },
+  "output_type": "predicted_qualifying_position",
+  "output_label": "Predicted qualifying order",
+  "model": {
+    "status": "production",
+    "model_kind": "gradient_boosting",
+    "trained_through_event": {
+      "season": 2026,
+      "round": 17
+    }
+  },
+  "inputs": {
+    "weather": {
+      "available": true,
+      "captured_at_utc": "2026-10-19T07:41:16.854690+00:00",
+      "valid_time_utc": "2026-10-25T20:00:00+00:00",
+      "lead_hours": 156.312,
+      "temperature_c": 26.6,
+      "rain_mm": 0.0,
+      "wind_kmh": 19.1,
+      "humidity_pct": 33,
+      "lead_time_check": {
+        "status": "too_early",
+        "message": "This forecast was captured about 156 hours before the race. The weather model needs one captured 18 to 30 hours before."
+      },
+      "circuit_id": "americas"
+    },
+    "data_version": {
+      "dataset_updated_at_utc": "2026-10-18T08:06:30+00:00",
+      "training_rows": 3832,
+      "latest_completed_event": {
+        "season": 2026,
+        "round": 17,
+        "race_name": "Singapore Grand Prix"
+      }
+    }
+  },
+  "input_availability": [
+    {
+      "key": "qualifying",
+      "label": "Qualifying results",
+      "state": "not_yet_available"
+    },
+    {
+      "key": "sprint",
+      "label": "Sprint results",
+      "state": "not_applicable"
+    },
+    {
+      "key": "race",
+      "label": "Race results",
+      "state": "not_yet_available"
+    },
+    {
+      "key": "weather",
+      "label": "Weather forecast",
+      "state": "too_early",
+      "detail": "This forecast was captured about 156 hours before the race. The weather model needs one captured 18 to 30 hours before."
+    }
+  ],
+  "warnings": [
+    "The driver list is copied from the latest completed race. Check it against the confirmed entry list.",
+    "This estimate uses past results only. It does not know about practice pace, weather or penalties."
+  ],
+  "rows": [
+    {
+      "predicted_order": 1,
+      "driver_id": "max_verstappen",
+      "driver_code": "VER",
+      "driver_name": "Max Verstappen",
+      "constructor_name": "Red Bull",
+      "predicted_position": 2.6416290737192805
+    },
+    {
+      "predicted_order": 2,
+      "driver_id": "leclerc",
+      "driver_code": "LEC",
+      "driver_name": "Charles Leclerc",
+      "constructor_name": "Ferrari",
+      "predicted_position": 3.6854837355512817
+    },
+    {
+      "predicted_order": 3,
+      "driver_id": "hamilton",
+      "driver_code": "HAM",
+      "driver_name": "Lewis Hamilton",
+      "constructor_name": "Ferrari",
+      "predicted_position": 4.135710173696875
+    },
+    {
+      "predicted_order": 4,
+      "driver_id": "russell",
+      "driver_code": "RUS",
+      "driver_name": "George Russell",
+      "constructor_name": "Mercedes",
+      "predicted_position": 4.684656128679283
+    },
+    {
+      "predicted_order": 5,
+      "driver_id": "piastri",
+      "driver_code": "PIA",
+      "driver_name": "Oscar Piastri",
+      "constructor_name": "McLaren",
+      "predicted_position": 5.7168846685656
+    },
+    {
+      "predicted_order": 6,
+      "driver_id": "antonelli",
+      "driver_code": "ANT",
+      "driver_name": "Andrea Kimi Antonelli",
+      "constructor_name": "Mercedes",
+      "predicted_position": 6.352756857894492
+    },
+    {
+      "predicted_order": 7,
+      "driver_id": "norris",
+      "driver_code": "NOR",
+      "driver_name": "Lando Norris",
+      "constructor_name": "McLaren",
+      "predicted_position": 6.675530571298056
+    },
+    {
+      "predicted_order": 8,
+      "driver_id": "hadjar",
+      "driver_code": "HAD",
+      "driver_name": "Isack Hadjar",
+      "constructor_name": "Red Bull",
+      "predicted_position": 7.5858709161895685
+    },
+    {
+      "predicted_order": 9,
+      "driver_id": "gasly",
+      "driver_code": "GAS",
+      "driver_name": "Pierre Gasly",
+      "constructor_name": "Alpine F1 Team",
+      "predicted_position": 10.290063879532921
+    },
+    {
+      "predicted_order": 10,
+      "driver_id": "lawson",
+      "driver_code": "LAW",
+      "driver_name": "Liam Lawson",
+      "constructor_name": "RB F1 Team",
+      "predicted_position": 10.626984126372093
+    },
+    {
+      "predicted_order": 11,
+      "driver_id": "sainz",
+      "driver_code": "SAI",
+      "driver_name": "Carlos Sainz",
+      "constructor_name": "Williams",
+      "predicted_position": 12.889113403781897
+    },
+    {
+      "predicted_order": 12,
+      "driver_id": "arvid_lindblad",
+      "driver_code": "LIN",
+      "driver_name": "Arvid Lindblad",
+      "constructor_name": "RB F1 Team",
+      "predicted_position": 12.93977082100321
+    },
+    {
+      "predicted_order": 13,
+      "driver_id": "colapinto",
+      "driver_code": "COL",
+      "driver_name": "Franco Colapinto",
+      "constructor_name": "Alpine F1 Team",
+      "predicted_position": 13.594779406498082
+    },
+    {
+      "predicted_order": 14,
+      "driver_id": "hulkenberg",
+      "driver_code": "HUL",
+      "driver_name": "Nico H\u00fclkenberg",
+      "constructor_name": "Audi",
+      "predicted_position": 13.692531084652016
+    },
+    {
+      "predicted_order": 15,
+      "driver_id": "bearman",
+      "driver_code": "BEA",
+      "driver_name": "Oliver Bearman",
+      "constructor_name": "Haas F1 Team",
+      "predicted_position": 13.736824334837815
+    },
+    {
+      "predicted_order": 16,
+      "driver_id": "bortoleto",
+      "driver_code": "BOR",
+      "driver_name": "Gabriel Bortoleto",
+      "constructor_name": "Audi",
+      "predicted_position": 13.875089200480346
+    },
+    {
+      "predicted_order": 17,
+      "driver_id": "ocon",
+      "driver_code": "OCO",
+      "driver_name": "Esteban Ocon",
+      "constructor_name": "Haas F1 Team",
+      "predicted_position": 14.059895613291214
+    },
+    {
+      "predicted_order": 18,
+      "driver_id": "alonso",
+      "driver_code": "ALO",
+      "driver_name": "Fernando Alonso",
+      "constructor_name": "Aston Martin",
+      "predicted_position": 14.41159697805227
+    },
+    {
+      "predicted_order": 19,
+      "driver_id": "albon",
+      "driver_code": "ALB",
+      "driver_name": "Alexander Albon",
+      "constructor_name": "Williams",
+      "predicted_position": 15.963050698499869
+    },
+    {
+      "predicted_order": 20,
+      "driver_id": "stroll",
+      "driver_code": "STR",
+      "driver_name": "Lance Stroll",
+      "constructor_name": "Aston Martin",
+      "predicted_position": 16.73340132866857
+    },
+    {
+      "predicted_order": 21,
+      "driver_id": "bottas",
+      "driver_code": "BOT",
+      "driver_name": "Valtteri Bottas",
+      "constructor_name": "Cadillac F1 Team",
+      "predicted_position": 19.748030511059778
+    },
+    {
+      "predicted_order": 22,
+      "driver_id": "perez",
+      "driver_code": "PER",
+      "driver_name": "Sergio P\u00e9rez",
+      "constructor_name": "Cadillac F1 Team",
+      "predicted_position": 19.748030511059778
+    }
+  ]
+}

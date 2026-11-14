@@ -1,0 +1,91 @@
+{
+  "season": 2021,
+  "requests": [
+    {
+      "endpoint": "2021/results?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 0
+    },
+    {
+      "endpoint": "2021/results?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 100
+    },
+    {
+      "endpoint": "2021/results?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 200
+    },
+    {
+      "endpoint": "2021/results?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 300
+    },
+    {
+      "endpoint": "2021/results?limit=100&offset=400",
+      "status": "ok",
+      "rows_returned": 40,
+      "total_reported": 440,
+      "offset": 400
+    },
+    {
+      "endpoint": "2021/qualifying?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 439,
+      "offset": 0
+    },
+    {
+      "endpoint": "2021/qualifying?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 439,
+      "offset": 100
+    },
+    {
+      "endpoint": "2021/qualifying?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 439,
+      "offset": 200
+    },
+    {
+      "endpoint": "2021/qualifying?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 439,
+      "offset": 300
+    },
+    {
+      "endpoint": "2021/qualifying?limit=100&offset=400",
+      "status": "ok",
+      "rows_returned": 39,
+      "total_reported": 439,
+      "offset": 400
+    },
+    {
+      "endpoint": "2021/sprint?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 60,
+      "total_reported": 60
+    }
+  ],
+  "row_counts": {
+    "race": 440,
+    "qualifying": 439,
+    "sprint": 60
+  },
+  "files": [
+    "data\\raw\\2021_race_results.csv",
+    "data\\raw\\2021_qualifying_results.csv",
+    "data\\raw\\2021_sprint_results.csv"
+  ]
+}

@@ -1,0 +1,421 @@
+season,round,race_name,race_date,circuit_id,circuit_name,driver_id,driver_code,driver_number,driver_given_name,driver_family_name,constructor_id,constructor_name,position,q1,q2,q3,event_key,session
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,2,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,3,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,4,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,5,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,6,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,7,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,8,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,sainz,SAI,55,Carlos,Sainz,renault,Renault,9,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,10,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,11,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,12,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,perez,PER,11,Sergio,Pérez,force_india,Force India,13,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,stroll,STR,18,Lance,Stroll,williams,Williams,14,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,ocon,OCO,31,Esteban,Ocon,force_india,Force India,15,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,16,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,17,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,18,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,19,,,,2018-1,qualifying
+2018,1,Australian Grand Prix,2018-03-25,albert_park,Albert Park Grand Prix Circuit,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,20,,,,2018-1,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,1,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,2,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,3,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,4,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,5,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,6,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,7,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,8,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,ocon,OCO,31,Esteban,Ocon,force_india,Force India,9,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,sainz,SAI,55,Carlos,Sainz,renault,Renault,10,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,11,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,perez,PER,11,Sergio,Pérez,force_india,Force India,12,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,13,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,14,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,15,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,16,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,17,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,18,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,19,,,,2018-2,qualifying
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,Bahrain International Circuit,stroll,STR,18,Lance,Stroll,williams,Williams,20,,,,2018-2,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,1,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,2,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,3,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,4,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,5,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,6,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,7,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,perez,PER,11,Sergio,Pérez,force_india,Force India,8,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,sainz,SAI,55,Carlos,Sainz,renault,Renault,9,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,10,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,11,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,ocon,OCO,31,Esteban,Ocon,force_india,Force India,12,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,13,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,14,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,15,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,16,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,17,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,stroll,STR,18,Lance,Stroll,williams,Williams,18,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,19,,,,2018-3,qualifying
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,Shanghai International Circuit,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,20,,,,2018-3,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,1,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,2,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,3,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,4,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,5,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,6,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,ocon,OCO,31,Esteban,Ocon,force_india,Force India,7,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,perez,PER,11,Sergio,Pérez,force_india,Force India,8,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,9,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,sainz,SAI,55,Carlos,Sainz,renault,Renault,10,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,stroll,STR,18,Lance,Stroll,williams,Williams,11,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,12,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,13,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,14,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,15,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,16,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,17,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,18,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,19,,,,2018-4,qualifying
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,Baku City Circuit,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,20,,,,2018-4,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,2,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,3,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,4,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,5,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,6,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,7,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,8,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,sainz,SAI,55,Carlos,Sainz,renault,Renault,9,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,10,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,11,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,12,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,ocon,OCO,31,Esteban,Ocon,force_india,Force India,13,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,14,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,perez,PER,11,Sergio,Pérez,force_india,Force India,15,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,16,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,17,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,18,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,stroll,STR,18,Lance,Stroll,williams,Williams,19,,,,2018-5,qualifying
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,Circuit de Barcelona-Catalunya,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,20,,,,2018-5,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,1,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,2,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,3,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,4,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,5,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,ocon,OCO,31,Esteban,Ocon,force_india,Force India,6,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,7,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,sainz,SAI,55,Carlos,Sainz,renault,Renault,8,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,perez,PER,11,Sergio,Pérez,force_india,Force India,9,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,10,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,11,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,12,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,13,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,14,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,15,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,16,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,17,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,stroll,STR,18,Lance,Stroll,williams,Williams,18,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,19,,,,2018-6,qualifying
+2018,6,Monaco Grand Prix,2018-05-27,monaco,Circuit de Monaco,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,20,,,,2018-6,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,1,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,2,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,3,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,4,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,5,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,6,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,7,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,ocon,OCO,31,Esteban,Ocon,force_india,Force India,8,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,sainz,SAI,55,Carlos,Sainz,renault,Renault,9,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,perez,PER,11,Sergio,Pérez,force_india,Force India,10,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,11,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,12,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,13,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,14,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,15,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,16,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,stroll,STR,18,Lance,Stroll,williams,Williams,17,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,18,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,19,,,,2018-7,qualifying
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,Circuit Gilles Villeneuve,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,20,,,,2018-7,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,2,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,3,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,4,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,5,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,6,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,sainz,SAI,55,Carlos,Sainz,renault,Renault,7,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,8,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,9,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,10,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,ocon,OCO,31,Esteban,Ocon,force_india,Force India,11,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,12,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,perez,PER,11,Sergio,Pérez,force_india,Force India,13,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,14,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,15,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,16,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,17,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,18,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,19,,,,2018-8,qualifying
+2018,8,French Grand Prix,2018-06-24,ricard,Circuit Paul Ricard,stroll,STR,18,Lance,Stroll,williams,Williams,20,,,,2018-8,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,1,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,2,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,3,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,4,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,5,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,6,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,7,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,8,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,sainz,SAI,55,Carlos,Sainz,renault,Renault,9,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,10,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,ocon,OCO,31,Esteban,Ocon,force_india,Force India,11,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,12,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,13,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,14,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,stroll,STR,18,Lance,Stroll,williams,Williams,15,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,16,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,perez,PER,11,Sergio,Pérez,force_india,Force India,17,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,18,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,19,,,,2018-9,qualifying
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,Red Bull Ring,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,20,,,,2018-9,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,2,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,3,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,4,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,5,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,6,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,7,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,8,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,9,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,ocon,OCO,31,Esteban,Ocon,force_india,Force India,10,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,11,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,perez,PER,11,Sergio,Pérez,force_india,Force India,12,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,13,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,14,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,15,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,sainz,SAI,55,Carlos,Sainz,renault,Renault,16,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,17,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,18,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,stroll,STR,18,Lance,Stroll,williams,Williams,19,,,,2018-10,qualifying
+2018,10,British Grand Prix,2018-07-08,silverstone,Silverstone Circuit,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,20,,,,2018-10,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,1,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,2,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,3,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,4,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,5,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,6,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,7,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,sainz,SAI,55,Carlos,Sainz,renault,Renault,8,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,9,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,perez,PER,11,Sergio,Pérez,force_india,Force India,10,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,11,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,12,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,13,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,14,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,15,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,ocon,OCO,31,Esteban,Ocon,force_india,Force India,16,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,17,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,18,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,stroll,STR,18,Lance,Stroll,williams,Williams,19,,,,2018-11,qualifying
+2018,11,German Grand Prix,2018-07-22,hockenheimring,Hockenheimring,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,20,,,,2018-11,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,2,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,3,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,4,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,sainz,SAI,55,Carlos,Sainz,renault,Renault,5,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,6,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,7,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,8,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,9,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,10,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,11,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,12,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,13,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,14,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,stroll,STR,18,Lance,Stroll,williams,Williams,15,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,16,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,17,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,ocon,OCO,31,Esteban,Ocon,force_india,Force India,18,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,perez,PER,11,Sergio,Pérez,force_india,Force India,19,,,,2018-12,qualifying
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,Hungaroring,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,20,,,,2018-12,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,2,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,ocon,OCO,31,Esteban,Ocon,force_india,Force India,3,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,perez,PER,11,Sergio,Pérez,force_india,Force India,4,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,5,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,6,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,7,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,8,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,9,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,10,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,11,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,12,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,13,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,14,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,15,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,sainz,SAI,55,Carlos,Sainz,renault,Renault,16,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,17,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,18,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,stroll,STR,18,Lance,Stroll,williams,Williams,19,,,,2018-13,qualifying
+2018,13,Belgian Grand Prix,2018-08-26,spa,Circuit de Spa-Francorchamps,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,20,,,,2018-13,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,1,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,2,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,3,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,4,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,5,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,6,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,sainz,SAI,55,Carlos,Sainz,renault,Renault,7,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,ocon,OCO,31,Esteban,Ocon,force_india,Force India,8,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,9,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,stroll,STR,18,Lance,Stroll,williams,Williams,10,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,11,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,12,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,13,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,14,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,15,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,perez,PER,11,Sergio,Pérez,force_india,Force India,16,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,17,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,18,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,19,,,,2018-14,qualifying
+2018,14,Italian Grand Prix,2018-09-02,monza,Autodromo Nazionale di Monza,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,20,,,,2018-14,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,2,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,3,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,4,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,5,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,6,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,perez,PER,11,Sergio,Pérez,force_india,Force India,7,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,8,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,ocon,OCO,31,Esteban,Ocon,force_india,Force India,9,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,10,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,11,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,sainz,SAI,55,Carlos,Sainz,renault,Renault,12,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,13,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,14,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,15,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,16,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,17,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,18,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,19,,,,2018-15,qualifying
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,Marina Bay Street Circuit,stroll,STR,18,Lance,Stroll,williams,Williams,20,,,,2018-15,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,1,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,2,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,3,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,4,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,5,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,ocon,OCO,31,Esteban,Ocon,force_india,Force India,6,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,7,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,perez,PER,11,Sergio,Pérez,force_india,Force India,8,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,9,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,10,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,11,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,12,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,13,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,sainz,SAI,55,Carlos,Sainz,renault,Renault,14,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,15,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,16,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,17,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,18,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,19,,,,2018-16,qualifying
+2018,16,Russian Grand Prix,2018-09-30,sochi,Sochi Autodrom,stroll,STR,18,Lance,Stroll,williams,Williams,20,,,,2018-16,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,2,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,3,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,4,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,5,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,6,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,7,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,ocon,OCO,31,Esteban,Ocon,force_india,Force India,8,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,9,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,perez,PER,11,Sergio,Pérez,force_india,Force India,10,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,11,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,12,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,sainz,SAI,55,Carlos,Sainz,renault,Renault,13,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,stroll,STR,18,Lance,Stroll,williams,Williams,14,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,15,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,16,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,17,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,18,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,19,,,,2018-17,qualifying
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,Suzuka Circuit,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,20,,,,2018-17,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,2,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,3,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,4,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,5,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,ocon,OCO,31,Esteban,Ocon,force_india,Force India,6,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,7,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,8,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,9,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,perez,PER,11,Sergio,Pérez,force_india,Force India,10,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,sainz,SAI,55,Carlos,Sainz,renault,Renault,11,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,12,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,13,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,14,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,15,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,16,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,17,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,stroll,STR,18,Lance,Stroll,williams,Williams,18,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,19,,,,2018-18,qualifying
+2018,18,United States Grand Prix,2018-10-21,americas,Circuit of the Americas,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,20,,,,2018-18,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,1,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,2,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,3,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,4,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,5,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,6,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,7,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,sainz,SAI,55,Carlos,Sainz,renault,Renault,8,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,9,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,10,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,ocon,OCO,31,Esteban,Ocon,force_india,Force India,11,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,12,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,perez,PER,11,Sergio,Pérez,force_india,Force India,13,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,14,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,15,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,16,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,17,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,18,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,stroll,STR,18,Lance,Stroll,williams,Williams,19,,,,2018-19,qualifying
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,Autódromo Hermanos Rodríguez,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,20,,,,2018-19,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,2,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,3,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,4,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,5,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,6,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,7,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,8,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,9,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,10,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,11,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,perez,PER,11,Sergio,Pérez,force_india,Force India,12,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,ocon,OCO,31,Esteban,Ocon,force_india,Force India,13,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,14,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,15,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,sainz,SAI,55,Carlos,Sainz,renault,Renault,16,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,17,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,18,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,stroll,STR,18,Lance,Stroll,williams,Williams,19,,,,2018-20,qualifying
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,Autódromo José Carlos Pace,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,20,,,,2018-20,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,hamilton,HAM,44,Lewis,Hamilton,mercedes,Mercedes,1,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,bottas,BOT,77,Valtteri,Bottas,mercedes,Mercedes,2,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,vettel,VET,5,Sebastian,Vettel,ferrari,Ferrari,3,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,raikkonen,RAI,7,Kimi,Räikkönen,ferrari,Ferrari,4,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,ricciardo,RIC,3,Daniel,Ricciardo,red_bull,Red Bull,5,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,max_verstappen,VER,3,Max,Verstappen,red_bull,Red Bull,6,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,grosjean,GRO,8,Romain,Grosjean,haas,Haas F1 Team,7,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,leclerc,LEC,16,Charles,Leclerc,sauber,Sauber,8,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,ocon,OCO,31,Esteban,Ocon,force_india,Force India,9,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,hulkenberg,HUL,27,Nico,Hülkenberg,renault,Renault,10,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,sainz,SAI,55,Carlos,Sainz,renault,Renault,11,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,ericsson,ERI,9,Marcus,Ericsson,sauber,Sauber,12,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,kevin_magnussen,MAG,20,Kevin,Magnussen,haas,Haas F1 Team,13,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,perez,PER,11,Sergio,Pérez,force_india,Force India,14,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,alonso,ALO,14,Fernando,Alonso,mclaren,McLaren,15,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,brendon_hartley,HAR,28,Brendon,Hartley,toro_rosso,Toro Rosso,16,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,gasly,GAS,10,Pierre,Gasly,toro_rosso,Toro Rosso,17,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,vandoorne,VAN,2,Stoffel,Vandoorne,mclaren,McLaren,18,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,sirotkin,SIR,35,Sergey,Sirotkin,williams,Williams,19,,,,2018-21,qualifying
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,Yas Marina Circuit,stroll,STR,18,Lance,Stroll,williams,Williams,20,,,,2018-21,qualifying

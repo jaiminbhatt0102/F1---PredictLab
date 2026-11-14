@@ -1,0 +1,407 @@
+{
+  "model": "GradientBoostingClassifier (same settings for baseline and enhanced)",
+  "production_artifacts_modified": false,
+  "join_keys": [
+    "season",
+    "round",
+    "circuit_id"
+  ],
+  "weather_source": "Open-Meteo Previous Runs API",
+  "temperature_experiment": {
+    "dataset": "data\\features\\race_training_weather_temperature_experimental.csv",
+    "weather_feature": "temperature_c",
+    "folds": {
+      "2023": {
+        "train_seasons": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022
+        ],
+        "test_season": 2023,
+        "targets": {
+          "target_win": {
+            "train_rows": 2060,
+            "test_rows": 440,
+            "train_seasons": [
+              2018,
+              2019,
+              2020,
+              2021,
+              2022
+            ],
+            "test_seasons": [
+              2023
+            ],
+            "baseline": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.9818181818181818,
+              "precision_at_0_5": 0.9375,
+              "recall_at_0_5": 0.6818181818181818,
+              "brier_score": 0.015229145529729772,
+              "log_loss": 0.05601168218580204,
+              "roc_auc": 0.9912461939973901
+            },
+            "weather_enhanced": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.9840909090909091,
+              "precision_at_0_5": 0.9411764705882353,
+              "recall_at_0_5": 0.7272727272727273,
+              "brier_score": 0.015408602825703081,
+              "log_loss": 0.05651023529276724,
+              "roc_auc": 0.9915724227925184
+            }
+          },
+          "target_podium": {
+            "train_rows": 2060,
+            "test_rows": 440,
+            "train_seasons": [
+              2018,
+              2019,
+              2020,
+              2021,
+              2022
+            ],
+            "test_seasons": [
+              2023
+            ],
+            "baseline": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.9022727272727272,
+              "precision_at_0_5": 0.6885245901639344,
+              "recall_at_0_5": 0.6363636363636364,
+              "brier_score": 0.07310248978430774,
+              "log_loss": 0.23562372729873593,
+              "roc_auc": 0.9250931777669746
+            },
+            "weather_enhanced": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.9,
+              "precision_at_0_5": 0.6774193548387096,
+              "recall_at_0_5": 0.6363636363636364,
+              "brier_score": 0.07174414265596489,
+              "log_loss": 0.23244996142420432,
+              "roc_auc": 0.9264908442715928
+            }
+          }
+        }
+      },
+      "2024": {
+        "train_seasons": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023
+        ],
+        "test_season": 2024,
+        "targets": {
+          "target_win": {
+            "train_rows": 2500,
+            "test_rows": 479,
+            "train_seasons": [
+              2018,
+              2019,
+              2020,
+              2021,
+              2022,
+              2023
+            ],
+            "test_seasons": [
+              2024
+            ],
+            "baseline": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.9478079331941545,
+              "precision_at_0_5": 0.47058823529411764,
+              "recall_at_0_5": 0.3333333333333333,
+              "brier_score": 0.04248632329523111,
+              "log_loss": 0.14754937534072277,
+              "roc_auc": 0.9297161172161172
+            },
+            "weather_enhanced": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.9498956158663883,
+              "precision_at_0_5": 0.5,
+              "recall_at_0_5": 0.3333333333333333,
+              "brier_score": 0.04226620703983662,
+              "log_loss": 0.14896726847400302,
+              "roc_auc": 0.9277014652014652
+            }
+          },
+          "target_podium": {
+            "train_rows": 2500,
+            "test_rows": 479,
+            "train_seasons": [
+              2018,
+              2019,
+              2020,
+              2021,
+              2022,
+              2023
+            ],
+            "test_seasons": [
+              2024
+            ],
+            "baseline": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.8830897703549061,
+              "precision_at_0_5": 0.6111111111111112,
+              "recall_at_0_5": 0.6111111111111112,
+              "brier_score": 0.07473701096084259,
+              "log_loss": 0.23823884979637017,
+              "roc_auc": 0.9256074256074257
+            },
+            "weather_enhanced": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.8851774530271399,
+              "precision_at_0_5": 0.6133333333333333,
+              "recall_at_0_5": 0.6388888888888888,
+              "brier_score": 0.07484595192225542,
+              "log_loss": 0.23844866917777655,
+              "roc_auc": 0.925982800982801
+            }
+          }
+        }
+      },
+      "2025": {
+        "train_seasons": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ],
+        "test_season": 2025,
+        "targets": {
+          "target_win": {
+            "train_rows": 2979,
+            "test_rows": 479,
+            "train_seasons": [
+              2018,
+              2019,
+              2020,
+              2021,
+              2022,
+              2023,
+              2024
+            ],
+            "test_seasons": [
+              2025
+            ],
+            "baseline": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.954070981210856,
+              "precision_at_0_5": 0.625,
+              "recall_at_0_5": 0.20833333333333334,
+              "brier_score": 0.030141863905676566,
+              "log_loss": 0.09558285480859899,
+              "roc_auc": 0.9681318681318681
+            },
+            "weather_enhanced": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.954070981210856,
+              "precision_at_0_5": 0.625,
+              "recall_at_0_5": 0.20833333333333334,
+              "brier_score": 0.030229179122114307,
+              "log_loss": 0.09625302935651629,
+              "roc_auc": 0.9661630036630037
+            }
+          },
+          "target_podium": {
+            "train_rows": 2979,
+            "test_rows": 479,
+            "train_seasons": [
+              2018,
+              2019,
+              2020,
+              2021,
+              2022,
+              2023,
+              2024
+            ],
+            "test_seasons": [
+              2025
+            ],
+            "baseline": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.9039665970772442,
+              "precision_at_0_5": 0.6547619047619048,
+              "recall_at_0_5": 0.7638888888888888,
+              "brier_score": 0.07118604307701698,
+              "log_loss": 0.23289355550035487,
+              "roc_auc": 0.9325006825006824
+            },
+            "weather_enhanced": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.8977035490605428,
+              "precision_at_0_5": 0.6352941176470588,
+              "recall_at_0_5": 0.75,
+              "brier_score": 0.07124233714277539,
+              "log_loss": 0.23286058117574818,
+              "roc_auc": 0.931920556920557
+            }
+          }
+        }
+      }
+    }
+  },
+  "six_variable_experiment": {
+    "dataset": "data\\features\\race_training_weather_six_variable_experimental.csv",
+    "weather_features": [
+      "temperature_c",
+      "relative_humidity_pct",
+      "precipitation_mm",
+      "cloud_cover_pct",
+      "wind_speed_kmh",
+      "wind_direction_deg"
+    ],
+    "evaluation": {
+      "target_win": {
+        "train_rows": 479,
+        "test_rows": 479,
+        "train_seasons": [
+          2024
+        ],
+        "test_seasons": [
+          2025
+        ],
+        "baseline": {
+          "rows": 479,
+          "positive_count": 24,
+          "positive_rate": 0.05010438413361169,
+          "accuracy_at_0_5": 0.9603340292275574,
+          "precision_at_0_5": 0.7272727272727273,
+          "recall_at_0_5": 0.3333333333333333,
+          "brier_score": 0.03243421759319842,
+          "log_loss": 0.11398698770522589,
+          "roc_auc": 0.952014652014652
+        },
+        "weather_enhanced": {
+          "rows": 479,
+          "positive_count": 24,
+          "positive_rate": 0.05010438413361169,
+          "accuracy_at_0_5": 0.9603340292275574,
+          "precision_at_0_5": 0.7272727272727273,
+          "recall_at_0_5": 0.3333333333333333,
+          "brier_score": 0.03330694525879205,
+          "log_loss": 0.11290041043861102,
+          "roc_auc": 0.9520146520146521
+        }
+      },
+      "target_podium": {
+        "train_rows": 479,
+        "test_rows": 479,
+        "train_seasons": [
+          2024
+        ],
+        "test_seasons": [
+          2025
+        ],
+        "baseline": {
+          "rows": 479,
+          "positive_count": 72,
+          "positive_rate": 0.15031315240083507,
+          "accuracy_at_0_5": 0.8851774530271399,
+          "precision_at_0_5": 0.6103896103896104,
+          "recall_at_0_5": 0.6527777777777778,
+          "brier_score": 0.07231399157811935,
+          "log_loss": 0.2331146343288788,
+          "roc_auc": 0.929548867048867
+        },
+        "weather_enhanced": {
+          "rows": 479,
+          "positive_count": 72,
+          "positive_rate": 0.15031315240083507,
+          "accuracy_at_0_5": 0.8977035490605428,
+          "precision_at_0_5": 0.6533333333333333,
+          "recall_at_0_5": 0.6805555555555556,
+          "brier_score": 0.07065628973266003,
+          "log_loss": 0.22956631006526446,
+          "roc_auc": 0.9312551187551187
+        }
+      }
+    },
+    "caveat": "Trained on 2024 and tested on 2025. Only one season of training data and 24 distinct training race-weather observations; exploratory only."
+  },
+  "join_diagnostics": {
+    "base_rows": 3810,
+    "merged_rows": 3810,
+    "rows_with_weather_match": 1838,
+    "unique_races_with_temperature": 92
+  },
+  "weather_coverage_by_season": {
+    "2022": {
+      "races": 22,
+      "non_null_races": {
+        "temperature_c": 22,
+        "relative_humidity_pct": 0,
+        "precipitation_mm": 0,
+        "cloud_cover_pct": 0,
+        "wind_speed_kmh": 0,
+        "wind_direction_deg": 0
+      }
+    },
+    "2023": {
+      "races": 22,
+      "non_null_races": {
+        "temperature_c": 22,
+        "relative_humidity_pct": 0,
+        "precipitation_mm": 0,
+        "cloud_cover_pct": 0,
+        "wind_speed_kmh": 0,
+        "wind_direction_deg": 0
+      }
+    },
+    "2024": {
+      "races": 24,
+      "non_null_races": {
+        "temperature_c": 24,
+        "relative_humidity_pct": 24,
+        "precipitation_mm": 24,
+        "cloud_cover_pct": 24,
+        "wind_speed_kmh": 24,
+        "wind_direction_deg": 24
+      }
+    },
+    "2025": {
+      "races": 24,
+      "non_null_races": {
+        "temperature_c": 24,
+        "relative_humidity_pct": 24,
+        "precipitation_mm": 24,
+        "cloud_cover_pct": 24,
+        "wind_speed_kmh": 24,
+        "wind_direction_deg": 24
+      }
+    }
+  }
+}

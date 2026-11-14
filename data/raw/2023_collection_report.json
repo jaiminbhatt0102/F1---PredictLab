@@ -1,0 +1,97 @@
+{
+  "season": 2023,
+  "requests": [
+    {
+      "endpoint": "2023/results?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 0
+    },
+    {
+      "endpoint": "2023/results?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 100
+    },
+    {
+      "endpoint": "2023/results?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 200
+    },
+    {
+      "endpoint": "2023/results?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 300
+    },
+    {
+      "endpoint": "2023/results?limit=100&offset=400",
+      "status": "ok",
+      "rows_returned": 40,
+      "total_reported": 440,
+      "offset": 400
+    },
+    {
+      "endpoint": "2023/qualifying?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 0
+    },
+    {
+      "endpoint": "2023/qualifying?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 100
+    },
+    {
+      "endpoint": "2023/qualifying?limit=100&offset=200",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 200
+    },
+    {
+      "endpoint": "2023/qualifying?limit=100&offset=300",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 440,
+      "offset": 300
+    },
+    {
+      "endpoint": "2023/qualifying?limit=100&offset=400",
+      "status": "ok",
+      "rows_returned": 40,
+      "total_reported": 440,
+      "offset": 400
+    },
+    {
+      "endpoint": "2023/sprint?limit=100&offset=0",
+      "status": "ok",
+      "rows_returned": 100,
+      "total_reported": 120
+    },
+    {
+      "endpoint": "2023/sprint?limit=100&offset=100",
+      "status": "ok",
+      "rows_returned": 20,
+      "total_reported": 120
+    }
+  ],
+  "row_counts": {
+    "race": 440,
+    "qualifying": 440,
+    "sprint": 120
+  },
+  "files": [
+    "data\\raw\\2023_race_results.csv",
+    "data\\raw\\2023_qualifying_results.csv",
+    "data\\raw\\2023_sprint_results.csv"
+  ]
+}

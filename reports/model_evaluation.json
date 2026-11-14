@@ -1,0 +1,811 @@
+{
+  "dataset_rows": 3832,
+  "seasons": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "features_used": [
+    "season",
+    "round",
+    "grid",
+    "qualifying_position",
+    "sprint_position",
+    "sprint_points",
+    "driver_prior_mean_finish_3",
+    "driver_prior_mean_points_3",
+    "driver_prior_race_count",
+    "driver_id",
+    "constructor_id",
+    "circuit_id"
+  ],
+  "training_options": {
+    "feature_choice": {
+      "chosen": "original inputs",
+      "validation_brier_by_option": {
+        "original inputs": 0.055084464747482575,
+        "plus team pace": 0.055220767802901215
+      },
+      "features": [
+        "season",
+        "round",
+        "grid",
+        "qualifying_position",
+        "sprint_position",
+        "sprint_points",
+        "driver_prior_mean_finish_3",
+        "driver_prior_mean_points_3",
+        "driver_prior_race_count"
+      ]
+    },
+    "recency_decay": 0.6,
+    "probabilities": "normalized_per_race",
+    "note": "Scores are computed after chances are adjusted to add up to 1 (win) or 3 (podium) within each race, exactly as predictions are made."
+  },
+  "features_excluded_for_leakage": [
+    "fastest_lap_number",
+    "fastest_lap_rank",
+    "fastest_lap_time",
+    "finish_position",
+    "milliseconds",
+    "position_text",
+    "race_points",
+    "race_points_num",
+    "race_position_num",
+    "race_status",
+    "target_podium",
+    "target_win",
+    "time"
+  ],
+  "validation": {
+    "validation_seasons": [
+      2022,
+      2023,
+      2024
+    ],
+    "model_summary": {
+      "target_win": {
+        "prior_baseline": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 68,
+          "positive_rate": 0.05003679175864607,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.95,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.047499999999999994,
+              "log_loss": 0.19851524334587256,
+              "roc_auc": 0.5
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.95,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.047499999999999994,
+              "log_loss": 0.19851524334587256,
+              "roc_auc": 0.5
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.9498956158663883,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.04759367102516207,
+              "log_loss": 0.19881975135935867,
+              "roc_auc": 0.5010531135531135
+            }
+          },
+          "accuracy_at_0_5": 0.949965205288796,
+          "precision_at_0_5": 0.0,
+          "recall_at_0_5": 0.0,
+          "brier_score": 0.047531223675054024,
+          "log_loss": 0.1986167460170346,
+          "roc_auc": 0.5003510378510378
+        },
+        "logistic_regression": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 68,
+          "positive_rate": 0.05003679175864607,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.9454545454545454,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.04115530489729787,
+              "log_loss": 0.15830267208252335,
+              "roc_auc": 0.8725532840365376
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.9568181818181818,
+              "precision_at_0_5": 1.0,
+              "recall_at_0_5": 0.13636363636363635,
+              "brier_score": 0.023887944895510865,
+              "log_loss": 0.08243642248412056,
+              "roc_auc": 0.9933666811657242
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.9436325678496869,
+              "precision_at_0_5": 0.3333333333333333,
+              "recall_at_0_5": 0.125,
+              "brier_score": 0.04082329185682127,
+              "log_loss": 0.1544603507355461,
+              "roc_auc": 0.8948717948717948
+            }
+          },
+          "accuracy_at_0_5": 0.9486350983741381,
+          "precision_at_0_5": 0.4444444444444444,
+          "recall_at_0_5": 0.08712121212121211,
+          "brier_score": 0.03528884721654333,
+          "log_loss": 0.13173314843406334,
+          "roc_auc": 0.9202639200246856
+        },
+        "random_forest": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 68,
+          "positive_rate": 0.05003679175864607,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.95,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.03535742299448455,
+              "log_loss": 0.11975331376955685,
+              "roc_auc": 0.960091344062636
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.9522727272727273,
+              "precision_at_0_5": 1.0,
+              "recall_at_0_5": 0.045454545454545456,
+              "brier_score": 0.025030533497975637,
+              "log_loss": 0.08803327472311057,
+              "roc_auc": 0.9957590256633319
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.954070981210856,
+              "precision_at_0_5": 1.0,
+              "recall_at_0_5": 0.08333333333333333,
+              "brier_score": 0.03657094004444664,
+              "log_loss": 0.12023453416338731,
+              "roc_auc": 0.9412087912087912
+            }
+          },
+          "accuracy_at_0_5": 0.9521145694945278,
+          "precision_at_0_5": 0.6666666666666666,
+          "recall_at_0_5": 0.04292929292929293,
+          "brier_score": 0.032319632178968945,
+          "log_loss": 0.10934037421868491,
+          "roc_auc": 0.9656863869782532
+        },
+        "extra_trees": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 68,
+          "positive_rate": 0.05003679175864607,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.95,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.03763605546986056,
+              "log_loss": 0.12783598699328544,
+              "roc_auc": 0.9399739016963897
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.95,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.028902029151257367,
+              "log_loss": 0.10016962830069791,
+              "roc_auc": 0.9933666811657242
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.9519832985386222,
+              "precision_at_0_5": 0.6666666666666666,
+              "recall_at_0_5": 0.08333333333333333,
+              "brier_score": 0.03922101237731239,
+              "log_loss": 0.1336683517412994,
+              "roc_auc": 0.9185897435897435
+            }
+          },
+          "accuracy_at_0_5": 0.950661099512874,
+          "precision_at_0_5": 0.2222222222222222,
+          "recall_at_0_5": 0.027777777777777776,
+          "brier_score": 0.03525303233281011,
+          "log_loss": 0.12055798901176092,
+          "roc_auc": 0.9506434421506191
+        },
+        "gradient_boosting": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 68,
+          "positive_rate": 0.05003679175864607,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.9522727272727273,
+              "precision_at_0_5": 0.5454545454545454,
+              "recall_at_0_5": 0.2727272727272727,
+              "brier_score": 0.0337799135430773,
+              "log_loss": 0.11006196216840694,
+              "roc_auc": 0.954654197477164
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.9863636363636363,
+              "precision_at_0_5": 0.9444444444444444,
+              "recall_at_0_5": 0.7727272727272727,
+              "brier_score": 0.012665479126390811,
+              "log_loss": 0.0477724267331747,
+              "roc_auc": 0.9961939973901696
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.9352818371607515,
+              "precision_at_0_5": 0.34782608695652173,
+              "recall_at_0_5": 0.3333333333333333,
+              "brier_score": 0.04544800456060027,
+              "log_loss": 0.15782207169589904,
+              "roc_auc": 0.9272893772893773
+            }
+          },
+          "accuracy_at_0_5": 0.9579727335990383,
+          "precision_at_0_5": 0.6125750256185039,
+          "recall_at_0_5": 0.45959595959595956,
+          "brier_score": 0.03063113241002279,
+          "log_loss": 0.10521882019916022,
+          "roc_auc": 0.9593791907189037
+        },
+        "hist_gradient_boosting": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 68,
+          "positive_rate": 0.05003679175864607,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.9522727272727273,
+              "precision_at_0_5": 0.5384615384615384,
+              "recall_at_0_5": 0.3181818181818182,
+              "brier_score": 0.03387827389326699,
+              "log_loss": 0.11019935921385866,
+              "roc_auc": 0.9506307090039148
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 22,
+              "positive_rate": 0.05,
+              "accuracy_at_0_5": 0.9840909090909091,
+              "precision_at_0_5": 0.9411764705882353,
+              "recall_at_0_5": 0.7272727272727273,
+              "brier_score": 0.011013347187179685,
+              "log_loss": 0.04033958600271377,
+              "roc_auc": 0.9954327968682036
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 24,
+              "positive_rate": 0.05010438413361169,
+              "accuracy_at_0_5": 0.9373695198329853,
+              "precision_at_0_5": 0.36363636363636365,
+              "recall_at_0_5": 0.3333333333333333,
+              "brier_score": 0.050504535299025474,
+              "log_loss": 0.181579704713402,
+              "roc_auc": 0.9342490842490844
+            }
+          },
+          "accuracy_at_0_5": 0.9579110520655406,
+          "precision_at_0_5": 0.6144247908953792,
+          "recall_at_0_5": 0.45959595959595956,
+          "brier_score": 0.031798718793157384,
+          "log_loss": 0.1107062166433248,
+          "roc_auc": 0.9601041967070677
+        }
+      },
+      "target_podium": {
+        "prior_baseline": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 204,
+          "positive_rate": 0.15011037527593818,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.85,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.12749999999999997,
+              "log_loss": 0.422709087805991,
+              "roc_auc": 0.5
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.85,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.12749999999999997,
+              "log_loss": 0.422709087805991,
+              "roc_auc": 0.5
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.8496868475991649,
+              "precision_at_0_5": 0.0,
+              "recall_at_0_5": 0.0,
+              "brier_score": 0.12771673442478848,
+              "log_loss": 0.42324272353460823,
+              "roc_auc": 0.5011773136773137
+            }
+          },
+          "accuracy_at_0_5": 0.8498956158663883,
+          "precision_at_0_5": 0.0,
+          "recall_at_0_5": 0.0,
+          "brier_score": 0.12757224480826282,
+          "log_loss": 0.42288696638219675,
+          "roc_auc": 0.5003924378924379
+        },
+        "logistic_regression": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 204,
+          "positive_rate": 0.15011037527593818,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.8704545454545455,
+              "precision_at_0_5": 0.9090909090909091,
+              "recall_at_0_5": 0.15151515151515152,
+              "brier_score": 0.07644484815940567,
+              "log_loss": 0.2671578226301612,
+              "roc_auc": 0.9438300113433804
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.875,
+              "precision_at_0_5": 0.6037735849056604,
+              "recall_at_0_5": 0.48484848484848486,
+              "brier_score": 0.08706265120454178,
+              "log_loss": 0.26821333515201023,
+              "roc_auc": 0.8993274995948792
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.860125260960334,
+              "precision_at_0_5": 0.6,
+              "recall_at_0_5": 0.20833333333333334,
+              "brier_score": 0.08220744577881725,
+              "log_loss": 0.2544516874817757,
+              "roc_auc": 0.9208299208299208
+            }
+          },
+          "accuracy_at_0_5": 0.8685266021382931,
+          "precision_at_0_5": 0.7042881646655231,
+          "recall_at_0_5": 0.2815656565656566,
+          "brier_score": 0.08190498171425489,
+          "log_loss": 0.263274281754649,
+          "roc_auc": 0.9213291439227268
+        },
+        "random_forest": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 204,
+          "positive_rate": 0.15011037527593818,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.8704545454545455,
+              "precision_at_0_5": 0.7142857142857143,
+              "recall_at_0_5": 0.22727272727272727,
+              "brier_score": 0.07074298618888941,
+              "log_loss": 0.2261812002488552,
+              "roc_auc": 0.9548290390536379
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.8772727272727273,
+              "precision_at_0_5": 0.6875,
+              "recall_at_0_5": 0.3333333333333333,
+              "brier_score": 0.07942634117702978,
+              "log_loss": 0.2480657578301039,
+              "roc_auc": 0.919056878949927
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.8643006263048016,
+              "precision_at_0_5": 0.6521739130434783,
+              "recall_at_0_5": 0.20833333333333334,
+              "brier_score": 0.07762241130462422,
+              "log_loss": 0.24469041220296073,
+              "roc_auc": 0.9345140595140595
+            }
+          },
+          "accuracy_at_0_5": 0.8706759663440248,
+          "precision_at_0_5": 0.6846532091097309,
+          "recall_at_0_5": 0.2563131313131313,
+          "brier_score": 0.0759305795568478,
+          "log_loss": 0.23964579009397327,
+          "roc_auc": 0.9361333258392083
+        },
+        "extra_trees": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 204,
+          "positive_rate": 0.15011037527593818,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.8704545454545455,
+              "precision_at_0_5": 0.6956521739130435,
+              "recall_at_0_5": 0.24242424242424243,
+              "brier_score": 0.076061450971052,
+              "log_loss": 0.23998767660523254,
+              "roc_auc": 0.9484281315832118
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.884090909090909,
+              "precision_at_0_5": 0.8571428571428571,
+              "recall_at_0_5": 0.2727272727272727,
+              "brier_score": 0.08709688031871093,
+              "log_loss": 0.26777851222061394,
+              "roc_auc": 0.9010695187165776
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.8580375782881002,
+              "precision_at_0_5": 0.625,
+              "recall_at_0_5": 0.1388888888888889,
+              "brier_score": 0.0840567721784211,
+              "log_loss": 0.26218051659000824,
+              "roc_auc": 0.924993174993175
+            }
+          },
+          "accuracy_at_0_5": 0.8708610109445182,
+          "precision_at_0_5": 0.7259316770186336,
+          "recall_at_0_5": 0.218013468013468,
+          "brier_score": 0.08240503448939468,
+          "log_loss": 0.2566489018052849,
+          "roc_auc": 0.9248302750976549
+        },
+        "gradient_boosting": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 204,
+          "positive_rate": 0.15011037527593818,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.8931818181818182,
+              "precision_at_0_5": 0.6417910447761194,
+              "recall_at_0_5": 0.6515151515151515,
+              "brier_score": 0.06550199650847768,
+              "log_loss": 0.20747997179349692,
+              "roc_auc": 0.9459163830821585
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.9090909090909091,
+              "precision_at_0_5": 0.7241379310344828,
+              "recall_at_0_5": 0.6363636363636364,
+              "brier_score": 0.06819269106608339,
+              "log_loss": 0.22021437085123183,
+              "roc_auc": 0.9328107275968238
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.8810020876826722,
+              "precision_at_0_5": 0.6119402985074627,
+              "recall_at_0_5": 0.5694444444444444,
+              "brier_score": 0.07586139936410463,
+              "log_loss": 0.23817979348331164,
+              "roc_auc": 0.9248566748566751
+            }
+          },
+          "accuracy_at_0_5": 0.8944249383184665,
+          "precision_at_0_5": 0.6592897581060216,
+          "recall_at_0_5": 0.619107744107744,
+          "brier_score": 0.06985202897955524,
+          "log_loss": 0.22195804537601346,
+          "roc_auc": 0.9345279285118858
+        },
+        "hist_gradient_boosting": {
+          "folds": 3,
+          "rows": 1359,
+          "positive_count": 204,
+          "positive_rate": 0.15011037527593818,
+          "by_season": {
+            "2022": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.8886363636363637,
+              "precision_at_0_5": 0.6545454545454545,
+              "recall_at_0_5": 0.5454545454545454,
+              "brier_score": 0.07654779569332004,
+              "log_loss": 0.3241126076417102,
+              "roc_auc": 0.9387862583049749
+            },
+            "2023": {
+              "rows": 440,
+              "positive_count": 66,
+              "positive_rate": 0.15,
+              "accuracy_at_0_5": 0.8954545454545455,
+              "precision_at_0_5": 0.6666666666666666,
+              "recall_at_0_5": 0.6060606060606061,
+              "brier_score": 0.0777320508642214,
+              "log_loss": 0.28854394238744363,
+              "roc_auc": 0.9168692270296549
+            },
+            "2024": {
+              "rows": 479,
+              "positive_count": 72,
+              "positive_rate": 0.15031315240083507,
+              "accuracy_at_0_5": 0.8872651356993737,
+              "precision_at_0_5": 0.640625,
+              "recall_at_0_5": 0.5694444444444444,
+              "brier_score": 0.08083078554788184,
+              "log_loss": 0.31349103406523116,
+              "roc_auc": 0.9252320502320502
+            }
+          },
+          "accuracy_at_0_5": 0.8904520149300943,
+          "precision_at_0_5": 0.6539457070707071,
+          "recall_at_0_5": 0.5736531986531986,
+          "brier_score": 0.07837021070180776,
+          "log_loss": 0.308715861364795,
+          "roc_auc": 0.9269625118555601
+        }
+      }
+    },
+    "selection_metric": "lowest mean Brier score, then lowest mean log loss"
+  },
+  "final_holdout": {
+    "season": 2025,
+    "training_seasons": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "model_summary": {
+      "target_win": {
+        "prior_baseline": {
+          "rows": 479,
+          "positive_count": 24,
+          "positive_rate": 0.05010438413361169,
+          "accuracy_at_0_5": 0.9498956158663883,
+          "precision_at_0_5": 0.0,
+          "recall_at_0_5": 0.0,
+          "brier_score": 0.047593671025162085,
+          "log_loss": 0.19881975135935867,
+          "roc_auc": 0.5010531135531135
+        },
+        "logistic_regression": {
+          "rows": 479,
+          "positive_count": 24,
+          "positive_rate": 0.05010438413361169,
+          "accuracy_at_0_5": 0.9498956158663883,
+          "precision_at_0_5": 0.0,
+          "recall_at_0_5": 0.0,
+          "brier_score": 0.03494821170901076,
+          "log_loss": 0.1112195830174511,
+          "roc_auc": 0.9565934065934066
+        },
+        "random_forest": {
+          "rows": 479,
+          "positive_count": 24,
+          "positive_rate": 0.05010438413361169,
+          "accuracy_at_0_5": 0.9498956158663883,
+          "precision_at_0_5": 0.0,
+          "recall_at_0_5": 0.0,
+          "brier_score": 0.032557663854691436,
+          "log_loss": 0.10478718738130978,
+          "roc_auc": 0.9667582417582418
+        },
+        "extra_trees": {
+          "rows": 479,
+          "positive_count": 24,
+          "positive_rate": 0.05010438413361169,
+          "accuracy_at_0_5": 0.9498956158663883,
+          "precision_at_0_5": 0.0,
+          "recall_at_0_5": 0.0,
+          "brier_score": 0.035151518794968,
+          "log_loss": 0.1159423414099275,
+          "roc_auc": 0.9578754578754579
+        },
+        "gradient_boosting": {
+          "rows": 479,
+          "positive_count": 24,
+          "positive_rate": 0.05010438413361169,
+          "accuracy_at_0_5": 0.9582463465553236,
+          "precision_at_0_5": 0.6428571428571429,
+          "recall_at_0_5": 0.375,
+          "brier_score": 0.02855532870857905,
+          "log_loss": 0.09055404573415131,
+          "roc_auc": 0.9692307692307692
+        },
+        "hist_gradient_boosting": {
+          "rows": 479,
+          "positive_count": 24,
+          "positive_rate": 0.05010438413361169,
+          "accuracy_at_0_5": 0.9582463465553236,
+          "precision_at_0_5": 0.625,
+          "recall_at_0_5": 0.4166666666666667,
+          "brier_score": 0.029178741933130824,
+          "log_loss": 0.08994553537269635,
+          "roc_auc": 0.9686813186813187
+        }
+      },
+      "target_podium": {
+        "prior_baseline": {
+          "rows": 479,
+          "positive_count": 72,
+          "positive_rate": 0.15031315240083507,
+          "accuracy_at_0_5": 0.8496868475991649,
+          "precision_at_0_5": 0.0,
+          "recall_at_0_5": 0.0,
+          "brier_score": 0.12771673442478848,
+          "log_loss": 0.42324272353460823,
+          "roc_auc": 0.5011773136773137
+        },
+        "logistic_regression": {
+          "rows": 479,
+          "positive_count": 72,
+          "positive_rate": 0.15031315240083507,
+          "accuracy_at_0_5": 0.906054279749478,
+          "precision_at_0_5": 0.7647058823529411,
+          "recall_at_0_5": 0.5416666666666666,
+          "brier_score": 0.07172656515329846,
+          "log_loss": 0.2359816192910719,
+          "roc_auc": 0.9353330603330603
+        },
+        "random_forest": {
+          "rows": 479,
+          "positive_count": 72,
+          "positive_rate": 0.15031315240083507,
+          "accuracy_at_0_5": 0.906054279749478,
+          "precision_at_0_5": 0.8292682926829268,
+          "recall_at_0_5": 0.4722222222222222,
+          "brier_score": 0.0697181908496438,
+          "log_loss": 0.2291820881777964,
+          "roc_auc": 0.9494266994266994
+        },
+        "extra_trees": {
+          "rows": 479,
+          "positive_count": 72,
+          "positive_rate": 0.15031315240083507,
+          "accuracy_at_0_5": 0.8956158663883089,
+          "precision_at_0_5": 0.84375,
+          "recall_at_0_5": 0.375,
+          "brier_score": 0.07368700454235454,
+          "log_loss": 0.2390630974496455,
+          "roc_auc": 0.946014196014196
+        },
+        "gradient_boosting": {
+          "rows": 479,
+          "positive_count": 72,
+          "positive_rate": 0.15031315240083507,
+          "accuracy_at_0_5": 0.8997912317327766,
+          "precision_at_0_5": 0.6935483870967742,
+          "recall_at_0_5": 0.5972222222222222,
+          "brier_score": 0.0660280588023058,
+          "log_loss": 0.21572040813670068,
+          "roc_auc": 0.9415438165438166
+        },
+        "hist_gradient_boosting": {
+          "rows": 479,
+          "positive_count": 72,
+          "positive_rate": 0.15031315240083507,
+          "accuracy_at_0_5": 0.8851774530271399,
+          "precision_at_0_5": 0.6197183098591549,
+          "recall_at_0_5": 0.6111111111111112,
+          "brier_score": 0.07539474681063865,
+          "log_loss": 0.2478381102748946,
+          "roc_auc": 0.9205569205569206
+        }
+      }
+    },
+    "note": "This holdout is evaluated after model selection and is not used to select models."
+  },
+  "selected_models": {
+    "target_win": "gradient_boosting",
+    "target_podium": "gradient_boosting"
+  },
+  "production_fit_seasons": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "note": "Model selection uses rolling seasons before the final holdout. The 2025 holdout uses only earlier seasons. Production artifacts are refit on all available seasons only after validation and holdout evaluation are complete."
+}

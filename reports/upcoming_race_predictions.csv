@@ -1,0 +1,23 @@
+season,round,race_name,race_date,driver_id,driver_code,driver_given_name,driver_family_name,constructor_name,grid,qualifying_position,sprint_position,sprint_points,target_win_probability,target_win_rank,target_win_model,target_podium_probability,target_podium_rank,target_podium_model
+2026,17,Singapore Grand Prix,2026-10-11,max_verstappen,VER,Max,Verstappen,Red Bull,1,1,1,8.0,0.5729739916711244,1,gradient_boosting,0.8998977365405361,1,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,antonelli,ANT,Andrea Kimi,Antonelli,Mercedes,4,4,4,5.0,0.13257400273428951,2,gradient_boosting,0.7433551209803186,2,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,leclerc,LEC,Charles,Leclerc,Ferrari,2,2,3,6.0,0.09214333554473549,3,gradient_boosting,0.48404849916114084,3,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,hamilton,HAM,Lewis,Hamilton,Ferrari,3,3,2,7.0,0.03974705373410915,4,gradient_boosting,0.46917239244334735,4,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,russell,RUS,George,Russell,Mercedes,6,6,20,0.0,0.009014265659890625,5,gradient_boosting,0.11628045395108463,5,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,hadjar,HAD,Isack,Hadjar,Red Bull,22,22,18,0.0,0.00665831812072365,6,gradient_boosting,0.036561717423947364,7,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,lawson,LAW,Liam,Lawson,RB F1 Team,9,9,5,4.0,0.006647442329848526,7,gradient_boosting,0.015113408085113899,9,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,arvid_lindblad,LIN,Arvid,Lindblad,RB F1 Team,10,10,13,0.0,0.0034418539985883213,8,gradient_boosting,0.010373829418673836,12,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,norris,NOR,Lando,Norris,McLaren,5,5,8,1.0,0.002986012119238583,9,gradient_boosting,0.10625043566036299,6,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,piastri,PIA,Oscar,Piastri,McLaren,7,7,14,0.0,0.00294608688479134,10,gradient_boosting,0.03111006281421541,8,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,gasly,GAS,Pierre,Gasly,Alpine F1 Team,8,8,9,0.0,0.0028868482622835404,11,gradient_boosting,0.005616551533125191,21,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,hulkenberg,HUL,Nico,Hülkenberg,Audi,11,11,7,2.0,0.0024534943879399008,12,gradient_boosting,0.011024872072233991,10,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,ocon,OCO,Esteban,Ocon,Haas F1 Team,13,13,10,0.0,0.0024534943879399008,12,gradient_boosting,0.008173930738774733,14,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,bearman,BEA,Oliver,Bearman,Haas F1 Team,12,12,6,3.0,0.0024534943879399008,12,gradient_boosting,0.00992053746753091,13,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,sainz,SAI,Carlos,Sainz,Williams,14,14,12,0.0,0.0024534943879399008,12,gradient_boosting,0.005727437829195825,20,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,bortoleto,BOR,Gabriel,Bortoleto,Audi,15,15,16,0.0,0.0024534943879399008,12,gradient_boosting,0.00783218421602129,18,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,alonso,ALO,Fernando,Alonso,Aston Martin,17,17,11,0.0,0.0024534943879399008,12,gradient_boosting,0.007999198745562668,16,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,colapinto,COL,Franco,Colapinto,Alpine F1 Team,16,16,19,0.0,0.0024534943879399008,12,gradient_boosting,0.00807428271167493,15,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,albon,ALB,Alexander,Albon,Williams,18,18,15,0.0,0.0024534943879399008,12,gradient_boosting,0.01090704107409633,11,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,stroll,STR,Lance,Stroll,Aston Martin,19,19,22,0.0,0.0024534943879399008,12,gradient_boosting,0.005002381715708745,22,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,perez,PER,Sergio,Pérez,Cadillac F1 Team,20,20,21,0.0,0.0024534943879399008,12,gradient_boosting,0.007405121069345843,19,gradient_boosting
+2026,17,Singapore Grand Prix,2026-10-11,bottas,BOT,Valtteri,Bottas,Cadillac F1 Team,21,21,17,0.0,0.002315242351877873,22,gradient_boosting,0.00793883510100393,17,gradient_boosting

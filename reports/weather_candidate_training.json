@@ -1,0 +1,59 @@
+{
+  "dataset": "data\\features\\race_training_weather_temperature_experimental.csv",
+  "rows": 2212,
+  "seasons": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "features": [
+    "season",
+    "round",
+    "grid",
+    "qualifying_position",
+    "sprint_position",
+    "sprint_points",
+    "driver_prior_mean_finish_3",
+    "driver_prior_mean_points_3",
+    "driver_prior_race_count",
+    "temperature_c",
+    "driver_id",
+    "constructor_id",
+    "circuit_id"
+  ],
+  "targets": [
+    "target_win",
+    "target_podium"
+  ],
+  "candidates": {
+    "target_win": {
+      "hist_gradient_boosting": {
+        "artifact": "models\\weather_candidates\\target_win_temperature_hist_gradient_boosting.joblib",
+        "rows": 2212,
+        "trained_through_season": 2026
+      },
+      "random_forest": {
+        "artifact": "models\\weather_candidates\\target_win_temperature_random_forest.joblib",
+        "rows": 2212,
+        "trained_through_season": 2026
+      }
+    },
+    "target_podium": {
+      "hist_gradient_boosting": {
+        "artifact": "models\\weather_candidates\\target_podium_temperature_hist_gradient_boosting.joblib",
+        "rows": 2212,
+        "trained_through_season": 2026
+      },
+      "random_forest": {
+        "artifact": "models\\weather_candidates\\target_podium_temperature_random_forest.joblib",
+        "rows": 2212,
+        "trained_through_season": 2026
+      }
+    }
+  },
+  "production_artifacts_modified": false,
+  "selection_note": "HistGradientBoosting had the lowest mean Brier score across 2023-2025 temperature folds for both targets. RandomForest is also trained as a comparison candidate because the 2026 forward win fold was mixed. No candidate is promoted automatically.",
+  "timing_contract": "Historical temperature comes from Open-Meteo Previous Runs previous_day1 (forecast value at a 24-hour lead). For inference, use a forecast snapshot approximately 18-30 hours before scheduled race start."
+}

@@ -1,0 +1,34 @@
+circuit_id,circuit_name,api_circuit_name,latitude,longitude,locality,country,coordinate_source,verified
+albert_park,Albert Park Grand Prix Circuit,Albert Park Grand Prix Circuit,-37.8497,144.968,Melbourne,Australia,Jolpica circuits API,True
+americas,Circuit of the Americas,Circuit of the Americas,30.1328,-97.6411,Austin,USA,Jolpica circuits API,True
+bahrain,Bahrain International Circuit,Bahrain International Circuit,26.0325,50.5106,Sakhir,Bahrain,Jolpica circuits API,True
+baku,Baku City Circuit,Baku City Circuit,40.3725,49.8533,Baku,Azerbaijan,Jolpica circuits API,True
+catalunya,Circuit de Barcelona-Catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Barcelona,Spain,Jolpica circuits API,True
+hockenheimring,Hockenheimring,Hockenheimring,49.3278,8.56583,Hockenheim,Germany,Jolpica circuits API,True
+hungaroring,Hungaroring,Hungaroring,47.5789,19.2486,Budapest,Hungary,Jolpica circuits API,True
+imola,Autodromo Enzo e Dino Ferrari,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Imola,Italy,Jolpica circuits API,True
+interlagos,Autódromo José Carlos Pace,Autódromo José Carlos Pace,-23.7036,-46.6997,São Paulo,Brazil,Jolpica circuits API,True
+istanbul,Istanbul Park,Istanbul Park,40.9517,29.405,Istanbul,Turkey,Jolpica circuits API,True
+jeddah,Jeddah Corniche Circuit,Jeddah Corniche Circuit,21.6319,39.1044,Jeddah,Saudi Arabia,Jolpica circuits API,True
+losail,Lusail International Circuit,Lusail International Circuit,25.49,51.4542,Lusail,Qatar,Jolpica circuits API,True
+madring,Madring,Madring,40.46528,-3.61528,Madrid,Spain,Jolpica circuits API,True
+marina_bay,Marina Bay Street Circuit,Marina Bay Street Circuit,1.2914,103.864,Marina Bay,Singapore,Jolpica circuits API,True
+miami,Miami International Autodrome,Miami International Autodrome,25.9581,-80.2389,Miami,USA,Jolpica circuits API,True
+monaco,Circuit de Monaco,Circuit de Monaco,43.7347,7.42056,Monte Carlo,Monaco,Jolpica circuits API,True
+monza,Autodromo Nazionale di Monza,Autodromo Nazionale di Monza,45.6156,9.28111,Monza,Italy,Jolpica circuits API,True
+mugello,Autodromo Internazionale del Mugello,Autodromo Internazionale del Mugello,43.9975,11.3719,Mugello,Italy,Jolpica circuits API,True
+nurburgring,Nürburgring,Nürburgring,50.3356,6.9475,Nürburg,Germany,Jolpica circuits API,True
+portimao,Autódromo Internacional do Algarve,Autódromo Internacional do Algarve,37.227,-8.6267,Portimão,Portugal,Jolpica circuits API,True
+red_bull_ring,Red Bull Ring,Red Bull Ring,47.2197,14.7647,Spielberg,Austria,Jolpica circuits API,True
+ricard,Circuit Paul Ricard,Circuit Paul Ricard,43.2506,5.79167,Le Castellet,France,Jolpica circuits API,True
+rodriguez,Autódromo Hermanos Rodríguez,Autódromo Hermanos Rodríguez,19.4042,-99.0907,Mexico City,Mexico,Jolpica circuits API,True
+sepang,Sepang International Circuit,Sepang International Circuit,2.76083,101.738,Kuala Lumpur,Malaysia,Jolpica circuits API,True
+shanghai,Shanghai International Circuit,Shanghai International Circuit,31.3389,121.22,Shanghai,China,Jolpica circuits API,True
+silverstone,Silverstone Circuit,Silverstone Circuit,52.0786,-1.01694,Silverstone,UK,Jolpica circuits API,True
+sochi,Sochi Autodrom,Sochi Autodrom,43.4057,39.9578,Sochi,Russia,Jolpica circuits API,True
+spa,Circuit de Spa-Francorchamps,Circuit de Spa-Francorchamps,50.4372,5.97139,Spa,Belgium,Jolpica circuits API,True
+suzuka,Suzuka Circuit,Suzuka Circuit,34.8431,136.541,Suzuka,Japan,Jolpica circuits API,True
+vegas,Las Vegas Strip Street Circuit,Las Vegas Strip Street Circuit,36.1147,-115.173,Las Vegas,USA,Jolpica circuits API,True
+villeneuve,Circuit Gilles Villeneuve,Circuit Gilles Villeneuve,45.5,-73.5228,Montreal,Canada,Jolpica circuits API,True
+yas_marina,Yas Marina Circuit,Yas Marina Circuit,24.4672,54.6031,Abu Dhabi,UAE,Jolpica circuits API,True
+zandvoort,Circuit Park Zandvoort,Circuit Park Zandvoort,52.3888,4.54092,Zandvoort,Netherlands,Jolpica circuits API,True
